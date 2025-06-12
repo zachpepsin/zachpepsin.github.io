@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex">
+    <title>Song Library</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom font for better aesthetics */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Style for sort icons */
+        .sort-icon {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 0.5rem;
+            width: 1rem;
+            height: 1rem;
+        }
+        /* Hide default arrow for search input type="search" if it were used */
+        input[type="search"]::-webkit-search-decoration,
+        input[type="search"]::-webkit-search-cancel-button,
+        input[type="search"]::-webkit-search-results-button,
+        input[type="search"]::-webkit-search-results-decoration {
+            display: none;
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-indigo-50 to-blue-100 p-4 font-sans text-gray-800 antialiased">
+    <div class="container mx-auto max-w-4xl bg-white rounded-xl shadow-xl p-6 md:p-8">
+        <h1 class="text-3xl md:text-4xl font-extrabold text-center text-indigo-800 mb-6">
+            🎶 Song Library
+        </h1>
+
+        <!-- Search Bar -->
+        <div class="mb-6">
+            <input
+                type="text"
+                id="search-input"
+                placeholder="Search by artist, song, year, or genre..."
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition duration-200"
+            />
+        </div>
+
+        <!-- Song List Table -->
+        <div class="overflow-x-auto">
+            <table class="min-w-full bg-white rounded-lg overflow-hidden shadow-md">
+                <thead class="bg-indigo-600 text-white">
+                    <tr>
+                        <th class="py-3 px-4 text-left text-sm font-semibold cursor-pointer select-none" data-sort-key="artist">
+                            <div class="flex items-center gap-2">
+                                Artist
+                                <span class="sort-icon" id="sort-icon-artist">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-up"><path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="m21 8-4-4-4 4"/><path d="M17 4v16"/></svg>
+                                </span>
+                            </div>
+                        </th>
+                        <th class="py-3 px-4 text-left text-sm font-semibold cursor-pointer select-none" data-sort-key="name">
+                            <div class="flex items-center gap-2">
+                                Name
+                                <span class="sort-icon" id="sort-icon-name">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-up"><path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="m21 8-4-4-4 4"/><path d="M17 4v16"/></svg>
+                                </span>
+                            </div>
+                        </th>
+                        <th class="py-3 px-4 text-left text-sm font-semibold cursor-pointer select-none" data-sort-key="year">
+                            <div class="flex items-center gap-2">
+                                Year
+                                <span class="sort-icon" id="sort-icon-year">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-up"><path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="m21 8-4-4-4 4"/><path d="M17 4v16"/></svg>
+                                </span>
+                            </div>
+                        </th>
+                        <th class="py-3 px-4 text-left text-sm font-semibold cursor-pointer select-none" data-sort-key="genre">
+                            <div class="flex items-center gap-2">
+                                Genre
+                                <span class="sort-icon" id="sort-icon-genre">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-up"><path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="m21 8-4-4-4 4"/><path d="M17 4v16"/></svg>
+                                </span>
+                            </div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="song-list-body" class="divide-y divide-gray-200">
+                    <!-- Song rows will be inserted here by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <p class="text-center text-gray-500 text-sm mt-8">
+            Data loaded from `songs.json`.
+        </p>
+    </div>
+
+    <script>
+        // Initialize an empty array to hold song data
+        let songs = [];
+
+        // Changed default sort by to 'artist'
+        let currentSortBy = 'artist';
+        let currentSortOrder = 'asc'; // Default sort order
+
+        // Function to render songs into the table
+        function renderSongs(filteredAndSortedSongs) {
+            const tableBody = document.getElementById('song-list-body');
+            tableBody.innerHTML = ''; // Clear existing rows
+
+            if (filteredAndSortedSongs.length === 0) {
+                const noResultsRow = `
+                    <tr>
+                        <td colspan="4" class="py-8 text-center text-gray-500 text-lg">
+                            No songs found matching your criteria.
+                        </td>
+                    </tr>
+                `;
+                tableBody.innerHTML = noResultsRow;
+                return;
+            }
+
+            filteredAndSortedSongs.forEach(song => {
+                const row = document.createElement('tr');
+                row.classList.add('hover:bg-indigo-50', 'transition-colors', 'duration-150');
+                row.innerHTML = `
+                    <td class="py-3 px-4 text-sm">${song.artist || 'N/A'}</td>
+                    <td class="py-3 px-4 text-sm font-medium">${song.name || 'N/A'}</td>
+                    <td class="py-3 px-4 text-sm">${song.year || 'N/A'}</td>
+                    <td class="py-3 px-4 text-sm">${song.genre || 'N/A'}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        }
+
+        // Function to sort songs
+        function sortSongs(songsArray, sortBy, sortOrder) {
+            return [...songsArray].sort((a, b) => {
+                const aValue = a[sortBy];
+                const bValue = b[sortBy];
+
+                // Handle null/undefined values for sorting
+                if (aValue === null || aValue === undefined) return sortOrder === 'asc' ? 1 : -1;
+                if (bValue === null || bValue === undefined) return sortOrder === 'asc' ? -1 : 1;
+
+                // Handle string comparison (case-insensitive)
+                if (typeof aValue === 'string' && typeof bValue === 'string') {
+                    const result = aValue.localeCompare(bValue, undefined, { sensitivity: 'base' });
+                    return sortOrder === 'asc' ? result : -result;
+                }
+
+                // Handle numeric comparison
+                if (aValue < bValue) {
+                    return sortOrder === 'asc' ? -1 : 1;
+                }
+                if (aValue > bValue) {
+                    return sortOrder === 'asc' ? 1 : -1;
+                }
+                return 0;
+            });
+        }
+
+        // Function to filter songs
+        function filterSongs(songsArray, searchTerm) {
+            if (!searchTerm) {
+                return songsArray;
+            }
+            const lowerCaseSearchTerm = searchTerm.toLowerCase();
+            return songsArray.filter(song =>
+                (song.artist && song.artist.toLowerCase().includes(lowerCaseSearchTerm)) ||
+                (song.name && song.name.toLowerCase().includes(lowerCaseSearchTerm)) ||
+                (song.genre && song.genre.toLowerCase().includes(lowerCaseSearchTerm)) ||
+                (song.year && String(song.year).toLowerCase().includes(lowerCaseSearchTerm))
+            );
+        }
+
+        // Function to update sort icons
+        function updateSortIcons() {
+            const headers = document.querySelectorAll('th[data-sort-key]');
+            headers.forEach(header => {
+                const key = header.dataset.sortKey;
+                const iconContainer = document.getElementById(`sort-icon-${key}`);
+                if (!iconContainer) return; // Skip if icon container doesn't exist
+
+                let iconSvg = '';
+                if (key === currentSortBy) {
+                    // Current sort column
+                    iconSvg = currentSortOrder === 'asc'
+                        ? '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up"><path d="m5 12 7-7 7 7"/><path d="M12 19V5"/></svg>'
+                        : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down"><path d="m19 12-7 7-7-7"/><path d="M12 5v14"/></svg>';
+                } else {
+                    // Not the current sort column
+                    iconSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-up"><path d="m3 16 4 4 4-4"/><path d="M7 20V4"/><path d="m21 8-4-4-4 4"/><path d="M17 4v16"/></svg>';
+                }
+                iconContainer.innerHTML = iconSvg;
+            });
+        }
+
+
+        // Main update function to filter, sort, and render
+        function updateDisplay() {
+            const searchTerm = document.getElementById('search-input').value;
+            let processedSongs = filterSongs(songs, searchTerm);
+            processedSongs = sortSongs(processedSongs, currentSortBy, currentSortOrder);
+            renderSongs(processedSongs);
+            updateSortIcons(); // Update icons after sorting
+        }
+
+        // Event Listeners
+        document.addEventListener('DOMContentLoaded', () => {
+            // Fetch data from songs.json
+            fetch('songs.json') // Assuming songs.json is in the same directory as this HTML file
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    songs = data; // Assign fetched data to the songs array
+                    updateDisplay(); // Re-render the display with the fetched data
+                })
+                .catch(error => {
+                    console.error("Could not fetch songs.json:", error);
+                    const tableBody = document.getElementById('song-list-body');
+                    tableBody.innerHTML = `
+                        <tr>
+                            <td colspan="4" class="py-8 text-center text-red-500 text-lg">
+                                Error loading song data. Please ensure 'songs.json' exists.
+                            </td>
+                        </tr>
+                    `;
+                });
+
+            // Search input listener
+            document.getElementById('search-input').addEventListener('input', updateDisplay);
+
+            // Sort header listeners
+            document.querySelectorAll('th[data-sort-key]').forEach(header => {
+                header.addEventListener('click', (event) => {
+                    const newSortKey = header.dataset.sortKey;
+                    if (currentSortBy === newSortKey) {
+                        // Toggle sort order if same column clicked
+                        currentSortOrder = currentSortOrder === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        // Set new sort column, default to ascending
+                        currentSortBy = newSortKey;
+                        currentSortOrder = 'asc';
+                    }
+                    updateDisplay();
+                });
+            });
+        });
+    </script>
+</body>
+</html>
