@@ -1597,6 +1597,12 @@
     },
     {
         "artist": "Black Sabbath",
+        "name": "Changes",
+        "year": 1972,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Black Sabbath",
         "name": "Iron Man",
         "year": 1970,
         "genre": "Metal"
@@ -2446,6 +2452,12 @@
         "artist": "Creed",
         "genre": "Rock",
         "year": 1999
+    },
+    {
+        "artist": "Creed",
+        "name": "My Own Prison",
+        "year": 1997,
+        "genre": "Grunge"
     },
     {
         "artist": "Creed",
@@ -4761,6 +4773,12 @@
         "name": "All Summer Long",
         "year": 2007,
         "genre": "Southern Rock"
+    },
+    {
+        "name": "Bawitdaba",
+        "artist": "Kid Rock",
+        "genre": "Rap Rock",
+        "year": 1998
     },
     {
         "artist": "Kid Rock",
