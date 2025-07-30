@@ -18,62 +18,8 @@
         "genre": null
     },
     {
-        "artist": "AFI",
-        "name": "Medicate (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Alice in Chains",
         "name": "Man in the Box (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Anti-Flag",
-        "name": "We Are the One (RockGamer)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bad Company",
-        "name": "Shooting Star (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Better Than Ezra",
-        "name": "Good (Sygenysis + Nunchuck)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Billy Talent",
-        "name": "Turn Your Back (with Anti-Flag) (Mickelräven)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bloc Party",
-        "name": "This Modern Love (Asuka)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bo Burnham",
-        "name": "Bezos I (Keagan Dunn)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bo Burnham",
-        "name": "Bezos II (Keagan Dunn)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bo Burnham",
-        "name": "Bezos IV (Keagan Dunn)",
         "year": null,
         "genre": null
     },
@@ -110,24 +56,6 @@
     {
         "artist": "Boots Randolph",
         "name": "Yakety Sax (raphaelgoulart)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Boston",
-        "name": "Foreplay ／ Long Time (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Boston",
-        "name": "More Than a Feeling (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Boston",
-        "name": "Peace of Mind (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -198,12 +126,6 @@
         "genre": null
     },
     {
-        "artist": "Danzig",
-        "name": "Mother (Beenox,  Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Dashboard Confessional",
         "name": "Hands Down (Harmonix)",
         "year": null,
@@ -228,20 +150,8 @@
         "genre": null
     },
     {
-        "artist": "Europe",
-        "name": "The Final Countdown (Mickelräven)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Filter",
         "name": "Take a Picture (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Finley",
-        "name": "Tutto è Possibile (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -254,24 +164,6 @@
     {
         "artist": "Fleetwood Mac",
         "name": "Go Your Own Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Foster the People",
-        "name": "Don't Stop (Color on the Walls) (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Foster the People",
-        "name": "Helena Beat (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Foster the People",
-        "name": "Pumped Up Kicks (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -324,12 +216,6 @@
         "genre": null
     },
     {
-        "artist": "Interpol",
-        "name": "PDA (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Janis Joplin & the Full Tilt Boogie Band",
         "name": "Me and Bobby McGee (Harmonix)",
         "year": null,
@@ -378,24 +264,6 @@
         "genre": null
     },
     {
-        "artist": "Kasabian",
-        "name": "Club Foot (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "KoRn",
-        "name": "Freak on a Leash (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Lady Gaga",
-        "name": "Born This Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Led Zeppelin",
         "name": "Black Dog (Live) (Neversoft)",
         "year": null,
@@ -414,98 +282,8 @@
         "genre": null
     },
     {
-        "artist": "Linea 77",
-        "name": "Fantasma (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Linkin Park",
-        "name": "Breaking the Habit (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Linkin Park",
-        "name": "Crawling (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Linkin Park",
-        "name": "Numb (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Linkin Park",
-        "name": "One Step Closer (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Lit",
-        "name": "My Own Worst Enemy (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Litfiba",
-        "name": "Proibito (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Loverboy",
-        "name": "Working for the Weekend (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Lynyrd Skynyrd",
-        "name": "Free Bird (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Lynyrd Skynyrd",
-        "name": "Simple Man (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Lynyrd Skynyrd",
-        "name": "Sweet Home Alabama (Live) (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Machine Gun Kelly",
         "name": "make up sex (ft. blackbear) (ShantyCH)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Marcy Playground",
-        "name": "Sex and Candy (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Maroon 5",
-        "name": "This Love (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Maroon 5 ft. Christina Aguilera",
-        "name": "Moves Like Jagger (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Maxïmo Park",
-        "name": "Girls Who Play Guitars (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -540,80 +318,8 @@
         "genre": null
     },
     {
-        "artist": "Metric",
-        "name": "Gold Guns Girls (Smoochums)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Miley Cyrus",
-        "name": "See You Again (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Muse",
         "name": "Hysteria (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Neon Trees",
-        "name": "Animal (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "All Apologies (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "Drain You (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "Heart-Shaped Box (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "In Bloom (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "Polly (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "Rape Me (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Nirvana",
-        "name": "Smells Like Teen Spirit (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "OK Go",
-        "name": "Do What You Want (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "OK Go",
-        "name": "Here It Goes Again (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -626,24 +332,6 @@
     {
         "artist": "Ozzy Osbourne",
         "name": "Crazy Train (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Papa Roach",
-        "name": "Forever (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Papa Roach",
-        "name": "Time Is Running Out (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Paramore",
-        "name": "Crushcrushcrush (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -690,44 +378,14 @@
         "genre": null
     },
     {
-        "artist": "Pink Floyd",
-        "name": "Hey You (Sygenysis + Nunchuck, Dash Riprock)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Pixies",
         "name": "Hey (Harmonix)",
         "year": null,
         "genre": null
     },
     {
-        "artist": "Poison",
-        "name": "Every Rose Has Its Thorn (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Poison",
-        "name": "Nothin' but a Good Time (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Post Malone",
         "name": "I Had Some Help (feat. Morgan Wallen) (Miscellany)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Puddle of Mudd",
-        "name": "Blurry (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queen",
-        "name": "Bohemian Rhapsody (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -780,30 +438,6 @@
         "genre": null
     },
     {
-        "artist": "Rage Against the Machine",
-        "name": "Bulls on Parade (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Rage Against the Machine",
-        "name": "Guerrilla Radio (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Rage Against the Machine",
-        "name": "Killing in the Name (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Rage Against the Machine",
-        "name": "Testify (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Ramones",
         "name": "Blitzkrieg Bop (Harmonix)",
         "year": null,
@@ -816,68 +450,8 @@
         "genre": null
     },
     {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Breaking the Girl (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "By the Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Californication (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Scar Tissue (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Snow ((Hey Oh)) (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Suck My Kiss (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Tell Me Baby (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Red Hot Chili Peppers",
-        "name": "Under the Bridge (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Sabrina Carpenter",
         "name": "Espresso (Sad Normie)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Seether",
-        "name": "Fake It (WaveGroup)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Seether",
-        "name": "Rise Above This (RhythmAuthors)",
         "year": null,
         "genre": null
     },
@@ -900,146 +474,8 @@
         "genre": null
     },
     {
-        "artist": "Smash Mouth",
-        "name": "Walking on the Sun (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Soundgarden",
-        "name": "Black Hole Sun (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Soundgarden",
-        "name": "Spoonman (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Stone Sour",
-        "name": "Through Glass (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Stone Temple Pilots",
-        "name": "Creep (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Stone Temple Pilots",
-        "name": "Interstate Love Song (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Stone Temple Pilots",
-        "name": "Plush (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Stone Temple Pilots",
-        "name": "Vasoline (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Styx",
         "name": "Renegade (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Sublime",
-        "name": "Santeria (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Sublime",
-        "name": "What I Got (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Sublime",
-        "name": "Wrong Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Sugar Ray",
-        "name": "Fly (Sygenysis + Nunchuck)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Sugar Ray",
-        "name": "Someday (Sygenysis + Nunchuck)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Switchfoot",
-        "name": "Meant to Live (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "System of a Down",
-        "name": "Aerials (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "System of a Down",
-        "name": "B.Y.O.B. (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "System of a Down",
-        "name": "Hypnotize (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "System of a Down",
-        "name": "Toxicity (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Tame Impala",
-        "name": "The Less I Know the Better (Term)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Taylor Swift",
-        "name": "Love Story (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Taylor Swift",
-        "name": "Our Song (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Taylor Swift",
-        "name": "You Belong With Me (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Tears for Fears",
-        "name": "Everybody Wants to Rule the World (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -1140,60 +576,6 @@
         "genre": null
     },
     {
-        "artist": "The Offspring",
-        "name": "Come Out and Play (Keep 'Em Separated) (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Offspring",
-        "name": "Gone Away (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Offspring",
-        "name": "Hammerhead (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Offspring",
-        "name": "Pretty Fly (For a White Guy) (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Police",
-        "name": "Don't Stand So Close to Me (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Police",
-        "name": "Every Little Thing She Does Is Magic (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Police",
-        "name": "Message in a Bottle (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Police",
-        "name": "Roxanne (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Presidents of the United States of America",
-        "name": "Lump (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "The Raconteurs",
         "name": "Steady, As She Goes (Harmonix)",
         "year": null,
@@ -1214,42 +596,6 @@
     {
         "artist": "The Rolling Stones",
         "name": "Gimme Shelter (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Smashing Pumpkins",
-        "name": "1979 (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Smashing Pumpkins",
-        "name": "Bullet With Butterfly Wings (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Smashing Pumpkins",
-        "name": "Cherub Rock (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Smashing Pumpkins",
-        "name": "Today (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Strokes",
-        "name": "Reptilia (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Strokes",
-        "name": "Under Cover of Darkness (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -1284,44 +630,8 @@
         "genre": null
     },
     {
-        "artist": "Third Eye Blind",
-        "name": "Never Let You Go (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Third Eye Blind",
-        "name": "Semi-Charmed Life (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Toadies",
-        "name": "Possum Kingdom (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Train",
-        "name": "Drops of Jupiter (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Trapt",
         "name": "Headstrong (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Vampire Weekend",
-        "name": "A-Punk (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Van Halen",
-        "name": "Jump (Neversoft)",
         "year": null,
         "genre": null
     },
@@ -1338,16 +648,16 @@
         "genre": null
     },
     {
-        "artist": "Yes",
-        "name": "Roundabout (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "ZZ Top",
         "name": "Gimme All Your Lovin' (Neversoft)",
         "year": null,
         "genre": null
+    },
+    {
+        "artist": "2Pac",
+        "name": "California Love (ft. Dr. Dre)",
+        "year": 1996,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "name": "Here Without You",
@@ -1447,13 +757,13 @@
     },
     {
         "artist": "A Tribe Called Quest",
-        "name": "Scenario (feat. Busta Rhymes, Charlie Brown & Dinco D)",
+        "name": "Scenario (ft. Busta Rhymes, Charlie Brown & Dinco D)",
         "year": 1991,
         "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "A$AP Rocky",
-        "name": "Wild For The Night (feat. Skrillex)",
+        "name": "Wild For The Night (ft. Skrillex)",
         "year": 2013,
         "genre": "Hip-Hop/Rap"
     },
@@ -1474,6 +784,12 @@
         "name": "Dancing Queen",
         "year": 1976,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "ABBA",
+        "name": "Mamma Mia",
+        "year": 1975,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "AC/DC",
@@ -1518,6 +834,18 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Adele",
+        "name": "Rolling in the Deep",
+        "year": 2011,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Adolescents",
+        "name": "Amoeba",
+        "year": 1981,
+        "genre": "Punk"
+    },
+    {
         "artist": "Aerosmith",
         "name": "Crazy",
         "year": 1993,
@@ -1548,6 +876,12 @@
         "year": 2003
     },
     {
+        "name": "Medicate",
+        "artist": "AFI",
+        "genre": "Alternative",
+        "year": 2009
+    },
+    {
         "name": "Miss Murder",
         "artist": "AFI",
         "genre": "Alternative",
@@ -1566,10 +900,28 @@
         "genre": "'poprock'"
     },
     {
+        "artist": "Akon",
+        "name": "Right Now (Na Na Na)",
+        "year": 2008,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Ironic",
         "artist": "Alanis Morissette",
         "genre": "Pop Rock",
         "year": 1995
+    },
+    {
+        "artist": "Alex Clare",
+        "name": "Too Close",
+        "year": 2011,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Alexandra Stan",
+        "name": "Mr. Saxobeat",
+        "year": 2011,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Alice Cooper",
@@ -1584,6 +936,12 @@
         "year": 1972
     },
     {
+        "artist": "Alice Deejay",
+        "name": "Better Off Alone",
+        "year": 1998,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Check My Brain",
         "artist": "Alice in Chains",
         "genre": "Grunge",
@@ -1594,6 +952,12 @@
         "name": "Them Bones",
         "year": 1992,
         "genre": "'grunge'"
+    },
+    {
+        "artist": "Alicia Keys",
+        "name": "Fallin'",
+        "year": 2001,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "Smooth Criminal",
@@ -1614,10 +978,34 @@
         "genre": "Emo"
     },
     {
+        "artist": "Alphaville",
+        "name": "Forever Young",
+        "year": 1984,
+        "genre": "New Wave"
+    },
+    {
+        "artist": "alt-J",
+        "name": "Breezeblocks",
+        "year": 2012,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "alt-J",
+        "name": "Left Hand Free",
+        "year": 2014,
+        "genre": "Indie Rock"
+    },
+    {
         "artist": "American Hi-Fi",
         "name": "Flavor of the Weak",
         "year": 2001,
         "genre": "Punk"
+    },
+    {
+        "artist": "Amerie",
+        "name": "1 Thing",
+        "year": 2005,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "Rehab",
@@ -1656,10 +1044,46 @@
         "year": 2006
     },
     {
+        "name": "We Are the One",
+        "artist": "Anti-Flag",
+        "genre": "Punk",
+        "year": 2009
+    },
+    {
         "artist": "Aqua",
         "name": "Barbie Girl",
         "year": 1997,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Arcade Fire",
+        "name": "Rebellion (Lies)",
+        "year": 2004,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arcade Fire",
+        "name": "The Suburbs",
+        "year": 2010,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arcade Fire",
+        "name": "Wake Up",
+        "year": 2005,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "505",
+        "year": 2007,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "A Certain Romance",
+        "year": 2006,
+        "genre": "Indie Rock"
     },
     {
         "artist": "Arctic Monkeys",
@@ -1675,8 +1099,20 @@
     },
     {
         "artist": "Arctic Monkeys",
+        "name": "Cornerstone",
+        "year": 2009,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
         "name": "Crying Lightning",
         "year": 2009,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "D is for Dangerous",
+        "year": 2007,
         "genre": "Indie Rock"
     },
     {
@@ -1699,8 +1135,20 @@
     },
     {
         "artist": "Arctic Monkeys",
+        "name": "Leave Before The Lights Come On",
+        "year": 2017,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Arctic Monkeys",
         "name": "Mardy Bum",
         "year": 2006,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "Pretty Visitors",
+        "year": 2009,
         "genre": "Indie Rock"
     },
     {
@@ -1708,6 +1156,18 @@
         "artist": "Arctic Monkeys",
         "genre": "Rock",
         "year": 2013
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "Reckless Serenade",
+        "year": 2011,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "name": "Suck it and See",
+        "year": 2011,
+        "genre": "Indie Rock"
     },
     {
         "artist": "Arctic Monkeys",
@@ -1726,6 +1186,18 @@
         "name": "Respect",
         "year": 1967,
         "genre": "'rbsoulfunk'"
+    },
+    {
+        "artist": "Ariana Grande",
+        "name": "Break Free (ft. Zedd)",
+        "year": 2014,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Ariana Grande",
+        "name": "Into You",
+        "year": 2016,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Asia",
@@ -1747,6 +1219,18 @@
     },
     {
         "artist": "Audioslave",
+        "name": "Be Yourself",
+        "year": 2005,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Audioslave",
+        "name": "Cochise",
+        "year": 2002,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Audioslave",
         "name": "Like a Stone",
         "year": 2002,
         "genre": "Rock"
@@ -1758,10 +1242,22 @@
         "year": 2007
     },
     {
+        "artist": "Avenged Sevenfold",
+        "name": "Almost Easy",
+        "year": 2007,
+        "genre": "Metal"
+    },
+    {
         "name": "Beast and the Harlot",
         "artist": "Avenged Sevenfold",
         "genre": "Metal",
         "year": 2005
+    },
+    {
+        "artist": "Avicii",
+        "name": "Levels",
+        "year": 2011,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Avicii",
@@ -1801,21 +1297,45 @@
     },
     {
         "artist": "AWOLNATION",
+        "name": "Sail",
+        "year": 2011,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "AWOLNATION",
         "name": "The Best",
         "year": 2020,
         "genre": "Alternative"
     },
     {
-        "name": "Airplanes",
-        "artist": "B.o.B. (featuring Hayley Williams)",
+        "artist": "B.J. Thomas",
+        "name": "Raindrops Keep Fallin' On My Head",
+        "year": 1969,
+        "genre": "Pop-Rock"
+    },
+    {
+        "name": "Airplanes (ft. Hayley Williams)",
+        "artist": "B.o.B",
         "genre": "Hip-Hop/Rap",
         "year": 2010
+    },
+    {
+        "artist": "B.o.B",
+        "name": "Nothin' on You (ft. Bruno Mars)",
+        "year": 2010,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "BABYMETAL",
         "name": "Gimme Chocolate!!",
         "year": 2014,
         "genre": "J-Rock"
+    },
+    {
+        "artist": "BABYMETAL",
+        "name": "Headbangeeeeerrrrr!!!!!",
+        "year": 2014,
+        "genre": "Metal"
     },
     {
         "name": "Let It Ride",
@@ -1866,6 +1386,18 @@
         "year": 1974
     },
     {
+        "name": "Shooting Star",
+        "artist": "Bad Company",
+        "genre": "Classic Rock",
+        "year": 1975
+    },
+    {
+        "artist": "Baha Men",
+        "name": "Who Let the Dogs Out?",
+        "year": 2000,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Pleasure (Pleasure)",
         "artist": "Bang Camaro",
         "genre": "Rock",
@@ -1914,16 +1446,40 @@
         "year": 2005
     },
     {
+        "artist": "Belinda Carlisle",
+        "name": "Heaven Is a Place on Earth",
+        "year": 1987,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Berlin",
         "name": "Take My Breath Away",
         "year": 1986,
         "genre": "Rock"
     },
     {
+        "name": "Good",
+        "artist": "Better Than Ezra",
+        "genre": "Alternative Rock",
+        "year": 1993
+    },
+    {
         "artist": "Big & Rich",
         "name": "Save a Horse (Ride a Cowboy)",
         "year": 2004,
         "genre": "Country"
+    },
+    {
+        "artist": "Bill Withers",
+        "name": "Just the Two of Us",
+        "year": 1981,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Bill Withers",
+        "name": "Lean on Me",
+        "year": 1972,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Billie Eilish",
@@ -2014,6 +1570,12 @@
         "name": "Try Honesty",
         "year": 2003,
         "genre": "Punk"
+    },
+    {
+        "name": "Turn Your Back (with Anti-Flag)",
+        "artist": "Billy Talent",
+        "genre": "Punk Rock",
+        "year": 2008
     },
     {
         "artist": "Bishop Briggs",
@@ -2148,6 +1710,18 @@
         "genre": "Indie Rock"
     },
     {
+        "artist": "Bloc Party",
+        "name": "Positive Tension",
+        "year": 2005,
+        "genre": "Indie Rock"
+    },
+    {
+        "name": "This Modern Love",
+        "artist": "Bloc Party",
+        "genre": "Post-Punk Revival",
+        "year": 2005
+    },
+    {
         "name": "Heart of Glass",
         "artist": "Blondie",
         "genre": "New Wave",
@@ -2196,10 +1770,34 @@
         "genre": "Rock"
     },
     {
+        "artist": "Blur",
+        "name": "Beetlebum",
+        "year": 1997,
+        "genre": "Rock"
+    },
+    {
         "name": "Song 2",
         "artist": "Blur",
         "genre": "Alternative",
         "year": 1997
+    },
+    {
+        "name": "Bezos I",
+        "artist": "Bo Burnham",
+        "genre": "Comedy",
+        "year": 2021
+    },
+    {
+        "name": "Bezos II",
+        "artist": "Bo Burnham",
+        "genre": "Comedy",
+        "year": 2021
+    },
+    {
+        "name": "Bezos IV",
+        "artist": "Bo Burnham",
+        "genre": "Comedy",
+        "year": 2022
     },
     {
         "name": "Tangled Up in Blue",
@@ -2224,6 +1822,12 @@
         "artist": "Bob Seger & the Silver Bullet Band",
         "genre": "Rock",
         "year": 1979
+    },
+    {
+        "artist": "Bobby Shmurda",
+        "name": "Hot Nigga",
+        "year": 2014,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "name": "Have a Nice Day",
@@ -2268,10 +1872,46 @@
         "year": 1986
     },
     {
+        "artist": "Bonnie Tyler",
+        "name": "Holding Out for a Hero",
+        "year": 1986,
+        "genre": "Rock"
+    },
+    {
         "name": "Total Eclipse of the Heart",
         "artist": "Bonnie Tyler",
         "genre": "Pop Rock",
         "year": 1983
+    },
+    {
+        "name": "Foreplay / Long Time",
+        "artist": "Boston",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
+        "name": "More Than a Feeling",
+        "artist": "Boston",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
+        "name": "Peace of Mind",
+        "artist": "Boston",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
+        "artist": "Bowling for Soup",
+        "name": "1985",
+        "year": 2004,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Bowling for Soup",
+        "name": "Girl All the Bad Guys Want",
+        "year": 2002,
+        "genre": "Punk"
     },
     {
         "artist": "Box Car Racer",
@@ -2302,6 +1942,12 @@
         "artist": "Brand New",
         "genre": "Emo",
         "year": 2003
+    },
+    {
+        "artist": "Breakbot",
+        "name": "Baby I'm Yours (ft. Irfane)",
+        "year": 2012,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "The Diary of Jane",
@@ -2346,6 +1992,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Bruno Mars",
+        "name": "Finesse",
+        "year": 2016,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "Grenade",
         "artist": "Bruno Mars",
         "genre": "Pop/Rock",
@@ -2368,6 +2020,18 @@
         "name": "Treasure",
         "year": 2012,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Die With A Smile",
+        "artist": "Bruno Mars, Lady Gaga",
+        "year": 2024,
+        "genre": "Soft Rock"
+    },
+    {
+        "artist": "Bryan Adams",
+        "name": "Run to You",
+        "year": 1984,
+        "genre": "Rock"
     },
     {
         "name": "Summer of '69",
@@ -2460,6 +2124,12 @@
         "genre": "Alternative"
     },
     {
+        "artist": "Camila Cabello",
+        "name": "Havana (ft. Young Thug)",
+        "year": 2018,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Hammer Smashed Face",
         "artist": "Cannibal Corpse",
         "genre": "Metal",
@@ -2470,6 +2140,12 @@
         "name": "Safe and Sound",
         "year": 2013,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Car Seat Headrest",
+        "name": "Connect the Dots (The Saga of Frank Sinatra)",
+        "year": 2016,
+        "genre": "Indie Rock"
     },
     {
         "artist": "Caramell",
@@ -2502,6 +2178,12 @@
         "year": 2005
     },
     {
+        "name": "Everytime We Touch",
+        "artist": "Cascada",
+        "genre": "Dance",
+        "year": 2005
+    },
+    {
         "artist": "Catfish and the Bottlemen",
         "name": "Cocoon",
         "year": 2014,
@@ -2518,6 +2200,12 @@
         "name": "Postpone",
         "year": 2016,
         "genre": "Indie Rock"
+    },
+    {
+        "artist": "CeeLo Green",
+        "name": "Fuck You",
+        "year": 2010,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Chappell Roan",
@@ -2544,6 +2232,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Charli XCX",
+        "name": "Boom Clap",
+        "year": 2014,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "Charlie Puth",
         "name": "Attention",
         "year": 2018,
@@ -2556,16 +2250,40 @@
         "year": 1977
     },
     {
+        "artist": "Cher",
+        "name": "If I Could Turn Back Time",
+        "year": 1989,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "25 or 6 to 4",
         "artist": "Chicago",
         "genre": "Classic Rock",
         "year": 1970
     },
     {
+        "artist": "Childish Gambino",
+        "name": "This Is America",
+        "year": 2018,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Chip Skylark",
         "name": "My Shiny Teeth and Me",
         "year": 2002,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "name": "Beautiful",
+        "year": 2002,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Christopher Cross",
+        "name": "Sailing",
+        "year": 1979,
+        "genre": "Rock"
     },
     {
         "artist": "Chuck Berry",
@@ -2580,14 +2298,20 @@
         "year": 1997
     },
     {
-        "artist": "Clean Bandit (ft. Jess Glynne)",
-        "name": "Rather Be",
+        "artist": "CHVRCHES",
+        "name": "The Mother We Share",
+        "year": 2013,
+        "genre": "New Wave"
+    },
+    {
+        "artist": "Clean Bandit",
+        "name": "Rather Be (ft. Jess Glynne)",
         "year": 2014,
         "genre": "Pop/Dance/Electronic"
     },
     {
-        "name": "You Make Me Feel...",
-        "artist": "Cobra Starship (ft. Sabi)",
+        "name": "You Make Me Feel... (ft. Sabi)",
+        "artist": "Cobra Starship",
         "genre": "Pop/Dance/Electronic",
         "year": 2011
     },
@@ -2607,6 +2331,12 @@
         "artist": "Cold War Kids",
         "name": "First",
         "year": 2014,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Cold War Kids",
+        "name": "Hang Me Up to Dry",
+        "year": 2006,
         "genre": "Indie Rock"
     },
     {
@@ -2668,6 +2398,24 @@
         "name": "Brick House",
         "year": 1977,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Coolio",
+        "name": "Gangsta's Paradise (ft. L.V.)",
+        "year": 1995,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Corinne Bailey Rae",
+        "name": "Put Your Records On",
+        "year": 2006,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Corona",
+        "name": "The Rhythm of the Night",
+        "year": 1995,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Counting Crows",
@@ -2760,6 +2508,24 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Daniel Powter",
+        "name": "Bad Day",
+        "year": 2005,
+        "genre": "Pop-Rock"
+    },
+    {
+        "name": "Mother",
+        "artist": "Danzig",
+        "genre": "Metal",
+        "year": 1988
+    },
+    {
+        "artist": "BABYMETAL",
+        "name": "Headbangeeeeerrrrr!!!!!",
+        "year": 2014,
+        "genre": "Metal"
+    },
+    {
         "artist": "Darius Rucker",
         "name": "Wagon Wheel",
         "year": 2013,
@@ -2820,6 +2586,18 @@
         "genre": "Rock"
     },
     {
+        "artist": "David Guetta",
+        "name": "Memories (ft. Kid Cudi)",
+        "year": 2009,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "David Guetta",
+        "name": "Titanium (ft. Sia)",
+        "year": 2011,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "California Über Alles",
         "artist": "Dead Kennedys",
         "genre": "Punk",
@@ -2830,6 +2608,12 @@
         "artist": "Dead Kennedys",
         "genre": "Punk",
         "year": 1987
+    },
+    {
+        "artist": "Dead or Alive",
+        "name": "You Spin Me Round (Like a Record)",
+        "year": 1985,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Dean Martin",
@@ -2854,6 +2638,12 @@
         "name": "Groove Is in the Heart",
         "year": 1990,
         "genre": "'popdanceelectronic'"
+    },
+    {
+        "artist": "Deee-Lite",
+        "name": "Groove Is in the Heart",
+        "year": 1990,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Deep Blue Something",
@@ -2958,6 +2748,24 @@
         "year": 1983
     },
     {
+        "artist": "Dion",
+        "name": "Runaround Sue",
+        "year": 1961,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Dion",
+        "name": "The Wanderer",
+        "year": 1961,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Dire Straits",
+        "name": "Money for Nothing",
+        "year": 1985,
+        "genre": "Rock"
+    },
+    {
         "name": "Sultans Of Swing",
         "artist": "Dire Straits",
         "genre": "Rock",
@@ -2982,6 +2790,12 @@
         "genre": "Nu-Metal"
     },
     {
+        "artist": "DJ Snake",
+        "name": "Turn Down For What (ft. Lil Jon)",
+        "year": 2013,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "DMX",
         "name": "X Gon' Give It To Ya",
         "year": 2003,
@@ -2992,6 +2806,12 @@
         "name": "Cake by the Ocean",
         "year": 2015,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Dolly Parton",
+        "name": "9 to 5",
+        "year": 1980,
+        "genre": "Country"
     },
     {
         "artist": "Dolly Parton",
@@ -3013,7 +2833,7 @@
     },
     {
         "artist": "Dr. Dre",
-        "name": "Forgot About Dre (featuring Eminem)",
+        "name": "Forgot About Dre (ft. Eminem)",
         "year": 1999,
         "genre": "Hip-Hop/Rap"
     },
@@ -3024,9 +2844,15 @@
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "Dr. Dre ft. Snoop Dogg",
-        "name": "The Next Episode",
+        "artist": "Dr. Dre",
+        "name": "The Next Episode (ft. Snoop Dogg)",
         "year": 1999,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Drake",
+        "name": "Forever (ft. Kanye West, Lil Wayne & Eminem)",
+        "year": 2009,
         "genre": "Hip-Hop/Rap"
     },
     {
@@ -3034,6 +2860,18 @@
         "name": "Hotline Bling",
         "year": 2016,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Drake",
+        "name": "Passionfruit",
+        "year": 2017,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Take Care (ft. Rihanna)",
+        "artist": "Drake",
+        "genre": "R & B",
+        "year": 2011
     },
     {
         "artist": "Drake Bell",
@@ -3055,8 +2893,26 @@
     },
     {
         "artist": "Dua Lipa",
+        "name": "Break My Heart",
+        "year": 2020,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Dua Lipa",
         "name": "Don't Start Now",
         "year": 2020,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Dua Lipa",
+        "name": "Levitating",
+        "year": 2020,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Dua Lipa",
+        "name": "New Rules",
+        "year": 2017,
         "genre": "Pop/Dance/Electronic"
     },
     {
@@ -3114,6 +2970,18 @@
         "year": 1999
     },
     {
+        "artist": "Electric Light Orchestra",
+        "name": "Don't Bring Me Down",
+        "year": 1979,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Electric Light Orchestra",
+        "name": "Mr. Blue Sky",
+        "year": 1977,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Gay Bar",
         "artist": "Electric Six",
         "genre": "Rock",
@@ -3163,6 +3031,12 @@
     },
     {
         "artist": "Elton John",
+        "name": "Philadelphia Freedom",
+        "year": 1975,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Elton John",
         "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)",
         "year": 1972,
         "genre": "Pop-Rock"
@@ -3187,8 +3061,14 @@
     },
     {
         "artist": "Elvis Presley",
+        "name": "A Little Less Conversation",
+        "year": 1968,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Elvis Presley",
         "name": "Burning Love",
-        "year": 2000,
+        "year": 1972,
         "genre": "Rock"
     },
     {
@@ -3223,7 +3103,7 @@
     },
     {
         "artist": "Eminem",
-        "name": "Stan (feat. Dido)",
+        "name": "Stan (ft. Dido)",
         "year": 2000,
         "genre": "Hip-Hop/Rap"
     },
@@ -3235,13 +3115,19 @@
     },
     {
         "artist": "Eminem",
+        "name": "Till I Collapse (ft. Nate Dogg)",
+        "year": 2002,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Eminem",
         "name": "Without Me",
         "year": 2002,
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "Enrique Iglesias ft. Pitbull",
-        "name": "I Like It",
+        "artist": "Enrique Iglesias",
+        "name": "I Like It (ft. Pitbull)",
         "year": 2008,
         "genre": "Pop/Dance/Electronic"
     },
@@ -3250,6 +3136,30 @@
         "name": "Situations",
         "year": 2006,
         "genre": "Emo"
+    },
+    {
+        "artist": "Estelle",
+        "name": "American Boy (ft. Kanye West)",
+        "year": 2008,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Europe",
+        "name": "Carrie",
+        "year": 1986,
+        "genre": "Metal"
+    },
+    {
+        "name": "The Final Countdown",
+        "artist": "Europe",
+        "genre": "Metal",
+        "year": 1986
+    },
+    {
+        "artist": "Eurythmics",
+        "name": "Sweet Dreams (Are Made of This)",
+        "year": 1983,
+        "genre": "New Wave"
     },
     {
         "name": "Bring Me to Life",
@@ -3264,6 +3174,18 @@
         "year": 1998
     },
     {
+        "artist": "Everclear",
+        "name": "Everything to Everyone",
+        "year": 1997,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Everclear",
+        "name": "I Will Buy You A New Life",
+        "year": 1997,
+        "genre": "Alternative"
+    },
+    {
         "name": "Santa Monica",
         "artist": "Everclear",
         "genre": "Alternative",
@@ -3274,6 +3196,12 @@
         "name": "What It's Like",
         "year": 1998,
         "genre": "Rock"
+    },
+    {
+        "artist": "Faith Hill",
+        "name": "This Kiss",
+        "year": 1998,
+        "genre": "Country"
     },
     {
         "name": "Epic",
@@ -3342,6 +3270,24 @@
         "genre": "'rock'"
     },
     {
+        "artist": "Fastball",
+        "name": "The Way",
+        "year": 1998,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Fatboy Slim",
+        "name": "Praise You",
+        "year": 1999,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Fatboy Slim",
+        "name": "The Rockafeller Skank",
+        "year": 1998,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Big Girls Don't Cry",
         "artist": "Fergie",
         "genre": "Pop-Rock",
@@ -3360,6 +3306,12 @@
         "year": 1995
     },
     {
+        "artist": "Finch",
+        "name": "Ink",
+        "year": 2005,
+        "genre": "Alternative"
+    },
+    {
         "name": "Paralyzer",
         "artist": "Finger Eleven",
         "genre": "Pop-Rock",
@@ -3372,10 +3324,22 @@
         "year": 2008
     },
     {
+        "name": "Tutto è Possibile",
+        "artist": "Finley",
+        "genre": "Punk",
+        "year": 2006
+    },
+    {
         "artist": "Fitz and the Tantrums",
         "name": "HandClap",
         "year": 2016,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Five for Fighting",
+        "name": "Superman (It's Not Easy)",
+        "year": 2001,
+        "genre": "Rock"
     },
     {
         "name": "Don't Stop",
@@ -3399,6 +3363,18 @@
         "name": "You Make Loving Fun",
         "year": 1977,
         "genre": "Classic Rock"
+    },
+    {
+        "artist": "Flo Rida",
+        "name": "Good Feeling",
+        "year": 2011,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Flo Rida",
+        "name": "Right Round (ft. Ke$ha)",
+        "year": 2009,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "name": "Low (Travis Barker Remix)",
@@ -3434,7 +3410,7 @@
         "name": "Hocus Pocus (Live)",
         "artist": "Focus",
         "genre": "Classic Rock",
-        "year": 1973
+        "year": 1971
     },
     {
         "artist": "Foghat",
@@ -3527,6 +3503,36 @@
         "year": 1978
     },
     {
+        "artist": "Fort Minor",
+        "name": "Remember the Name (ft. Styles of Beyond)",
+        "year": 2005,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "name": "Don't Stop (Color on the Walls)",
+        "artist": "Foster the People",
+        "genre": "Indie Rock",
+        "year": 2011
+    },
+    {
+        "name": "Helena Beat",
+        "artist": "Foster the People",
+        "genre": "Indie Rock",
+        "year": 2011
+    },
+    {
+        "artist": "Foster the People",
+        "name": "Houdini",
+        "year": 2011,
+        "genre": "Indie Rock"
+    },
+    {
+        "name": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "genre": "Indie Rock",
+        "year": 2011
+    },
+    {
         "artist": "Fountains of Wayne",
         "name": "Stacy's Mom",
         "year": 2003,
@@ -3537,6 +3543,12 @@
         "name": "Thinkin Bout You",
         "year": 2012,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Frank Sinatra",
+        "name": "Fly Me to the Moon (In Other Words)",
+        "year": 1964,
+        "genre": "Jazz"
     },
     {
         "artist": "Frank Sinatra",
@@ -3581,6 +3593,18 @@
         "genre": "Rock"
     },
     {
+        "artist": "Fugazi",
+        "name": "Strangelight",
+        "year": 2001,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Fugazi",
+        "name": "Waiting Room",
+        "year": 1988,
+        "genre": "Punk"
+    },
+    {
         "artist": "Fun.",
         "name": "Some Nights",
         "year": 2012,
@@ -3618,8 +3642,32 @@
     },
     {
         "artist": "GAYLE",
-        "name": "abcdefu",
-        "year": 2022,
+        "name": "abcdefu (angrier)",
+        "year": 2021,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Genesis",
+        "name": "Invisible Touch",
+        "year": 1986,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Genesis",
+        "name": "Land of Confusion",
+        "year": 1986,
+        "genre": "Prog"
+    },
+    {
+        "artist": "Genesis",
+        "name": "That's All",
+        "year": 1983,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "George Michael",
+        "name": "Careless Whisper",
+        "year": 1984,
         "genre": "Pop-Rock"
     },
     {
@@ -3645,6 +3693,12 @@
         "name": "Hey Jealousy",
         "year": 1993,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Gloria Gaynor",
+        "name": "I Will Survive",
+        "year": 1978,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "Radar Love",
@@ -3707,6 +3761,12 @@
         "year": 2002
     },
     {
+        "artist": "Good Charlotte",
+        "name": "The River",
+        "year": 2007,
+        "genre": "Rock"
+    },
+    {
         "name": "Clint Eastwood",
         "artist": "Gorillaz",
         "genre": "Alternative",
@@ -3717,6 +3777,12 @@
         "artist": "Gorillaz",
         "genre": "Alternative",
         "year": 2005
+    },
+    {
+        "artist": "Gorillaz",
+        "name": "On Melancholy Hill",
+        "year": 2010,
+        "genre": "Alternative"
     },
     {
         "artist": "Gotye",
@@ -3834,6 +3900,24 @@
     },
     {
         "artist": "Guns N' Roses",
+        "name": "Live and Let Die",
+        "year": 1991,
+        "genre": "Metal"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "name": "November Rain",
+        "year": 1991,
+        "genre": "Metal"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "name": "Paradise City",
+        "year": 1987,
+        "genre": "Metal"
+    },
+    {
+        "artist": "Guns N' Roses",
         "name": "Sweet Child o' Mine",
         "year": 1987,
         "genre": "Metal"
@@ -3843,6 +3927,24 @@
         "artist": "Guns N' Roses",
         "genre": "Metal",
         "year": 1987
+    },
+    {
+        "artist": "Gwen Stefani",
+        "name": "Hollaback Girl",
+        "year": 2004,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Gwen Stefani",
+        "name": "Rich Girl",
+        "year": 2004,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Gwen Stefani",
+        "name": "The Sweet Escape",
+        "year": 2007,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Gym Class Heroes",
@@ -3860,6 +3962,12 @@
         "artist": "Gnther And The Sunshine Girls",
         "name": "Ding Dong Song",
         "year": 2004,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Haddaway",
+        "name": "What Is Love",
+        "year": 1993,
         "genre": "Pop/Dance/Electronic"
     },
     {
@@ -3896,6 +4004,12 @@
         "artist": "Hall & Oates",
         "name": "You Make My Dreams",
         "year": 1980,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Hanson",
+        "name": "MMMBop",
+        "year": 1997,
         "genre": "Pop-Rock"
     },
     {
@@ -3947,6 +4061,12 @@
         "genre": "Classic Rock"
     },
     {
+        "artist": "Hechizeros Band",
+        "name": "El Sonidito",
+        "year": 2008,
+        "genre": "Latin"
+    },
+    {
         "name": "So Yesterday",
         "artist": "Hilary Duff",
         "genre": "Pop",
@@ -3957,6 +4077,12 @@
         "artist": "HIM",
         "genre": "Alternative",
         "year": 2010
+    },
+    {
+        "artist": "Hiroshige Tonomura",
+        "name": "The Moon (From DuckTales)",
+        "year": 1989,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Celebrity Skin",
@@ -4013,6 +4139,12 @@
         "year": 2011
     },
     {
+        "artist": "Hot Chocolate",
+        "name": "You Sexy Thing",
+        "year": 1975,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "artist": "Hozier",
         "name": "Take Me to Church",
         "year": 2014,
@@ -4029,6 +4161,12 @@
         "artist": "Hypernova",
         "genre": "Indie Rock",
         "year": 2010
+    },
+    {
+        "artist": "Icona Pop",
+        "name": "I Love It (ft. Charli XCX)",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Iggy Pop",
@@ -4091,6 +4229,24 @@
         "genre": "Alternative"
     },
     {
+        "artist": "Inner Circle",
+        "name": "Bad Boys (Theme from Cops)",
+        "year": 1987,
+        "genre": "Reggae/Ska"
+    },
+    {
+        "artist": "Interpol",
+        "name": "C'mere",
+        "year": 2004,
+        "genre": "Indie Rock"
+    },
+    {
+        "name": "PDA",
+        "artist": "Interpol",
+        "genre": "Indie Rock",
+        "year": 2002
+    },
+    {
         "name": "Need You Tonight",
         "artist": "INXS",
         "genre": "Pop-Rock",
@@ -4127,6 +4283,12 @@
         "genre": "Rock"
     },
     {
+        "name": "You're Beautiful",
+        "artist": "James Blunt",
+        "genre": "Pop-Rock",
+        "year": 2003
+    },
+    {
         "name": "I Got You (I Feel Good)",
         "artist": "James Brown",
         "genre": "R&B/Soul/Funk",
@@ -4137,6 +4299,12 @@
         "name": "Canned Heat",
         "year": 1999,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Jamiroquai",
+        "name": "Virtual Insanity",
+        "year": 1996,
+        "genre": "Rock"
     },
     {
         "name": "Been Caught Stealing",
@@ -4205,10 +4373,22 @@
         "year": 1967
     },
     {
+        "artist": "Jelly Roll",
+        "name": "Liar",
+        "year": 2024,
+        "genre": "Country"
+    },
+    {
         "name": "Beautiful Soul",
         "artist": "Jesse McCartney",
         "genre": "Pop",
         "year": 2004
+    },
+    {
+        "artist": "Jessie J",
+        "name": "Domino",
+        "year": 2011,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Jesus Jones",
@@ -4289,10 +4469,28 @@
         "genre": "Classic Rock"
     },
     {
+        "artist": "John Mellencamp",
+        "name": "Authority Song",
+        "year": 1983,
+        "genre": "Rock"
+    },
+    {
+        "artist": "John Mellencamp",
+        "name": "Hurts So Good",
+        "year": 1982,
+        "genre": "Rock"
+    },
+    {
         "name": "Hurts So Good",
         "artist": "John Mellencamp",
         "genre": "Rock",
         "year": 1982
+    },
+    {
+        "artist": "John Mellencamp",
+        "name": "Jack & Diane",
+        "year": 1982,
+        "genre": "Rock"
     },
     {
         "name": "Ring of Fire (RB3 version)",
@@ -4337,16 +4535,40 @@
         "year": 1981
     },
     {
-        "artist": "Joyce Manor",
+        "artist": "Joy Division",
+        "name": "Disorder",
+        "year": 1979,
+        "genre": "Alternative"
+    },
+    {
         "name": "Catalina Fight Song",
-        "year": 2014,
-        "genre": "Emo"
+        "artist": "Joyce Manor",
+        "genre": "punk rock",
+        "year": 2014
     },
     {
         "artist": "Juice WRLD",
         "name": "Come & Go (ft. Marshmello)",
         "year": 2020,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Juice WRLD",
+        "name": "Lucid Dreams",
+        "year": 2018,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Jukebox the Ghost",
+        "name": "Hold It In",
+        "year": 2008,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Justice",
+        "name": "D.A.N.C.E.",
+        "year": 2007,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Justin Bieber",
@@ -4385,6 +4607,12 @@
         "year": 2007
     },
     {
+        "artist": "Kansas",
+        "name": "Dust in the Wind",
+        "year": 1977,
+        "genre": "Prog"
+    },
+    {
         "artist": "Kanye West",
         "name": "All Falls Down (ft. Syleena Johnson)",
         "year": 2004,
@@ -4397,10 +4625,52 @@
         "genre": "Hip-Hop/Rap"
     },
     {
+        "artist": "Kanye West",
+        "name": "POWER",
+        "year": 2010,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "name": "Club Foot",
+        "artist": "Kasabian",
+        "genre": "Rock",
+        "year": 2004
+    },
+    {
+        "artist": "KC and the Sunshine Band",
+        "name": "(Shake, Shake, Shake) Shake Your Booty",
+        "year": 1976,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "KC and the Sunshine Band",
+        "name": "Get Down Tonight",
+        "year": 1975,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "KC and the Sunshine Band",
+        "name": "That's the Way (I Like It)",
+        "year": 1975,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "artist": "Ke$ha",
         "name": "Die Young",
         "year": 2012,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Ke$ha",
+        "name": "We R Who We R",
+        "year": 2010,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Keane",
+        "name": "Somewhere Only We Know",
+        "year": 2004,
+        "genre": "Alternative"
     },
     {
         "artist": "Kelly Clarkson",
@@ -4476,14 +4746,26 @@
     },
     {
         "artist": "Kid Cudi",
-        "name": "Erase Me (feat. Kanye West)",
+        "name": "Erase Me (ft. Kanye West)",
         "year": 2010,
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "Kid Cudi feat. MGMT and Ratatat",
-        "name": "Pursuit of Happiness",
+        "artist": "Kid Cudi",
+        "name": "Pursuit of Happiness (ft. MGMT & Ratatat)",
         "year": 2009,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Kid Rock",
+        "name": "All Summer Long",
+        "year": 2007,
+        "genre": "Southern Rock"
+    },
+    {
+        "artist": "Kid Rock",
+        "name": "Cowboy",
+        "year": 1998,
         "genre": "Hip-Hop/Rap"
     },
     {
@@ -4523,6 +4805,12 @@
         "genre": "'rbsoulfunk'"
     },
     {
+        "name": "Freak on a Leash",
+        "artist": "KoRn",
+        "genre": "Nu-Metal",
+        "year": 1998
+    },
+    {
         "name": "Suddenly I See",
         "artist": "KT Tunstall",
         "genre": "Rock",
@@ -4539,6 +4827,12 @@
         "artist": "Lady Gaga",
         "genre": "Pop Rock",
         "year": 2009
+    },
+    {
+        "name": "Born This Way",
+        "artist": "Lady Gaga",
+        "genre": "Pop/Dance/Electronic",
+        "year": 2011
     },
     {
         "name": "Just Dance",
@@ -4565,6 +4859,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "All My Friends",
+        "artist": "LCD Soundsystem",
+        "genre": "Post-Punk Revival",
+        "year": 2007
+    },
+    {
         "artist": "LCD Soundsystem",
         "name": "Daft Punk is Playing at My House",
         "year": 2005,
@@ -4581,6 +4881,12 @@
         "name": "Black Dog",
         "year": 1971,
         "genre": "Rock"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "D'yer Mak'er",
+        "year": 1973,
+        "genre": "Classic Rock"
     },
     {
         "artist": "Led Zeppelin",
@@ -4649,6 +4955,12 @@
         "genre": "Country"
     },
     {
+        "artist": "Lil Wayne",
+        "name": "Cotton Candy (ft. 2 Chainz)",
+        "year": 2025,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Limp Bizkit",
         "name": "Break Stuff",
         "year": 1999,
@@ -4661,10 +4973,34 @@
         "genre": "'alternative'"
     },
     {
+        "name": "Fantasma",
+        "artist": "Linea 77",
+        "genre": "Nu-Metal",
+        "year": 2003
+    },
+    {
+        "name": "Breaking the Habit",
+        "artist": "Linkin Park",
+        "genre": "Nu-Metal",
+        "year": 2003
+    },
+    {
+        "name": "Crawling",
+        "artist": "Linkin Park",
+        "genre": "Nu-Metal",
+        "year": 2000
+    },
+    {
         "artist": "Linkin Park",
         "name": "Given Up",
         "year": 2007,
         "genre": "'numetal'"
+    },
+    {
+        "name": "Given Up",
+        "artist": "Linkin Park",
+        "year": 2007,
+        "genre": "Nu-Metal"
     },
     {
         "name": "In the End",
@@ -4679,6 +5015,18 @@
         "genre": "Nu-Metal"
     },
     {
+        "name": "Numb",
+        "artist": "Linkin Park",
+        "genre": "Nu-Metal",
+        "year": 2003
+    },
+    {
+        "name": "One Step Closer",
+        "artist": "Linkin Park",
+        "genre": "Nu Metal",
+        "year": 2000
+    },
+    {
         "name": "Somewhere I Belong",
         "artist": "Linkin Park",
         "genre": "Nu-Metal",
@@ -4689,6 +5037,36 @@
         "artist": "Linkin Park",
         "genre": "Nu-Metal",
         "year": 2007
+    },
+    {
+        "artist": "Lipps Inc.",
+        "name": "Funkytown",
+        "year": 1979,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "name": "My Own Worst Enemy",
+        "artist": "Lit",
+        "genre": "Pop/Rock",
+        "year": 1999
+    },
+    {
+        "name": "Proibito",
+        "artist": "Litfiba",
+        "genre": "Rock",
+        "year": 1990
+    },
+    {
+        "artist": "Little Richard",
+        "name": "Ride on the Magic School Bus",
+        "year": 1994,
+        "genre": "Novelty"
+    },
+    {
+        "artist": "Little Richard",
+        "name": "Tutti Frutti",
+        "year": 1957,
+        "genre": "Rock"
     },
     {
         "artist": "Live",
@@ -4769,28 +5147,58 @@
         "genre": "'alternative'"
     },
     {
+        "name": "Working for the Weekend",
+        "artist": "Loverboy",
+        "genre": "Pop-Rock",
+        "year": 1981
+    },
+    {
         "artist": "Ludacris",
         "name": "Act A Fool",
         "year": 2003,
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "Ludacris ft. Mystikal & I-20",
-        "name": "Move Bitch",
+        "artist": "Ludacris",
+        "name": "Move Bitch (ft. Mystikal & I-20)",
         "year": 2001,
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "Luis Fonsi feat. Daddy Yankee",
-        "name": "Despacito (Remix) (feat. Justin Bieber)",
+        "artist": "Luis Fonsi ft. Daddy Yankee",
+        "name": "Despacito (Remix) (ft. Justin Bieber)",
         "year": 2017,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Lupe Fiasco",
+        "name": "Superstar (ft. Matthew Santos)",
+        "year": 2007,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Lustra",
         "name": "Scotty Doesn't Know",
         "year": 2004,
         "genre": "Punk"
+    },
+    {
+        "name": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "genre": "Southern Rock",
+        "year": 1973
+    },
+    {
+        "name": "Simple Man",
+        "artist": "Lynyrd Skynyrd",
+        "genre": "Southern Rock",
+        "year": 1973
+    },
+    {
+        "name": "Sweet Home Alabama (Live)",
+        "artist": "Lynyrd Skynyrd",
+        "genre": "Southern Rock",
+        "year": 1976
     },
     {
         "artist": "Lynyrd Skynyrd",
@@ -4809,6 +5217,18 @@
         "name": "Paper Planes",
         "year": 2007,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Mac DeMarco",
+        "name": "Freaking Out the Neighborhood",
+        "year": 2012,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Mac DeMarco",
+        "name": "My Kind of Woman",
+        "year": 2012,
+        "genre": "Indie Rock"
     },
     {
         "artist": "Mac Miller",
@@ -4830,7 +5250,7 @@
     },
     {
         "artist": "Machine Gun Kelly",
-        "name": "forget me too (feat. Halsey)",
+        "name": "forget me too (ft. Halsey)",
         "year": 2020,
         "genre": "Punk"
     },
@@ -4848,7 +5268,7 @@
     },
     {
         "artist": "Macklemore & Ryan Lewis",
-        "name": "Thrift Shop (feat. Wanz)",
+        "name": "Thrift Shop (ft. Wanz)",
         "year": 2012,
         "genre": "Hip-Hop/Rap"
     },
@@ -4859,16 +5279,40 @@
         "genre": "Alternative"
     },
     {
+        "artist": "Madonna",
+        "name": "Like a Prayer",
+        "year": 1989,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Madonna",
+        "name": "Material Girl",
+        "year": 1984,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Magic!",
         "name": "Rude",
         "year": 2014,
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Major Lazer",
+        "name": "Lean On (ft. M and DJ Snake)",
+        "year": 2015,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Oye Mi Amor",
         "artist": "Maná",
         "genre": "Pop-Rock",
         "year": 1992
+    },
+    {
+        "name": "Sex and Candy",
+        "artist": "Marcy Playground",
+        "genre": "Alternative",
+        "year": 1997
     },
     {
         "name": "The Beautiful People",
@@ -4881,6 +5325,12 @@
         "name": "Uptown Funk (ft. Bruno Mars)",
         "year": 2015,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Marky Mark and the Funky Bunch",
+        "name": "Good Vibrations",
+        "year": 1991,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Maroon 5",
@@ -4907,8 +5357,20 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "Moves Like Jagger (ft. Christina Aguilera)",
+        "artist": "Maroon 5",
+        "genre": "Pop/Rock",
+        "year": 2011
+    },
+    {
         "artist": "Maroon 5",
         "name": "One More Night",
+        "year": 2012,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Maroon 5",
+        "name": "Payphone (ft. Wiz Khalifa)",
         "year": 2012,
         "genre": "Pop-Rock"
     },
@@ -4917,6 +5379,24 @@
         "artist": "Maroon 5",
         "genre": "Pop Rock",
         "year": 2002
+    },
+    {
+        "name": "This Love",
+        "artist": "Maroon 5",
+        "genre": "Pop-Rock",
+        "year": 2002
+    },
+    {
+        "artist": "Marvin Gaye & Tammi Terrell",
+        "name": "Ain't No Mountain High Enough",
+        "year": 1967,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Marvin Gaye",
+        "name": "Let's Get It On",
+        "year": 1973,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Matchbox Twenty",
@@ -4931,10 +5411,40 @@
         "year": 2007
     },
     {
+        "artist": "Matchbox Twenty",
+        "name": "Real World",
+        "year": 1996,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Matchbox Twenty",
+        "name": "Unwell",
+        "year": 2002,
+        "genre": "Pop-Rock"
+    },
+    {
+        "name": "Girls Who Play Guitars",
+        "artist": "Maxïmo Park",
+        "genre": "Pop Rock",
+        "year": 2007
+    },
+    {
         "name": "Jamie All Over",
         "artist": "Mayday Parade",
         "genre": "Rock",
         "year": 2009
+    },
+    {
+        "artist": "MC Hammer",
+        "name": "U Can't Touch This",
+        "year": 1990,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Meat Loaf",
+        "name": "I Would Do Anything For Love",
+        "year": 1993,
+        "genre": "Rock"
     },
     {
         "name": "Hangar 18",
@@ -4967,6 +5477,24 @@
         "year": 1986
     },
     {
+        "name": "Gold Guns Girls",
+        "artist": "Metric",
+        "genre": "Alternative Rock",
+        "year": 2009
+    },
+    {
+        "artist": "Metro Station",
+        "name": "Control",
+        "year": 2007,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Metro Station",
+        "name": "Shake It",
+        "year": 2007,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "MGMT",
         "name": "Electric Feel",
         "year": 2007,
@@ -4979,22 +5507,70 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Michael Bublé",
+        "name": "Everything",
+        "year": 2007,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Michael Bubl",
+        "name": "Feeling Good",
+        "year": 2005,
+        "genre": "Jazz"
+    },
+    {
         "name": "Beat It",
         "artist": "Michael Jackson",
         "genre": "Pop Rock",
         "year": 1983
     },
     {
+        "artist": "Michael Jackson",
+        "name": "Billie Jean",
+        "year": 1982,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Michael Jackson",
+        "name": "P.Y.T. (Pretty Young Thing)",
+        "year": 1982,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Michael Jackson",
+        "name": "Smooth Criminal",
+        "year": 1987,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Michael Jackson",
+        "name": "Thriller",
+        "year": 1982,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Mickey Avalon",
-        "name": "My Dick (feat. Dirt Nasty & Andre Legacy)",
+        "name": "My Dick (ft. Dirt Nasty & Andre Legacy)",
         "year": 2006,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Midnight Oil",
+        "name": "Beds Are Burning",
+        "year": 1987,
+        "genre": "Rock"
     },
     {
         "name": "Party in the U.S.A.",
         "artist": "Miley Cyrus",
         "genre": "Pop Rock",
         "year": 2009
+    },
+    {
+        "name": "See You Again",
+        "artist": "Miley Cyrus",
+        "genre": "Pop Rock",
+        "year": 2007
     },
     {
         "artist": "Miley Cyrus",
@@ -5007,6 +5583,12 @@
         "name": "Stolen Dance",
         "year": 2013,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Mindless Self Indulgence",
+        "name": "Faggot",
+        "year": 2000,
+        "genre": "Punk"
     },
     {
         "artist": "Mindless Self Indulgence",
@@ -5027,6 +5609,12 @@
         "year": 2004
     },
     {
+        "artist": "Modjo",
+        "name": "Lady (Hear Me Tonight)",
+        "year": 2001,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Flirtin' with Disaster",
         "artist": "Molly Hatchet",
         "genre": "Southern Rock",
@@ -5043,6 +5631,12 @@
         "name": "This Is How We Do It",
         "year": 1995,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Mother Mother",
+        "name": "Baby Don't Dance",
+        "year": 2011,
+        "genre": "Alternative"
     },
     {
         "name": "Ace of Spades '08",
@@ -5183,6 +5777,12 @@
         "genre": "'new_wave'"
     },
     {
+        "artist": "Nancy Sinatra",
+        "name": "These Boots Are Made For Walking",
+        "year": 1966,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Natalie Imbruglia",
         "name": "Torn",
         "year": 1997,
@@ -5219,6 +5819,18 @@
         "year": 2002
     },
     {
+        "artist": "Nelly",
+        "name": "Just a Dream",
+        "year": 2010,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Nelly",
+        "name": "Ride Wit Me",
+        "year": 2000,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Nelly Furtado",
         "name": "I'm Like a Bird",
         "year": 2000,
@@ -5229,6 +5841,12 @@
         "name": "Promiscuous (Ft.Timbaland)",
         "year": 2006,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Animal",
+        "artist": "Neon Trees",
+        "genre": "Pop-Rock",
+        "year": 2010
     },
     {
         "artist": "Neon Trees",
@@ -5274,6 +5892,12 @@
     },
     {
         "artist": "Nicki Minaj",
+        "name": "Anaconda",
+        "year": 2014,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Nicki Minaj",
         "name": "Starships",
         "year": 2012,
         "genre": "Pop/Dance/Electronic"
@@ -5301,6 +5925,48 @@
         "artist": "Nine Inch Nails",
         "genre": "Rock",
         "year": 2005
+    },
+    {
+        "name": "All Apologies",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1993
+    },
+    {
+        "name": "Drain You",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "Heart Shaped Box",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1993
+    },
+    {
+        "name": "In Bloom",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "Polly",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "Rape Me",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1993
+    },
+    {
+        "name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1991
     },
     {
         "artist": "Nirvana",
@@ -5387,6 +6053,18 @@
         "genre": "'indierock'"
     },
     {
+        "name": "Do What You Want",
+        "artist": "OK Go",
+        "genre": "Alternative Rock",
+        "year": 2006
+    },
+    {
+        "name": "Here It Goes Again",
+        "artist": "OK Go",
+        "genre": "Pop Rock",
+        "year": 2005
+    },
+    {
         "artist": "Olivia Newton-John",
         "name": "Physical",
         "year": 1981,
@@ -5405,10 +6083,22 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "OMC",
+        "name": "How Bizarre",
+        "year": 1996,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "One Direction",
         "name": "Drag Me Down",
         "year": 2015,
         "genre": "'popdanceelectronic'"
+    },
+    {
+        "name": "Live While We're Young",
+        "artist": "One Direction",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "One Direction",
@@ -5419,6 +6109,12 @@
     {
         "artist": "One Direction",
         "name": "What Makes You Beautiful",
+        "year": 2011,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "What Makes You Beautiful",
+        "artist": "One Direction",
         "year": 2011,
         "genre": "Pop/Dance/Electronic"
     },
@@ -5477,10 +6173,22 @@
         "year": 2009
     },
     {
+        "artist": "Ozzy Osbourne",
+        "name": "Hellraiser",
+        "year": 1991,
+        "genre": "Metal"
+    },
+    {
         "name": "Mr. Crowley",
         "artist": "Ozzy Osbourne",
         "genre": "Metal",
         "year": 1980
+    },
+    {
+        "artist": "Ozzy Osbourne",
+        "name": "Shot in the Dark",
+        "year": 1986,
+        "genre": "Metal"
     },
     {
         "name": "Get the Party Started",
@@ -5513,6 +6221,18 @@
         "year": 2008
     },
     {
+        "name": "Mundian To Bach Ke",
+        "artist": "Panjabi MC",
+        "genre": "Bhangra",
+        "year": 2003
+    },
+    {
+        "name": "Forever",
+        "artist": "Papa Roach",
+        "genre": "Alternative",
+        "year": 2006
+    },
+    {
         "name": "Last Resort",
         "artist": "Papa Roach",
         "genre": "Alternative",
@@ -5531,6 +6251,12 @@
         "genre": "Nu-Metal"
     },
     {
+        "name": "Time Is Running Out",
+        "artist": "Papa Roach",
+        "genre": "Alternative",
+        "year": 2006
+    },
+    {
         "artist": "Paramore",
         "name": "Ain't It Fun",
         "year": 2013,
@@ -5541,6 +6267,12 @@
         "artist": "Paramore",
         "genre": "Pop Rock",
         "year": 2009
+    },
+    {
+        "name": "Crushcrushcrush",
+        "artist": "Paramore",
+        "genre": "Pop Rock",
+        "year": 2007
     },
     {
         "artist": "Paramore",
@@ -5579,6 +6311,18 @@
         "year": 2009
     },
     {
+        "artist": "Passion Pit",
+        "name": "Carried Away",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Passion Pit",
+        "name": "Take a Walk",
+        "year": 2012,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Heartbreaker",
         "artist": "Pat Benatar",
         "genre": "Classic Rock",
@@ -5603,6 +6347,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Paula Abdul",
+        "name": "Straight Up",
+        "year": 1988,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "Pete Townshend",
         "name": "Let My Love Open the Door",
         "year": 1980,
@@ -5613,6 +6363,12 @@
         "name": "Show Me the Way (Live)",
         "year": 1976,
         "genre": "'rock'"
+    },
+    {
+        "artist": "Phantom Planet",
+        "name": "California",
+        "year": 2002,
+        "genre": "Alternative"
     },
     {
         "artist": "Pharrell Williams",
@@ -5693,6 +6449,30 @@
         "genre": "'emo'"
     },
     {
+        "artist": "Pink Floyd",
+        "name": "Echoes",
+        "year": 1971,
+        "genre": "Classic Rock"
+    },
+    {
+        "name": "Hey You",
+        "artist": "Pink Floyd",
+        "genre": "Progressive Rock",
+        "year": 1979
+    },
+    {
+        "artist": "Pink Floyd",
+        "name": "Wish You Were Here",
+        "year": 1975,
+        "genre": "Prog"
+    },
+    {
+        "artist": "Pitbull",
+        "name": "Hey Baby (Drop It to the Floor) (ft. T-Pain)",
+        "year": 2010,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "name": "Here Comes Your Man",
         "artist": "Pixies",
         "genre": "Alternative",
@@ -5711,10 +6491,34 @@
         "genre": "Alternative"
     },
     {
+        "artist": "Placebo",
+        "name": "The Bitter End",
+        "year": 2003,
+        "genre": "Alternative"
+    },
+    {
         "artist": "Player",
         "name": "Baby Come Back",
         "year": 1977,
         "genre": "'classicrock'"
+    },
+    {
+        "artist": "Pointer Sisters",
+        "name": "I'm So Excited",
+        "year": 1984,
+        "genre": "Pop-Rock"
+    },
+    {
+        "name": "Every Rose Has Its Thorn",
+        "artist": "Poison",
+        "genre": "Glam",
+        "year": 1988
+    },
+    {
+        "name": "Nothin' but a Good Time",
+        "artist": "Poison",
+        "genre": "Glam",
+        "year": 1988
     },
     {
         "name": "Antibodies",
@@ -5765,6 +6569,12 @@
         "year": 1984
     },
     {
+        "name": "Gangnam Style",
+        "artist": "PSY",
+        "genre": "Pop/Dance/Electronic",
+        "year": 2022
+    },
+    {
         "artist": "Public Enemy",
         "name": "Bring tha Noize (ft. Anthrax)",
         "year": 1991,
@@ -5775,6 +6585,12 @@
         "name": "Bring tha Noize (ft. Anthrax) (2x Bass Pedal)",
         "year": 1991,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "name": "Blurry",
+        "artist": "Puddle of Mudd",
+        "genre": "Alternative",
+        "year": 2001
     },
     {
         "name": "Control",
@@ -5795,10 +6611,28 @@
         "year": 2001
     },
     {
+        "artist": "Puffy AmiYumi",
+        "name": "Teen Titans Theme",
+        "year": 2003,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Quad City DJ's",
+        "name": "Space Jam",
+        "year": 1996,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "name": "Another One Bites the Dust",
         "artist": "Queen",
         "genre": "Classic Rock",
         "year": 1980
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Classic Rock",
+        "year": 1975
     },
     {
         "name": "Don't Stop Me Now",
@@ -5885,6 +6719,30 @@
         "genre": "Alternative"
     },
     {
+        "name": "Bulls on Parade",
+        "artist": "Rage Against the Machine",
+        "genre": "Alternative",
+        "year": 1996
+    },
+    {
+        "name": "Guerrilla Radio",
+        "artist": "Rage Against the Machine",
+        "genre": "Alternative",
+        "year": 1999
+    },
+    {
+        "name": "Killing in the Name",
+        "artist": "Rage Against the Machine",
+        "genre": "Alternative",
+        "year": 1992
+    },
+    {
+        "name": "Testify",
+        "artist": "Rage Against the Machine",
+        "genre": "Alternative",
+        "year": 1999
+    },
+    {
         "artist": "Ram Jam",
         "name": "Black Betty",
         "year": 1977,
@@ -5915,6 +6773,18 @@
         "year": 1977
     },
     {
+        "artist": "Rancid",
+        "name": "Fall Back Down",
+        "year": 2003,
+        "genre": "Punk"
+    },
+    {
+        "artist": "Randy Newman",
+        "name": "You've Got a Friend in Me",
+        "year": 1996,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Life Is a Highway",
         "artist": "Rascal Flatts",
         "genre": "Country",
@@ -5933,10 +6803,46 @@
         "year": 1984
     },
     {
+        "artist": "Ray Charles",
+        "name": "Hit the Road Jack",
+        "year": 1961,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "Ghostbusters",
         "artist": "Ray Parker Jr.",
         "genre": "Pop/Rock",
         "year": 1984
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "name": "Aeroplane",
+        "year": 1995,
+        "genre": "Grunge"
+    },
+    {
+        "name": "Breaking the Girl",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 1991
+    },
+    {
+        "name": "By the Way",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 2002
+    },
+    {
+        "name": "Californication",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 1999
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "name": "Can't Stop",
+        "year": 2002,
+        "genre": "Alternative"
     },
     {
         "name": "Dani California",
@@ -5945,7 +6851,55 @@
         "year": 2006
     },
     {
+        "artist": "Red Hot Chili Peppers",
+        "name": "Dark Necessities",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
         "name": "Give It Away",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 1991
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "name": "Go Robot",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "name": "Higher Ground",
+        "year": 1989,
+        "genre": "Alternative"
+    },
+    {
+        "name": "Scar Tissue",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 1999
+    },
+    {
+        "name": "Snow ((Hey Oh))",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Rock",
+        "year": 2006
+    },
+    {
+        "name": "Suck My Kiss",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Alternative",
+        "year": 1991
+    },
+    {
+        "name": "Tell Me Baby",
+        "artist": "Red Hot Chili Peppers",
+        "genre": "Rock",
+        "year": 2006
+    },
+    {
+        "name": "Under the Bridge",
         "artist": "Red Hot Chili Peppers",
         "genre": "Alternative",
         "year": 1991
@@ -5957,10 +6911,22 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Reel Big Fish",
+        "name": "Beer",
+        "year": 2010,
+        "genre": "Reggae/Ska"
+    },
+    {
         "artist": "Relient K",
         "name": "Be My Escape",
         "year": 2004,
         "genre": "Alternative"
+    },
+    {
+        "artist": "REO Speedwagon",
+        "name": "Can't Fight This Feeling",
+        "year": 1984,
+        "genre": "Rock"
     },
     {
         "name": "Keep on Loving You",
@@ -5991,6 +6957,12 @@
         "artist": "Rick Springfield",
         "genre": "Classic Rock",
         "year": 1981
+    },
+    {
+        "artist": "Ricky Martin",
+        "name": "Livin' La Vida Loca",
+        "year": 1999,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Portions for Foxes",
@@ -6029,10 +7001,22 @@
         "year": 2006
     },
     {
+        "artist": "Rob Cantor",
+        "name": "Shia LaBeouf (Live)",
+        "year": 2014,
+        "genre": "Novelty"
+    },
+    {
         "artist": "Robin Thicke",
         "name": "Blurred Lines (ft. Pharrell)",
         "year": 2013,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Ron Wasserman",
+        "name": "Go Go Power Rangers (Long Version)",
+        "year": 1994,
+        "genre": "Rock"
     },
     {
         "name": "The Look",
@@ -6083,6 +7067,24 @@
         "genre": "Rock"
     },
     {
+        "artist": "S Club 7",
+        "name": "Bring It All Back",
+        "year": 1999,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Sade",
+        "name": "Smooth Operator",
+        "year": 1984,
+        "genre": "Jazz"
+    },
+    {
+        "artist": "Saint Motel",
+        "name": "My Type",
+        "year": 2014,
+        "genre": "Indie Rock"
+    },
+    {
         "artist": "Saint Motel",
         "name": "Van Horn",
         "year": 2019,
@@ -6119,6 +7121,12 @@
         "year": 1999
     },
     {
+        "artist": "Sara Bareilles",
+        "name": "Love Song",
+        "year": 2007,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Scandal",
         "name": "The Warrior",
         "year": 1984,
@@ -6143,10 +7151,46 @@
         "genre": "Metal"
     },
     {
+        "artist": "Seal",
+        "name": "Kiss From a Rose",
+        "year": 1995,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Sean Paul",
+        "name": "Get Busy",
+        "year": 2002,
+        "genre": "Latin"
+    },
+    {
+        "artist": "Sean Paul",
+        "name": "Temperature",
+        "year": 2005,
+        "genre": "Latin"
+    },
+    {
+        "name": "Fake It",
+        "artist": "Seether",
+        "genre": "Metal",
+        "year": 2007
+    },
+    {
+        "name": "Rise Above This",
+        "artist": "Seether",
+        "genre": "Alternative",
+        "year": 2007
+    },
+    {
         "artist": "Semisonic",
         "name": "Closing Time",
         "year": 1998,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Sergey Mikhalkov",
+        "name": "State Anthem Of The Soviet Union",
+        "year": 1944,
+        "genre": "Classical"
     },
     {
         "name": "Beethoven's Cunt",
@@ -6159,6 +7203,30 @@
         "name": "Cumbersome",
         "year": 1995,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Shaggy",
+        "name": "Angel (ft. Rayvon)",
+        "year": 2000,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "Shaggy",
+        "name": "It Wasn't Me",
+        "year": 2000,
+        "genre": "Reggae/Ska"
+    },
+    {
+        "artist": "Shakira",
+        "name": "Hips Don't Lie (ft. Wyclef Jean)",
+        "year": 2005,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Shakira",
+        "name": "Whenever, Wherever",
+        "year": 2001,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Shania Twain",
@@ -6189,6 +7257,12 @@
         "name": "Treat You Better",
         "year": 2016,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Sheck Wes",
+        "name": "Mo Bamba",
+        "year": 2018,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Sheryl Crow",
@@ -6299,6 +7373,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Sixpence None The Richer",
+        "name": "Kiss Me",
+        "year": 1997,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Life is Beautiful",
         "artist": "Sixx:A.M.",
         "genre": "Rock",
@@ -6329,22 +7409,34 @@
         "year": 1999
     },
     {
+        "artist": "Smash Mouth",
+        "name": "I'm a Believer",
+        "year": 2001,
+        "genre": "Pop-Rock"
+    },
+    {
+        "name": "Walking on the Sun",
+        "artist": "Smash Mouth",
+        "genre": "Pop-Rock",
+        "year": 1997
+    },
+    {
         "name": "Why Can't We Be Friends",
         "artist": "Smash Mouth",
         "genre": "Pop-Rock",
         "year": 1997
     },
     {
-        "artist": "Foo Fighters",
-        "name": "Everlong",
-        "year": null,
-        "genre": null
+        "artist": "Smashing Pumpkins",
+        "name": "Tonight, Tonight",
+        "year": 1995,
+        "genre": "Alternative"
     },
     {
-        "artist": "Metallica",
-        "name": "Enter Sandman",
-        "year": null,
-        "genre": null
+        "artist": "Snap!",
+        "name": "Rhythm Is a Dancer",
+        "year": 1992,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Drop It Like It's Hot",
@@ -6401,7 +7493,31 @@
         "year": 1988
     },
     {
+        "artist": "Soul Asylum",
+        "name": "Runaway Train",
+        "year": 1992,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Soulja Boy",
+        "name": "Crank That (Soulja Boy)",
+        "year": 2007,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "name": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "genre": "Rock",
+        "year": 1994
+    },
+    {
         "name": "Fell on Black Days",
+        "artist": "Soundgarden",
+        "genre": "Grunge",
+        "year": 1994
+    },
+    {
+        "name": "Spoonman",
         "artist": "Soundgarden",
         "genre": "Grunge",
         "year": 1994
@@ -6477,6 +7593,18 @@
         "artist": "Staind",
         "genre": "Nu-Metal",
         "year": 2003
+    },
+    {
+        "artist": "Stardust",
+        "name": "Music Sounds Better With You",
+        "year": 1998,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Starship",
+        "name": "Nothing's Gonna Stop Us Now",
+        "year": 1987,
+        "genre": "Rock"
     },
     {
         "name": "We Built This City",
@@ -6587,10 +7715,46 @@
         "year": 1976
     },
     {
+        "artist": "Stevie Wonder",
+        "name": "Signed, Sealed, Delivered, I'm Yours",
+        "year": 1970,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "Superstition",
         "artist": "Stevie Wonder",
         "genre": "R&B/Soul/Funk",
         "year": 1972
+    },
+    {
+        "name": "Through Glass",
+        "artist": "Stone Sour",
+        "genre": "Metal",
+        "year": 2006
+    },
+    {
+        "name": "Creep",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1992
+    },
+    {
+        "name": "Interstate Love Song",
+        "artist": "Stone Temple Pilots",
+        "genre": "Rock",
+        "year": 1994
+    },
+    {
+        "name": "Plush",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1992
+    },
+    {
+        "name": "Vasoline",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1994
     },
     {
         "artist": "Stone Temple Pilots",
@@ -6611,16 +7775,58 @@
         "genre": "rockabilly"
     },
     {
+        "artist": "Strong Bad",
+        "name": "Trogdor",
+        "year": 2003,
+        "genre": "Metal"
+    },
+    {
+        "artist": "Styx",
+        "name": "Come Sail Away",
+        "year": 1977,
+        "genre": "Prog"
+    },
+    {
         "name": "Mr. Roboto",
         "artist": "Styx",
         "genre": "Prog",
         "year": 1983
     },
     {
+        "name": "Santeria",
+        "artist": "Sublime",
+        "genre": "Alternative",
+        "year": 1996
+    },
+    {
+        "name": "What I Got",
+        "artist": "Sublime",
+        "genre": "Alternative",
+        "year": 1996
+    },
+    {
+        "name": "Wrong Way",
+        "artist": "Sublime",
+        "genre": "Alternative",
+        "year": 1996
+    },
+    {
         "artist": "Sugar Ray",
         "name": "Every Morning",
         "year": 1999,
         "genre": "Alternative"
+    },
+    {
+        "name": "Fly",
+        "artist": "Sugar Ray",
+        "genre": "Alternative Rock",
+        "year": 1997
+    },
+    {
+        "name": "Someday",
+        "artist": "Sugar Ray",
+        "genre": "Pop-Rock",
+        "year": 1999
     },
     {
         "name": "Memory",
@@ -6665,10 +7871,64 @@
         "year": 1974
     },
     {
+        "artist": "Sweet",
+        "name": "Fox on the Run",
+        "year": 1974,
+        "genre": "Glam"
+    },
+    {
+        "artist": "Switchfoot",
+        "name": "Dare You to Move",
+        "year": 2000,
+        "genre": "Alternative"
+    },
+    {
+        "name": "Meant to Live",
+        "artist": "Switchfoot",
+        "genre": "Alternative",
+        "year": 2003
+    },
+    {
+        "name": "Aerials",
+        "artist": "System of a Down",
+        "genre": "Nu Metal",
+        "year": 2001
+    },
+    {
+        "name": "B.Y.O.B.",
+        "artist": "System of a Down",
+        "genre": "Nu Metal",
+        "year": 2005
+    },
+    {
         "name": "Chop Suey",
         "artist": "System of a Down",
         "genre": "Nu Metal",
         "year": 2001
+    },
+    {
+        "name": "Hypnotize",
+        "artist": "System of a Down",
+        "genre": "Nu Metal",
+        "year": 2005
+    },
+    {
+        "name": "Toxicity",
+        "artist": "System of a Down",
+        "genre": "Nu Metal",
+        "year": 2002
+    },
+    {
+        "artist": "T-Pain",
+        "name": "Bartender (ft. Akon)",
+        "year": 2007,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "T-Pain",
+        "name": "I'm 'n Luv (Wit a Stripper) (ft. Mike Jones)",
+        "year": 2005,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Tai Verdes",
@@ -6713,6 +7973,12 @@
         "genre": "Emo"
     },
     {
+        "artist": "Tal Bachman",
+        "name": "She's So High",
+        "year": 1999,
+        "genre": "Alternative"
+    },
+    {
         "name": "Burning Down the House",
         "artist": "Talking Heads",
         "genre": "New Wave",
@@ -6731,16 +7997,88 @@
         "year": 1977
     },
     {
+        "artist": "Tame Impala",
+        "name": "Elephant",
+        "year": 2012,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Tame Impala",
+        "name": "Feels Like We Only Go Backwards",
+        "year": 2012,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Tame Impala",
+        "name": "Let It Happen",
+        "year": 2015,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Tame Impala",
+        "name": "The Less I Know the Better",
+        "year": 2015,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Tay Zonday",
+        "name": "Chocolate Rain",
+        "year": 2007,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Taylor Swift",
+        "name": "Cruel Summer",
+        "year": 2019,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "Taylor Swift",
         "name": "I Knew You Were Trouble.",
         "year": 2012,
         "genre": "Pop-Rock"
     },
     {
+        "name": "Love Story",
+        "artist": "Taylor Swift",
+        "genre": "Country",
+        "year": 2009
+    },
+    {
+        "name": "Our Song",
+        "artist": "Taylor Swift",
+        "genre": "Country",
+        "year": 2006
+    },
+    {
         "name": "Picture to Burn",
         "artist": "Taylor Swift",
         "genre": "Country",
         "year": 2006
+    },
+    {
+        "artist": "Taylor Swift",
+        "name": "We Are Never Ever Getting Back Together",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "You Belong With Me",
+        "artist": "Taylor Swift",
+        "genre": "Country",
+        "year": 2008
+    },
+    {
+        "artist": "Team America",
+        "name": "America, Fuck Yeah",
+        "year": 2004,
+        "genre": "Rock"
+    },
+    {
+        "name": "Everybody Wants to Rule the World",
+        "artist": "Tears for Fears",
+        "genre": "Pop-Rock",
+        "year": 1985
     },
     {
         "name": "The Con",
@@ -6821,6 +8159,18 @@
         "year": 1970
     },
     {
+        "artist": "The Animals",
+        "name": "House of the Rising Sun",
+        "year": 1966,
+        "genre": "Classic Rock"
+    },
+    {
+        "artist": "The Archies",
+        "name": "Sugar, Sugar",
+        "year": 1969,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "The Boys of Summer (Don Henley cover)",
         "artist": "The Ataris",
         "genre": "Pop Punk",
@@ -6885,6 +8235,18 @@
         "artist": "The Beatles",
         "genre": "Classic Rock",
         "year": null
+    },
+    {
+        "artist": "The Beatles",
+        "name": "Hey Jude",
+        "year": 1968,
+        "genre": "Rock"
+    },
+    {
+        "artist": "The Beatles",
+        "name": "Let It Be",
+        "year": 1970,
+        "genre": "Classic Rock"
     },
     {
         "name": "Twist and Shout",
@@ -6971,10 +8333,28 @@
         "genre": "'alternative'"
     },
     {
+        "artist": "The Buggles",
+        "name": "Video Killed the Radio Star",
+        "year": 1980,
+        "genre": "New Wave"
+    },
+    {
         "artist": "The Calling",
         "name": "Wherever You Will Go",
         "year": 2001,
         "genre": "'alternative'"
+    },
+    {
+        "artist": "The Cardigans",
+        "name": "Carnival",
+        "year": 1995,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Cardigans",
+        "name": "Lovefool",
+        "year": 1996,
+        "genre": "Pop-Rock"
     },
     {
         "name": "Bye Bye Love",
@@ -7091,6 +8471,12 @@
         "year": 2003
     },
     {
+        "artist": "The Doobie Brothers",
+        "name": "What a Fool Believes",
+        "year": 1978,
+        "genre": "Classic Rock"
+    },
+    {
         "name": "Break on Through (To the Other Side)",
         "artist": "The Doors",
         "genre": "Classic Rock",
@@ -7151,6 +8537,24 @@
         "year": 2006
     },
     {
+        "artist": "The Fray",
+        "name": "How to Save a Life",
+        "year": 2005,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Fray",
+        "name": "Over My Head (Cable Car)",
+        "year": 2005,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Fray",
+        "name": "You Found Me",
+        "year": 2009,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "The Front Bottoms",
         "name": "Twin Size Mattress",
         "year": 2013,
@@ -7190,6 +8594,12 @@
         "artist": "The Hollies",
         "name": "Long Cool Woman (In a Black Dress)",
         "year": 1971,
+        "genre": "Classic Rock"
+    },
+    {
+        "artist": "The Hooters",
+        "name": "And We Danced",
+        "year": 1985,
         "genre": "Classic Rock"
     },
     {
@@ -7283,6 +8693,18 @@
         "genre": "Alternative"
     },
     {
+        "artist": "The Kinks",
+        "name": "Come Dancing",
+        "year": 1982,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Kinks",
+        "name": "You Really Got Me",
+        "year": 1964,
+        "genre": "Rock"
+    },
+    {
         "name": "My Sharona",
         "artist": "The Knack (WaveGroup)",
         "genre": "Pop Rock",
@@ -7293,6 +8715,72 @@
         "artist": "The Last Goodnight",
         "genre": "Pop Rock",
         "year": 2007
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Dracula Teeth",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Miracle Aligner",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "My Mistakes Were Made For You",
+        "year": 2008,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Standing Next to Me",
+        "year": 2008,
+        "genre": "Rock"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Sweet Dreams, TN",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "The Age of the Understatement",
+        "year": 2008,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Used To Be My Girl",
+        "year": 2016,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "name": "Wondrous Place",
+        "year": 2008,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Lonely Island",
+        "name": "I Just Had Sex (ft. Akon)",
+        "year": 2011,
+        "genre": "Novelty"
+    },
+    {
+        "artist": "The Lovin' Spoonful",
+        "name": "Do You Believe in Magic",
+        "year": 1965,
+        "genre": "Rock"
+    },
+    {
+        "artist": "The Lovin' Spoonful",
+        "name": "Summer in the City",
+        "year": 1966,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "The Lumineers",
@@ -7311,6 +8799,12 @@
         "artist": "The Monkees (WaveGroup)",
         "genre": "Pop Rock",
         "year": 1966
+    },
+    {
+        "artist": "The Monkees",
+        "name": "I'm A Believer",
+        "year": 1966,
+        "genre": "Pop-Rock"
     },
     {
         "name": "Time We Had",
@@ -7343,6 +8837,36 @@
         "genre": "Hip-Hop/Rap"
     },
     {
+        "name": "Come Out and Play (Keep 'Em Separated)",
+        "artist": "The Offspring",
+        "genre": "Punk",
+        "year": 1994
+    },
+    {
+        "name": "Gone Away",
+        "artist": "The Offspring",
+        "genre": "Rock",
+        "year": 1997
+    },
+    {
+        "name": "Hammerhead",
+        "artist": "The Offspring",
+        "genre": "Rock",
+        "year": 2008
+    },
+    {
+        "artist": "The Offspring",
+        "name": "Kristy, Are You Doing Okay?",
+        "year": 2008,
+        "genre": "Rock"
+    },
+    {
+        "name": "Pretty Fly (For a White Guy)",
+        "artist": "The Offspring",
+        "genre": "Rock",
+        "year": 1998
+    },
+    {
         "name": "Self Esteem",
         "artist": "The Offspring",
         "genre": "Rock",
@@ -7367,15 +8891,39 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "Don't Stand So Close to Me",
+        "artist": "The Police",
+        "genre": "Pop-Rock",
+        "year": 1980
+    },
+    {
         "name": "Every Breath You Take",
         "artist": "The Police",
         "genre": "Pop/Rock",
         "year": 1983
     },
     {
+        "name": "Every Little Thing She Does Is Magic",
+        "artist": "The Police",
+        "genre": "Pop/Rock",
+        "year": 1981
+    },
+    {
+        "name": "Message in a Bottle",
+        "artist": "The Police",
+        "genre": "Rock",
+        "year": 1979
+    },
+    {
         "name": "Next to You",
         "artist": "The Police",
         "genre": "Rock",
+        "year": 1978
+    },
+    {
+        "name": "Roxanne",
+        "artist": "The Police",
+        "genre": "Pop/Rock",
         "year": 1978
     },
     {
@@ -7385,9 +8933,27 @@
         "year": 1979
     },
     {
+        "artist": "The Postal Service",
+        "name": "Such Great Heights",
+        "year": 2003,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Lump",
+        "artist": "The Presidents of the United States of America",
+        "genre": "Pop/Rock",
+        "year": 1995
+    },
+    {
         "artist": "The Presidents of the United States of America",
         "name": "Peaches",
         "year": 1995,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "The Presidents of the United States of America",
+        "name": "Video Killed the Radio Star",
+        "year": 1997,
         "genre": "Alternative"
     },
     {
@@ -7451,10 +9017,40 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "The Ronettes",
+        "name": "Be My Baby",
+        "year": 1964,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "New Slang",
         "artist": "The Shins",
         "genre": "Indie Rock",
         "year": 2001
+    },
+    {
+        "name": "1979",
+        "artist": "The Smashing Pumpkins",
+        "genre": "Alternative Rock",
+        "year": 1995
+    },
+    {
+        "name": "Bullet With Butterfly Wings",
+        "artist": "The Smashing Pumpkins",
+        "genre": "Alternative",
+        "year": 1995
+    },
+    {
+        "name": "Cherub Rock",
+        "artist": "The Smashing Pumpkins",
+        "genre": "Alternative",
+        "year": 1993
+    },
+    {
+        "name": "Today",
+        "artist": "The Smashing Pumpkins",
+        "genre": "Alternative",
+        "year": 1993
     },
     {
         "name": "Stop Me if You Think You've Heard This One Before",
@@ -7529,6 +9125,18 @@
         "genre": "Rock"
     },
     {
+        "name": "Reptilia",
+        "artist": "The Strokes",
+        "genre": "Rock",
+        "year": 2003
+    },
+    {
+        "artist": "The Strokes",
+        "name": "Reptilia",
+        "year": 2003,
+        "genre": "Rock"
+    },
+    {
         "artist": "The Strokes",
         "name": "Someday",
         "year": 2001,
@@ -7541,6 +9149,12 @@
         "genre": "Indie Rock"
     },
     {
+        "name": "Under Cover of Darkness",
+        "artist": "The Strokes",
+        "genre": "Rock",
+        "year": 2011
+    },
+    {
         "artist": "The Strokes",
         "name": "You Only Live Once",
         "year": 2006,
@@ -7551,6 +9165,30 @@
         "name": "Body Talks",
         "year": 2018,
         "genre": "Rock"
+    },
+    {
+        "artist": "The Struts",
+        "name": "Kiss This",
+        "year": 2014,
+        "genre": "Rock"
+    },
+    {
+        "artist": "The Sugarhill Gang",
+        "name": "Apache",
+        "year": 1981,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "The Sugarhill Gang",
+        "name": "Rapper's Delight (Album Edit)",
+        "year": 1980,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "The Trammps",
+        "name": "Disco Inferno",
+        "year": 1976,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "The Troggs",
@@ -7577,6 +9215,12 @@
         "genre": "Rock"
     },
     {
+        "artist": "The Verve",
+        "name": "Bitter Sweet Symphony",
+        "year": 1997,
+        "genre": "Rock"
+    },
+    {
         "name": "Get Free",
         "artist": "The Vines",
         "genre": "Rock",
@@ -7589,6 +9233,12 @@
         "year": 2004
     },
     {
+        "artist": "The Wallflowers",
+        "name": "One Headlight",
+        "year": 1996,
+        "genre": "Classic Rock"
+    },
+    {
         "artist": "The Wanted",
         "name": "Glad You Came",
         "year": 2011,
@@ -7599,6 +9249,12 @@
         "name": "Survive",
         "year": 2017,
         "genre": "Rock"
+    },
+    {
+        "artist": "The Weather Girls",
+        "name": "It's Raining Men",
+        "year": 1983,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "The Weeknd",
@@ -7661,6 +9317,12 @@
         "year": 1970
     },
     {
+        "artist": "Theory of a Deadman",
+        "name": "Bad Girlfriend",
+        "year": 2008,
+        "genre": "Rock"
+    },
+    {
         "name": "Jailbreak (Live)",
         "artist": "Thin Lizzy",
         "genre": "Classic Rock",
@@ -7673,10 +9335,40 @@
         "year": 1977
     },
     {
+        "name": "Graduate",
+        "artist": "Third Eye Blind",
+        "genre": "Alternative",
+        "year": 2009
+    },
+    {
+        "artist": "Third Eye Blind",
+        "name": "How's It Going To Be?",
+        "year": 1997,
+        "genre": "Rock"
+    },
+    {
         "artist": "Third Eye Blind",
         "name": "Jumper",
         "year": 1997,
         "genre": "Alternative"
+    },
+    {
+        "name": "Losing a Whole Year",
+        "artist": "Third Eye Blind",
+        "genre": "Alternative Rock",
+        "year": 1997
+    },
+    {
+        "name": "Never Let You Go",
+        "artist": "Third Eye Blind",
+        "genre": "Alternative Rock",
+        "year": 1999
+    },
+    {
+        "name": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "genre": "Alternative",
+        "year": 1997
     },
     {
         "name": "I Hate Everything About You",
@@ -7709,10 +9401,22 @@
         "genre": "Pop-Rock"
     },
     {
-        "name": "American Girl",
-        "artist": "Tom Petty & The Heartbreakers",
-        "genre": "Classic Rock",
-        "year": 1976
+        "artist": "Toad the Wet Sprocket",
+        "name": "Walk on the Ocean",
+        "year": 1991,
+        "genre": "Rock"
+    },
+    {
+        "name": "Possum Kingdom",
+        "artist": "Toadies",
+        "genre": "Grunge",
+        "year": 1994
+    },
+    {
+        "artist": "Toby Keith",
+        "name": "Courtesy of the Red, White and Blue (The Angry American)",
+        "year": 2002,
+        "genre": "Country"
     },
     {
         "name": "Free Fallin'",
@@ -7731,6 +9435,12 @@
         "artist": "Tom Petty",
         "genre": "Classic Rock",
         "year": 1989
+    },
+    {
+        "name": "American Girl",
+        "artist": "Tom Petty and the Heartbreakers",
+        "genre": "Classic Rock",
+        "year": 1976
     },
     {
         "artist": "Tom Petty and the Heartbreakers",
@@ -7763,10 +9473,22 @@
         "year": 1981
     },
     {
+        "artist": "Tones and I",
+        "name": "Dance Monkey",
+        "year": 2019,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "artist": "Tonic",
         "name": "If You Could Only See",
         "year": 1996,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Tool",
+        "name": "Lateralus",
+        "year": 2001,
+        "genre": "Metal"
     },
     {
         "artist": "Toto",
@@ -7781,6 +9503,18 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "Drops of Jupiter",
+        "artist": "Train",
+        "genre": "Pop Rock",
+        "year": 2001
+    },
+    {
+        "artist": "Train",
+        "name": "Hey, Soul Sister",
+        "year": 2009,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Travis Scott",
         "name": "SICKO MODE",
         "year": 2018,
@@ -7791,6 +9525,12 @@
         "artist": "Tribe",
         "genre": "Rock",
         "year": 1990
+    },
+    {
+        "artist": "Trooper",
+        "name": "Raise a Little Hell",
+        "year": 1978,
+        "genre": "Classic Rock"
     },
     {
         "artist": "twenty one pilots",
@@ -7902,9 +9642,15 @@
     },
     {
         "artist": "Usher",
-        "name": "Yeah! (featuring Lil Jon & Ludacris)",
+        "name": "Yeah! (ft. Lil Jon & Ludacris)",
         "year": 2004,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "name": "A-Punk",
+        "artist": "Vampire Weekend",
+        "genre": "Rock",
+        "year": 2008
     },
     {
         "name": "Cousins",
@@ -7944,6 +9690,18 @@
     },
     {
         "artist": "Van Halen",
+        "name": "Jump",
+        "year": 1984,
+        "genre": "Classic Rock"
+    },
+    {
+        "name": "Jump",
+        "artist": "Van Halen",
+        "genre": "Rock",
+        "year": 1984
+    },
+    {
+        "artist": "Van Halen",
         "name": "Panama",
         "year": 1984,
         "genre": "Rock"
@@ -7971,6 +9729,12 @@
         "name": "Riptide",
         "year": 2013,
         "genre": "'indierock'"
+    },
+    {
+        "artist": "Vanessa Carlton",
+        "name": "A Thousand Miles",
+        "year": 2002,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Vanilla Ice",
@@ -8005,6 +9769,12 @@
     {
         "artist": "Violent Femmes",
         "name": "Blister in the Sun",
+        "year": 1983,
+        "genre": "Punk"
+    },
+    {
+        "artist": "Violent Femmes",
+        "name": "Gone Daddy Gone",
         "year": 1983,
         "genre": "Punk"
     },
@@ -8135,6 +9905,12 @@
         "genre": "Novelty"
     },
     {
+        "artist": "Wham!",
+        "name": "Wake Me Up Before You Go-Go",
+        "year": 1984,
+        "genre": "New Wave"
+    },
+    {
         "artist": "Wheatus",
         "name": "Teenage Dirtbag (2020)",
         "year": 2020,
@@ -8195,6 +9971,12 @@
         "year": 2003
     },
     {
+        "artist": "Yellowcard",
+        "name": "Lights and Sounds",
+        "year": 2006,
+        "genre": "Emo"
+    },
+    {
         "name": "Ocean Avenue",
         "artist": "Yellowcard",
         "genre": "Emo",
@@ -8207,6 +9989,12 @@
         "year": 1983
     },
     {
+        "name": "Roundabout",
+        "artist": "Yes",
+        "genre": "Progressive",
+        "year": 1971
+    },
+    {
         "artist": "Ylvis",
         "name": "The Fox (What Does the Fox Say?)",
         "year": 2013,
@@ -8217,6 +10005,12 @@
         "artist": "Young the Giant",
         "genre": "Indie Rock",
         "year": 2010
+    },
+    {
+        "artist": "Zedd",
+        "name": "Clarity (ft. Foxes)",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Sharp Dressed Man (Live)",
