@@ -84,12 +84,6 @@
         "genre": null
     },
     {
-        "artist": "Counting Crows",
-        "name": "Accidentally in Love (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Creedence Clearwater Revival",
         "name": "Bad Moon Rising (Harmonix)",
         "year": null,
@@ -122,12 +116,6 @@
     {
         "artist": "Creedence Clearwater Revival",
         "name": "Up Around the Bend (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Dashboard Confessional",
-        "name": "Hands Down (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -1705,6 +1693,12 @@
     },
     {
         "artist": "Bloc Party",
+        "name": "Banquet",
+        "year": 2005,
+        "genre": "Indie Rock"
+    },
+    {
+        "artist": "Bloc Party",
         "name": "Helicopter",
         "year": 2005,
         "genre": "Indie Rock"
@@ -2371,12 +2365,6 @@
     },
     {
         "artist": "Coldplay",
-        "name": "Paradise",
-        "year": 2011,
-        "genre": "'alternative'"
-    },
-    {
-        "artist": "Coldplay",
         "name": "Speed of Sound",
         "year": 2005,
         "genre": "Alternative"
@@ -2422,6 +2410,12 @@
         "name": "The Rhythm of the Night",
         "year": 1995,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Accidentally in Love",
+        "artist": "Counting Crows",
+        "genre": "Rock",
+        "year": 2004
     },
     {
         "artist": "Counting Crows",
@@ -2496,12 +2490,6 @@
         "genre": "'poprock'"
     },
     {
-        "artist": "Cyndi Lauper",
-        "name": "Time After Time",
-        "year": 1983,
-        "genre": "'poprock'"
-    },
-    {
         "artist": "Cypress Hill",
         "name": "Insane In The Brain",
         "year": 1993,
@@ -2532,16 +2520,16 @@
         "year": 1988
     },
     {
-        "artist": "BABYMETAL",
-        "name": "Headbangeeeeerrrrr!!!!!",
-        "year": 2014,
-        "genre": "Metal"
-    },
-    {
         "artist": "Darius Rucker",
         "name": "Wagon Wheel",
         "year": 2013,
         "genre": "Country"
+    },
+    {
+        "name": "Hands Down",
+        "artist": "Dashboard Confessional",
+        "genre": "Pop/Rock",
+        "year": 2003
     },
     {
         "artist": "Dashboard Confessional",
@@ -5189,6 +5177,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Luke Combs",
+        "name": "Fast Car",
+        "year": 2023,
+        "genre": "Country"
+    },
+    {
         "artist": "Lupe Fiasco",
         "name": "Superstar (ft. Matthew Santos)",
         "year": 2007,
@@ -6831,6 +6825,12 @@
         "artist": "Ray Parker Jr.",
         "genre": "Pop/Rock",
         "year": 1984
+    },
+    {
+        "artist": "Razorlight",
+        "name": "In The Morning",
+        "year": 2006,
+        "genre": "Alternative"
     },
     {
         "artist": "Red Hot Chili Peppers",
@@ -9038,6 +9038,18 @@
         "artist": "The Ronettes",
         "name": "Be My Baby",
         "year": 1964,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Script",
+        "name": "Hall of Fame",
+        "year": 2012,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "The Script",
+        "name": "The Man Who Can't Be Moved",
+        "year": 2008,
         "genre": "Pop-Rock"
     },
     {
