@@ -1519,6 +1519,18 @@
     },
     {
         "artist": "Billy Talent",
+        "name": "Burn the Evidence",
+        "year": 2006,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "Covered in Cowardice",
+        "year": 2006,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
         "name": "Devil in a Midnight Mass",
         "year": 2006,
         "genre": "Rock"
@@ -1543,7 +1555,31 @@
     },
     {
         "artist": "Billy Talent",
+        "name": "Rusted from the Rain",
+        "year": 2009,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
         "name": "Surrender",
+        "year": 2006,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "Sympathy",
+        "year": 2006,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "The Ex",
+        "year": 2003,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "The Navy Song",
         "year": 2006,
         "genre": "Rock"
     },
@@ -1564,6 +1600,24 @@
         "artist": "Billy Talent",
         "genre": "Punk Rock",
         "year": 2008
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "Viking Death March",
+        "year": 2011,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "Where is the Line",
+        "year": 2006,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Billy Talent",
+        "name": "Worker Bees",
+        "year": 2006,
+        "genre": "Rock"
     },
     {
         "artist": "Bishop Briggs",
@@ -1600,6 +1654,12 @@
         "name": "War Pigs (Original Version)",
         "year": 1970,
         "genre": "Metal"
+    },
+    {
+        "artist": "Blackstreet",
+        "name": "No Diggity",
+        "year": 2003,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Bleachers",
@@ -2208,6 +2268,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Chaka Khan",
+        "name": "I'm Every Woman",
+        "year": 1978,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "artist": "Chappell Roan",
         "name": "Good Luck, Babe!",
         "year": 2024,
@@ -2277,6 +2343,12 @@
         "artist": "Christina Aguilera",
         "name": "Beautiful",
         "year": 2002,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Christina Aguilera, Lil' Kim, Mya, and Pink",
+        "name": "Lady Marmalade",
+        "year": 2001,
         "genre": "Pop-Rock"
     },
     {
@@ -2926,6 +2998,12 @@
         "name": "Save Tonight",
         "year": 1997,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Earth, Wind & Fire",
+        "name": "Let's Groove",
+        "year": 1981,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Earth, Wind & Fire",
@@ -3671,6 +3749,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "George Michael",
+        "name": "Faith",
+        "year": 1987,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "George Thorogood & the Destroyers",
         "name": "Who Do You Love?",
         "year": 1978,
@@ -4161,6 +4245,12 @@
         "artist": "Hypernova",
         "genre": "Indie Rock",
         "year": 2010
+    },
+    {
+        "artist": "Ice Cube",
+        "name": "It Was A Good Day",
+        "year": 1992,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Icona Pop",
@@ -4811,6 +4901,12 @@
         "genre": "'rbsoulfunk'"
     },
     {
+        "artist": "Kool & the Gang",
+        "name": "Ladies' Night",
+        "year": 1979,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "Freak on a Leash",
         "artist": "KoRn",
         "genre": "Nu-Metal",
@@ -4863,6 +4959,12 @@
         "name": "The Edge of Glory",
         "year": 2011,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Lauryn Hill",
+        "name": "Doo Wop (That Thing)",
+        "year": 1998,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "name": "All My Friends",
@@ -5051,6 +5153,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Lisa Stansfield",
+        "name": "All Around the World",
+        "year": 1989,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "My Own Worst Enemy",
         "artist": "Lit",
         "genre": "Pop/Rock",
@@ -5181,6 +5289,12 @@
         "name": "Fast Car",
         "year": 2023,
         "genre": "Country"
+    },
+    {
+        "artist": "Luniz",
+        "name": "I Got 5 on It",
+        "year": 1995,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Lupe Fiasco",
@@ -5483,6 +5597,12 @@
         "year": 1982
     },
     {
+        "artist": "Men at Work",
+        "name": "Who Can It Be Now?",
+        "year": 1981,
+        "genre": "New Wave"
+    },
+    {
         "name": "Battery",
         "artist": "Metallica",
         "genre": "Metal",
@@ -5681,6 +5801,12 @@
         "genre": "Rock"
     },
     {
+        "artist": "Mungo Jerry",
+        "name": "In The Summertime",
+        "year": 1970,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Muse",
         "name": "Knights of Cydonia",
         "year": 2006,
@@ -5877,6 +6003,12 @@
         "name": "My Friends Over You",
         "year": 2002,
         "genre": "Punk"
+    },
+    {
+        "artist": "New Kids on the Block",
+        "name": "You Got It (The Right Stuff)",
+        "year": 1988,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Animals",
@@ -7145,6 +7277,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Savage Garden",
+        "name": "Truly Madly Deeply",
+        "year": 1997,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Scandal",
         "name": "The Warrior",
         "year": 1984,
@@ -7703,6 +7841,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Steve Winwood",
+        "name": "Valerie",
+        "year": 1982,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Edge of Seventeen (Just Like the White Winged Dove)",
         "artist": "Stevie Nicks",
         "genre": "Classic Rock",
@@ -7737,6 +7881,12 @@
         "name": "Signed, Sealed, Delivered, I'm Yours",
         "year": 1970,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "name": "Sir Duke",
+        "artist": "Stevie Wonder",
+        "genre": "R&B/Soul/Funk",
+        "year": 1976
     },
     {
         "name": "Superstition",
@@ -7947,6 +8097,12 @@
         "name": "I'm 'n Luv (Wit a Stripper) (ft. Mike Jones)",
         "year": 2005,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Taco",
+        "name": "Puttin' on the Ritz",
+        "year": 1982,
+        "genre": "New Wave"
     },
     {
         "artist": "Tai Verdes",
@@ -8535,6 +8691,12 @@
         "artist": "The Flys",
         "genre": "Alternative",
         "year": 1998
+    },
+    {
+        "artist": "The Four Tops",
+        "name": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+        "year": 1965,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "The Fratellis",
@@ -9429,6 +9591,12 @@
         "name": "Livin' In The Sunlight, Lovin' In The Moonlight",
         "year": 1968,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "TLC",
+        "name": "No Scrubs",
+        "year": 1999,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Toad the Wet Sprocket",
