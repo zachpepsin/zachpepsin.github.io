@@ -120,12 +120,6 @@
         "genre": null
     },
     {
-        "artist": "Dinosaur Jr.",
-        "name": "Feel the Pain (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Dragonforce",
         "name": "Through the Fire and Flames (Harmonix)",
         "year": null,
@@ -156,36 +150,6 @@
         "genre": null
     },
     {
-        "artist": "Franz Ferdinand",
-        "name": "Take Me Out (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "George Thorogood & The Destroyers",
-        "name": "Bad to the Bone (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Goo Goo Dolls",
-        "name": "Name (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Green Day",
-        "name": "Longview (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Green Day",
-        "name": "Minority (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Green Day",
         "name": "She (Harmonix)",
         "year": null,
@@ -198,26 +162,8 @@
         "genre": null
     },
     {
-        "artist": "Green Day",
-        "name": "When I Come Around (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Janis Joplin & the Full Tilt Boogie Band",
         "name": "Me and Bobby McGee (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Jefferson Airplane",
-        "name": "Somebody to Love (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Jet",
-        "name": "Are You Gonna Be My Girl (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -264,12 +210,6 @@
         "genre": null
     },
     {
-        "artist": "Lenny Kravitz",
-        "name": "Are You Gonna Go My Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Machine Gun Kelly",
         "name": "make up sex (ft. blackbear) (ShantyCH)",
         "year": null,
@@ -278,36 +218,6 @@
     {
         "artist": "Meek Mill",
         "name": "Maybach Curtains (feat. Nas, John Legend & Rick Ross) (Ace Gryphon Jr.)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Metallica",
-        "name": "Enter Sandman (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Metallica",
-        "name": "Fuel (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Metallica",
-        "name": "Master of Puppets (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Metallica",
-        "name": "Nothing Else Matters (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Muse",
-        "name": "Hysteria (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -337,18 +247,6 @@
     },
     {
         "artist": "Pearl Jam",
-        "name": "Jeremy (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Pearl Jam",
-        "name": "The Fixer (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Pearl Jam",
         "name": "Yellow Ledbetter (farottone)",
         "year": null,
         "genre": null
@@ -372,86 +270,14 @@
         "genre": null
     },
     {
-        "artist": "Post Malone",
-        "name": "I Had Some Help (feat. Morgan Wallen) (Miscellany)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queens of the Stone Age",
-        "name": "3's & 7's (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queens of the Stone Age",
-        "name": "Go with the Flow (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queens of the Stone Age",
-        "name": "Little Sister (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queens Of The Stone Age",
-        "name": "Make It Wit Chu (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Queens of the Stone Age",
-        "name": "No One Knows (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "R.E.M.",
-        "name": "Losing My Religion (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "R.E.M.",
-        "name": "Orange Crush (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "R.E.M.",
-        "name": "What's the Frequency, Kenneth？ (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Ramones",
         "name": "Blitzkrieg Bop (Harmonix)",
         "year": null,
         "genre": null
     },
     {
-        "artist": "Ramones",
-        "name": "I Wanna Be Sedated (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Sabrina Carpenter",
         "name": "Espresso (Sad Normie)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Slipknot",
-        "name": "Duality (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Slipknot",
-        "name": "Psychosocial (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -2232,6 +2058,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Carolina Liar",
+        "name": "I'm Not Over",
+        "year": 2008,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "Before He Cheats",
         "artist": "Carrie Underwood",
         "genre": "Country",
@@ -2808,6 +2640,12 @@
         "year": 2009
     },
     {
+        "name": "Feel the Pain",
+        "artist": "Dinosaur Jr.",
+        "genre": "Alternative",
+        "year": 1994
+    },
+    {
         "name": "Holy Diver",
         "artist": "Dio",
         "genre": "Metal",
@@ -3040,6 +2878,12 @@
         "artist": "Eddie Money",
         "genre": "Classic Rock",
         "year": 1977
+    },
+    {
+        "artist": "Eddy Grant",
+        "name": "Electric Avenue",
+        "year": 1982,
+        "genre": "Reggae/Ska"
     },
     {
         "name": "Blue (Da Ba Dee)",
@@ -3647,6 +3491,12 @@
         "year": 2009
     },
     {
+        "name": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "genre": "Alternative",
+        "year": 2004
+    },
+    {
         "name": "All Right Now",
         "artist": "Free",
         "genre": "CLassic Rock",
@@ -3755,6 +3605,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "Bad to the Bone",
+        "artist": "George Thorogood & The Destroyers",
+        "genre": "Rock",
+        "year": 1982
+    },
+    {
         "artist": "George Thorogood & the Destroyers",
         "name": "Who Do You Love?",
         "year": 1978,
@@ -3813,6 +3669,12 @@
         "name": "Iris",
         "year": 1998,
         "genre": "Alternative"
+    },
+    {
+        "name": "Name",
+        "artist": "Goo Goo Dolls",
+        "genre": "Rock",
+        "year": 1995
     },
     {
         "artist": "Goo Goo Dolls",
@@ -3953,6 +3815,18 @@
         "year": 2009
     },
     {
+        "name": "Longview",
+        "artist": "Green Day",
+        "genre": "Punk Rock",
+        "year": 1994
+    },
+    {
+        "name": "Minority",
+        "artist": "Green Day",
+        "genre": "Punk Rock",
+        "year": 2000
+    },
+    {
         "artist": "Green Day",
         "name": "Still Breathing",
         "year": 2016,
@@ -3966,6 +3840,12 @@
     },
     {
         "name": "Welcome to Paradise",
+        "artist": "Green Day",
+        "genre": "Punk",
+        "year": 1994
+    },
+    {
+        "name": "When I Come Around",
         "artist": "Green Day",
         "genre": "Punk",
         "year": 1994
@@ -4235,6 +4115,12 @@
         "genre": "'indierock'"
     },
     {
+        "name": "Cbat",
+        "artist": "Hudson Mohawke",
+        "genre": "Other",
+        "year": 2022
+    },
+    {
         "name": "The Power of Love",
         "artist": "Huey Lewis and the News",
         "genre": "Rock",
@@ -4280,6 +4166,12 @@
         "artist": "Imagine Dragons",
         "name": "Believer",
         "year": 2017,
+        "genre": "Alternative"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "name": "Demons",
+        "year": 2013,
         "genre": "Alternative"
     },
     {
@@ -4457,6 +4349,12 @@
         "genre": "Rock"
     },
     {
+        "name": "Somebody to Love",
+        "artist": "Jefferson Airplane",
+        "genre": "Classic Rock",
+        "year": 1967
+    },
+    {
         "name": "White Rabbit",
         "artist": "Jefferson Airplane",
         "genre": "Classic Rock",
@@ -4485,6 +4383,12 @@
         "name": "Right Here, Right Now",
         "year": 1990,
         "genre": "Alternative"
+    },
+    {
+        "name": "Are You Gonna Be My Girl",
+        "artist": "Jet",
+        "genre": "Rock",
+        "year": 2003
     },
     {
         "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
@@ -4527,6 +4431,12 @@
         "artist": "Joan Jett & The Blackhearts",
         "genre": "Punk",
         "year": 1981
+    },
+    {
+        "name": "Bad Reputation",
+        "artist": "Joan Jett",
+        "genre": "Punk",
+        "year": 1980
     },
     {
         "artist": "Joe \"Bean\" Esposito",
@@ -4691,10 +4601,22 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Justin Timberlake",
+        "name": "SexyBack (ft. Timbaland)",
+        "year": 2006,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
         "name": "Ruby",
         "artist": "Kaiser Chiefs",
         "genre": "Indie Rock",
         "year": 2007
+    },
+    {
+        "name": "Carry on Wayward Son",
+        "artist": "Kansas",
+        "genre": "Progressive",
+        "year": 1976
     },
     {
         "artist": "Kansas",
@@ -5021,6 +4943,12 @@
         "genre": "Alternative"
     },
     {
+        "name": "Are You Gonna Go My Way",
+        "artist": "Lenny Kravitz",
+        "genre": "Rock",
+        "year": 1993
+    },
+    {
         "name": "Fly Away",
         "artist": "Lenny Kravitz",
         "genre": "Psychedelic Rock",
@@ -5061,6 +4989,12 @@
         "name": "Old Town Road (Remix) (ft. Billy Ray Cyrus)",
         "year": 2019,
         "genre": "Country"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "name": "XO Tour Llif3",
+        "year": 2017,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "Lil Wayne",
@@ -5609,6 +5543,30 @@
         "year": 1986
     },
     {
+        "name": "Enter Sandman",
+        "artist": "Metallica",
+        "genre": "Thrash Metal",
+        "year": 1991
+    },
+    {
+        "name": "Fuel",
+        "artist": "Metallica",
+        "genre": "Heavy Metal",
+        "year": 1997
+    },
+    {
+        "name": "Master of Puppets",
+        "artist": "Metallica",
+        "genre": "Thrash Metal",
+        "year": 1986
+    },
+    {
+        "name": "Nothing Else Matters",
+        "artist": "Metallica",
+        "genre": "Thrash Metal",
+        "year": 1991
+    },
+    {
         "name": "Gold Guns Girls",
         "artist": "Metric",
         "genre": "Alternative Rock",
@@ -5805,6 +5763,12 @@
         "name": "In The Summertime",
         "year": 1970,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Hysteria",
+        "artist": "Muse",
+        "genre": "Alternative",
+        "year": 2003
     },
     {
         "artist": "Muse",
@@ -6222,8 +6186,20 @@
     },
     {
         "artist": "Olivia Rodrigo",
+        "name": "get him back!",
+        "year": 2023,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Olivia Rodrigo",
         "name": "good 4 u",
         "year": 2021,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Olivia Rodrigo",
+        "name": "vampire",
+        "year": 2023,
         "genre": "Pop-Rock"
     },
     {
@@ -6497,6 +6473,18 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "Jeremy",
+        "artist": "Pearl Jam",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "The Fixer",
+        "artist": "Pearl Jam",
+        "genre": "Grunge",
+        "year": 2009
+    },
+    {
         "artist": "Pete Townshend",
         "name": "Let My Love Open the Door",
         "year": 1980,
@@ -6689,6 +6677,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "artist": "Post Malone",
+        "genre": "Country",
+        "year": 2024
+    },
+    {
         "artist": "Post Malone",
         "name": "Take What You Want (ft. Ozzy Osbourne & Travis Scott)",
         "year": 2019,
@@ -6833,6 +6827,36 @@
         "year": 1975
     },
     {
+        "name": "3's & 7's",
+        "artist": "Queens of the Stone Age",
+        "genre": "Alternative",
+        "year": 2007
+    },
+    {
+        "name": "Go with the Flow",
+        "artist": "Queens of the Stone Age",
+        "genre": "Rock",
+        "year": 2002
+    },
+    {
+        "name": "Little Sister",
+        "artist": "Queens of the Stone Age",
+        "genre": "Alternative",
+        "year": 2005
+    },
+    {
+        "name": "Make It Wit Chu",
+        "artist": "Queens Of The Stone Age",
+        "genre": "Hard Rock",
+        "year": 2007
+    },
+    {
+        "name": "No One Knows",
+        "artist": "Queens of the Stone Age",
+        "genre": "Rock",
+        "year": 2002
+    },
+    {
         "artist": "R.E.M.",
         "name": "The One I Love",
         "year": 1987,
@@ -6845,10 +6869,28 @@
         "year": 1987
     },
     {
+        "name": "Losing My Religion",
+        "artist": "R.E.M.",
+        "genre": "Alternative",
+        "year": 1991
+    },
+    {
         "name": "Man on the Moon",
         "artist": "R.E.M.",
         "genre": "Alternative",
         "year": 1992
+    },
+    {
+        "name": "Orange Crush",
+        "artist": "R.E.M.",
+        "genre": "Alternative",
+        "year": 1988
+    },
+    {
+        "name": "What's the Frequency, Kenneth?",
+        "artist": "R.E.M.",
+        "genre": "Alternative",
+        "year": 1994
     },
     {
         "name": "Creep",
@@ -6909,6 +6951,12 @@
         "name": "Ich Will",
         "year": 2001,
         "genre": "Metal"
+    },
+    {
+        "name": "I Wanna Be Sedated",
+        "artist": "Ramones",
+        "genre": "Punk",
+        "year": 1978
     },
     {
         "name": "Teenage Lobotomy",
@@ -7557,6 +7605,18 @@
         "artist": "Slightly Stoopid",
         "genre": "Reggae",
         "year": 2007
+    },
+    {
+        "name": "Duality",
+        "artist": "Slipknot",
+        "genre": "Nu Metal",
+        "year": 2004
+    },
+    {
+        "name": "Psychosocial",
+        "artist": "Slipknot",
+        "genre": "Nu Metal",
+        "year": 2008
     },
     {
         "name": "All Star",
@@ -8583,6 +8643,12 @@
         "artist": "The Clash",
         "genre": "Punk",
         "year": 1982
+    },
+    {
+        "artist": "The Click Five",
+        "name": "Just The Girl",
+        "year": 2005,
+        "genre": "Pop-Rock"
     },
     {
         "artist": "The Cranberries",
