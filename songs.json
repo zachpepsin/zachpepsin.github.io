@@ -7,19 +7,7 @@
     },
     {
         "artist": "Aerosmith",
-        "name": "Sweet Emotion (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Aerosmith",
         "name": "Walk This Way (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Alice in Chains",
-        "name": "Man in the Box (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -60,20 +48,8 @@
         "genre": null
     },
     {
-        "artist": "Breaking Benjamin",
-        "name": "I Will Not Bow (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Bring Me The Vitas",
         "name": "Can You Feel My 7th Element (Chezy)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Bruce Springsteen",
-        "name": "Born to Run (Neversoft)",
         "year": null,
         "genre": null
     },
@@ -186,18 +162,6 @@
         "genre": null
     },
     {
-        "artist": "Joan Jett",
-        "name": "Bad Reputation (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Kansas",
-        "name": "Carry on Wayward Son (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Led Zeppelin",
         "name": "Black Dog (Live) (Neversoft)",
         "year": null,
@@ -228,20 +192,8 @@
         "genre": null
     },
     {
-        "artist": "Ozzy Osbourne",
-        "name": "Crazy Train (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Pearl Jam",
         "name": "Alive (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Pearl Jam",
-        "name": "Even Flow (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -354,44 +306,8 @@
         "genre": null
     },
     {
-        "artist": "The Killers",
-        "name": "Human (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Killers",
-        "name": "Smile Like You Mean It (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Killers",
-        "name": "Spaceman (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Killers",
-        "name": "When You Were Young (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Kooks",
-        "name": "Naive (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "The Muffs",
         "name": "Kids in America (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Raconteurs",
-        "name": "Steady, As She Goes (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -408,26 +324,8 @@
         "genre": null
     },
     {
-        "artist": "The Rolling Stones",
-        "name": "Gimme Shelter (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Vines",
-        "name": "Ride (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "The Who",
         "name": "Behind Blue Eyes (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "The Who",
-        "name": "Pinball Wizard (Harmonix)",
         "year": null,
         "genre": null
     },
@@ -444,26 +342,8 @@
         "genre": null
     },
     {
-        "artist": "Trapt",
-        "name": "Headstrong (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
         "artist": "Van Halen",
         "name": "You Really Got Me (Neversoft)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "Wolfmother",
-        "name": "Joker & the Thief (Harmonix)",
-        "year": null,
-        "genre": null
-    },
-    {
-        "artist": "ZZ Top",
-        "name": "Gimme All Your Lovin' (Neversoft)",
         "year": null,
         "genre": null
     },
@@ -684,6 +564,12 @@
         "genre": "Rock"
     },
     {
+        "name": "Sweet Emotion",
+        "artist": "Aerosmith",
+        "genre": "Rock",
+        "year": 1975
+    },
+    {
         "name": "Girl's Not Grey",
         "artist": "AFI",
         "genre": "Alternative",
@@ -760,6 +646,18 @@
         "artist": "Alice in Chains",
         "genre": "Grunge",
         "year": 2009
+    },
+    {
+        "name": "Man in the Box",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "Rooster",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 1992
     },
     {
         "artist": "Alice in Chains",
@@ -1836,6 +1734,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "name": "I Will Not Bow",
+        "artist": "Breaking Benjamin",
+        "genre": "Nu-Metal",
+        "year": 2009
+    },
+    {
         "name": "The Diary of Jane",
         "artist": "Breaking Benjamin",
         "genre": "Nu Metal",
@@ -1870,6 +1774,12 @@
         "name": "Toxic",
         "year": 2003,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "genre": "Rock",
+        "year": 1975
     },
     {
         "artist": "Bruno Mars",
@@ -2472,6 +2382,12 @@
         "year": 1969
     },
     {
+        "artist": "David Bowie",
+        "name": "Starman",
+        "year": 1972,
+        "genre": "Glam"
+    },
+    {
         "name": "Suffragette City",
         "artist": "David Bowie",
         "genre": "Glam",
@@ -2716,6 +2632,12 @@
         "name": "Cake by the Ocean",
         "year": 2015,
         "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Doja Cat",
+        "name": "Say So",
+        "year": 2019,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Dolly Parton",
@@ -3293,16 +3215,16 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "Low (Travis Barker Remix) (ft. T-Pain)",
+        "artist": "Flo Rida",
+        "genre": "Pop Rap",
+        "year": 2007
+    },
+    {
         "artist": "Flo Rida",
         "name": "Right Round (ft. Ke$ha)",
         "year": 2009,
         "genre": "Hip-Hop/Rap"
-    },
-    {
-        "name": "Low (Travis Barker Remix)",
-        "artist": "Flo Rida ft. T-Pain",
-        "genre": "Pop Rap",
-        "year": 2007
     },
     {
         "name": "Handlebars",
@@ -3539,8 +3461,8 @@
         "genre": "Pop-Rock"
     },
     {
-        "name": "We Are Young",
-        "artist": "Fun. ft. Janelle Monáe",
+        "name": "We Are Young (ft. Janelle Monáe)",
+        "artist": "Fun.",
         "genre": "Indie Rock",
         "year": 2012
     },
@@ -5549,6 +5471,18 @@
         "year": 1991
     },
     {
+        "name": "Fade to Black",
+        "artist": "Metallica",
+        "genre": "Thrash Metal",
+        "year": 1984
+    },
+    {
+        "name": "For Whom the Bell Tolls",
+        "artist": "Metallica",
+        "genre": "Thrash Metal",
+        "year": 1984
+    },
+    {
         "name": "Fuel",
         "artist": "Metallica",
         "genre": "Heavy Metal",
@@ -5649,6 +5583,12 @@
         "name": "Beds Are Burning",
         "year": 1987,
         "genre": "Rock"
+    },
+    {
+        "artist": "Miley Cyrus",
+        "name": "Flowers",
+        "year": 2023,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Party in the U.S.A.",
@@ -6293,6 +6233,12 @@
         "year": 2009
     },
     {
+        "name": "Crazy Train",
+        "artist": "Ozzy Osbourne",
+        "genre": "Metal",
+        "year": 1980
+    },
+    {
         "artist": "Ozzy Osbourne",
         "name": "Hellraiser",
         "year": 1991,
@@ -6471,6 +6417,12 @@
         "name": "Straight Up",
         "year": 1988,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Even Flow",
+        "artist": "Pearl Jam",
+        "genre": "Grunge",
+        "year": 1991
     },
     {
         "name": "Jeremy",
@@ -6684,6 +6636,12 @@
     },
     {
         "artist": "Post Malone",
+        "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "year": 2019,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Post Malone",
         "name": "Take What You Want (ft. Ozzy Osbourne & Travis Scott)",
         "year": 2019,
         "genre": "Pop-Rock"
@@ -6855,6 +6813,12 @@
         "artist": "Queens of the Stone Age",
         "genre": "Rock",
         "year": 2002
+    },
+    {
+        "artist": "R. Kelly",
+        "name": "Ignition (Remix)",
+        "year": 2003,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "R.E.M.",
@@ -7209,12 +7173,6 @@
         "name": "Blurred Lines (ft. Pharrell)",
         "year": 2013,
         "genre": "R&B/Soul/Funk"
-    },
-    {
-        "artist": "Ron Wasserman",
-        "name": "Go Go Power Rangers (Long Version)",
-        "year": 1994,
-        "genre": "Rock"
     },
     {
         "name": "The Look",
@@ -8657,6 +8615,12 @@
         "genre": "Alternative"
     },
     {
+        "name": "Linger",
+        "artist": "The Cranberries",
+        "genre": "Alternative",
+        "year": 1993
+    },
+    {
         "artist": "The Cranberries",
         "name": "Zombie",
         "year": 1994,
@@ -8921,6 +8885,12 @@
         "genre": "Alternative"
     },
     {
+        "name": "Human",
+        "artist": "The Killers",
+        "genre": "New Wave",
+        "year": 2008
+    },
+    {
         "artist": "The Killers",
         "name": "Jenny Was a Friend of Mine",
         "year": 2004,
@@ -8939,6 +8909,24 @@
         "genre": "Alternative"
     },
     {
+        "name": "Smile Like You Mean It",
+        "artist": "The Killers",
+        "genre": "Alternative",
+        "year": 2004
+    },
+    {
+        "name": "Spaceman",
+        "artist": "The Killers",
+        "genre": "Alternative",
+        "year": 2008
+    },
+    {
+        "name": "When You Were Young",
+        "artist": "The Killers",
+        "genre": "Alternative",
+        "year": 2006
+    },
+    {
         "artist": "The Kinks",
         "name": "Come Dancing",
         "year": 1982,
@@ -8955,6 +8943,18 @@
         "artist": "The Knack (WaveGroup)",
         "genre": "Pop Rock",
         "year": 1979
+    },
+    {
+        "name": "Naive",
+        "artist": "The Kooks",
+        "genre": "Indie Rock",
+        "year": 2006
+    },
+    {
+        "artist": "The La's",
+        "name": "There She Goes",
+        "year": 1990,
+        "genre": "Alternative"
     },
     {
         "name": "Pictures of You",
@@ -9075,6 +9075,12 @@
         "artist": "The New Pornographers",
         "genre": "Rock",
         "year": 2003
+    },
+    {
+        "artist": "The Notorious B.I.G.",
+        "name": "Big Poppa",
+        "year": 1994,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "artist": "The Notorious B.I.G.",
@@ -9209,6 +9215,12 @@
         "genre": "'rock'"
     },
     {
+        "name": "Steady, As She Goes",
+        "artist": "The Raconteurs",
+        "genre": "Rock",
+        "year": 2006
+    },
+    {
         "artist": "The Red Jumpsuit Apparatus",
         "name": "Face Down",
         "year": 2006,
@@ -9237,6 +9249,12 @@
         "name": "Change",
         "year": 2018,
         "genre": "Alternative"
+    },
+    {
+        "name": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "genre": "Classic Rock",
+        "year": 1969
     },
     {
         "artist": "The Rolling Stones",
@@ -9485,6 +9503,12 @@
         "year": 2002
     },
     {
+        "name": "Ride",
+        "artist": "The Vines",
+        "genre": "Rock",
+        "year": 2004
+    },
+    {
         "name": "C'mon C'mon",
         "artist": "The Von Bondies",
         "genre": "Alternative",
@@ -9534,6 +9558,12 @@
     },
     {
         "artist": "The Weeknd",
+        "name": "Take My Breath",
+        "year": 2022,
+        "genre": "R&B/Soul/Funk"
+    },
+    {
+        "artist": "The Weeknd",
         "name": "The Hills",
         "year": 2015,
         "genre": "R&B/Soul/Funk"
@@ -9567,6 +9597,12 @@
         "artist": "The Who",
         "genre": "Classic Rock",
         "year": 1982
+    },
+    {
+        "name": "Pinball Wizard",
+        "artist": "The Who",
+        "genre": "Classic Rock",
+        "year": 1969
     },
     {
         "name": "Who Are You",
@@ -9777,6 +9813,12 @@
         "name": "Hey, Soul Sister",
         "year": 2009,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Headstrong",
+        "artist": "Trapt",
+        "genre": "Alternative Metal",
+        "year": 2002
     },
     {
         "artist": "Travis Scott",
@@ -10223,6 +10265,12 @@
         "year": 1980
     },
     {
+        "name": "Joker & the Thief",
+        "artist": "Wolfmother",
+        "genre": "Rock",
+        "year": 2005
+    },
+    {
         "name": "Woman",
         "artist": "Wolfmother",
         "genre": "Rock",
@@ -10242,6 +10290,12 @@
     },
     {
         "name": "Ocean Avenue",
+        "artist": "Yellowcard",
+        "genre": "Emo",
+        "year": 2003
+    },
+    {
+        "name": "Only One",
         "artist": "Yellowcard",
         "genre": "Emo",
         "year": 2003
@@ -10275,6 +10329,12 @@
         "name": "Clarity (ft. Foxes)",
         "year": 2012,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Gimme All Your Lovin'",
+        "artist": "ZZ Top",
+        "genre": "Southern Rock",
+        "year": 1983
     },
     {
         "name": "Sharp Dressed Man (Live)",
