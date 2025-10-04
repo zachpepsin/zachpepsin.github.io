@@ -3623,6 +3623,12 @@
         "genre": "Punk"
     },
     {
+        "artist": "Good Charlotte",
+        "name": "Little Things",
+        "year": 2000,
+        "genre": "Pop-Rock"
+    },
+    {
         "name": "The Anthem",
         "artist": "Good Charlotte",
         "genre": "Pop-Rock",
@@ -4289,6 +4295,12 @@
         "genre": "Country"
     },
     {
+        "artist": "Jennifer Lopez",
+        "name": "Love Don't Cost A Thing",
+        "year": 2001,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
         "name": "Beautiful Soul",
         "artist": "Jesse McCartney",
         "genre": "Pop",
@@ -4638,6 +4650,12 @@
     },
     {
         "artist": "Kendrick Lamar",
+        "name": "i",
+        "year": 2015,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Kendrick Lamar",
         "name": "King Kunta",
         "year": 2015,
         "genre": "Hip-Hop/Rap"
@@ -4953,6 +4971,12 @@
         "artist": "Linkin Park",
         "genre": "Nu-Metal",
         "year": 2000
+    },
+    {
+        "artist": "Linkin Park",
+        "name": "Faint",
+        "year": 2003,
+        "genre": "Nu-Metal"
     },
     {
         "artist": "Linkin Park",
@@ -5969,6 +5993,30 @@
         "genre": "'alternative'"
     },
     {
+        "name": "Closer",
+        "artist": "Nine Inch Nails",
+        "genre": "Rock",
+        "year": 1994
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "name": "Every Day Is Exactly the Same",
+        "year": 2005,
+        "genre": "Metal"
+    },
+    {
+        "name": "Head Like a Hole",
+        "artist": "Nine Inch Nails",
+        "genre": "Rock",
+        "year": 1989
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "name": "Only",
+        "year": 2005,
+        "genre": "Rock"
+    },
+    {
         "name": "The Hand That Feeds",
         "artist": "Nine Inch Nails",
         "genre": "Rock",
@@ -6546,6 +6594,18 @@
     },
     {
         "artist": "Pink Floyd",
+        "name": "Money",
+        "year": 1973,
+        "genre": "Prog"
+    },
+    {
+        "artist": "Pink Floyd",
+        "name": "Time",
+        "year": 1973,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Pink Floyd",
         "name": "Wish You Were Here",
         "year": 1975,
         "genre": "Prog"
@@ -6629,10 +6689,16 @@
         "genre": "Pop-Rock"
     },
     {
-        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "name": "I Had Some Help (ft. Morgan Wallen)",
         "artist": "Post Malone",
         "genre": "Country",
         "year": 2024
+    },
+    {
+        "artist": "Post Malone",
+        "name": "Pour Me A Drink (ft. Blake Shelton)",
+        "year": 2024,
+        "genre": "Country"
     },
     {
         "artist": "Post Malone",
@@ -6867,6 +6933,12 @@
         "name": "Jigsaw Falling Into Place",
         "year": 2007,
         "genre": "Alternative"
+    },
+    {
+        "artist": "Rae Sremmurd",
+        "name": "Black Beatles (ft. Gucci Mane)",
+        "year": 2016,
+        "genre": "Hip-Hop/Rap"
     },
     {
         "name": "Bulls on Parade",
@@ -7163,6 +7235,12 @@
         "year": 2006
     },
     {
+        "artist": "Rob Base & DJ EZ Rock",
+        "name": "It Takes Two",
+        "year": 1988,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Rob Cantor",
         "name": "Shia LaBeouf (Live)",
         "year": 2014,
@@ -7439,6 +7517,12 @@
         "year": 2008
     },
     {
+        "artist": "SHOP BOYZ",
+        "name": "Party Like A Rock Star",
+        "year": 2007,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Sia",
         "name": "Chandelier",
         "year": 2014,
@@ -7563,6 +7647,12 @@
         "artist": "Slightly Stoopid",
         "genre": "Reggae",
         "year": 2007
+    },
+    {
+        "name": "Before I Forget",
+        "artist": "Slipknot",
+        "genre": "Metal",
+        "year": 2004
     },
     {
         "name": "Duality",
@@ -8049,6 +8139,12 @@
         "artist": "Survivor",
         "genre": "Rock",
         "year": 1982
+    },
+    {
+        "artist": "Swedish House Mafia",
+        "name": "Don't You Worry Child (ft. John Martin)",
+        "year": 2012,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Ballroom Blitz",
@@ -8657,6 +8753,12 @@
         "genre": "New Wave"
     },
     {
+        "artist": "The Cure",
+        "name": "Friday I'm in Love",
+        "year": 1992,
+        "genre": "New Wave"
+    },
+    {
         "name": "Just Like Heaven",
         "artist": "The Cure",
         "genre": "New Wave",
@@ -8951,6 +9053,12 @@
         "year": 2006
     },
     {
+        "artist": "The Kooks",
+        "name": "She Moves In Her Own Way",
+        "year": 2006,
+        "genre": "Alternative"
+    },
+    {
         "artist": "The La's",
         "name": "There She Goes",
         "year": 1990,
@@ -9141,6 +9249,12 @@
         "name": "Your Love",
         "year": 1985,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Green Grass and High Tides",
+        "artist": "The Outlaws (WaveGroup)",
+        "genre": "Southern Rock",
+        "year": 1975
     },
     {
         "name": "Don't Stand So Close to Me",
@@ -10056,8 +10170,8 @@
     },
     {
         "artist": "Vengaboys",
-        "name": "We Like to Party! (The Vengabus)",
-        "year": 1999,
+        "name": "We Like To Party! (The Vengabus)",
+        "year": 1998,
         "genre": "Pop/Dance/Electronic"
     },
     {
