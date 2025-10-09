@@ -513,7 +513,7 @@
         "artist": "Ace of Base",
         "name": "All That She Wants",
         "year": 1993,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Adam Lambert",
@@ -597,7 +597,7 @@
         "artist": "AJR",
         "name": "Way Less Sad",
         "year": 2021,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Akon",
@@ -663,7 +663,7 @@
         "artist": "Alice in Chains",
         "name": "Them Bones",
         "year": 1992,
-        "genre": "'grunge'"
+        "genre": "Grunge"
     },
     {
         "artist": "Alicia Keys",
@@ -897,7 +897,7 @@
         "artist": "Aretha Franklin",
         "name": "Respect",
         "year": 1967,
-        "genre": "'rbsoulfunk'"
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Ariana Grande",
@@ -1059,7 +1059,7 @@
         "artist": "Bachman-Turner Overdrive",
         "name": "Takin' Care of Business",
         "year": 1974,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "name": "You Ain't Seen Nothing Yet",
@@ -1142,7 +1142,7 @@
     {
         "name": "No Sleep till Brooklyn",
         "artist": "Beastie Boys",
-        "genre": "Hiphop/Rap",
+        "genre": "Hip-Hop/Rap",
         "year": 1986
     },
     {
@@ -1320,9 +1320,9 @@
         "genre": "Punk"
     },
     {
-        "name": "Turn Your Back (with Anti-Flag)",
+        "name": "Turn Your Back (ft. Anti-Flag)",
         "artist": "Billy Talent",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2008
     },
     {
@@ -1419,7 +1419,7 @@
         "artist": "blink-182",
         "name": "Anthem Part Two",
         "year": 2001,
-        "genre": "'punk'"
+        "genre": "Punk"
     },
     {
         "artist": "blink-182",
@@ -1742,7 +1742,7 @@
     {
         "name": "The Diary of Jane",
         "artist": "Breaking Benjamin",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2006
     },
     {
@@ -1863,7 +1863,7 @@
         "artist": "Bush",
         "name": "Glycerine",
         "year": 1994,
-        "genre": "'grunge'"
+        "genre": "Grunge"
     },
     {
         "name": "Machinehead",
@@ -2103,7 +2103,7 @@
         "artist": "Chuck Berry",
         "name": "Johnny B. Goode",
         "year": 1959,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "name": "Tubthumping",
@@ -2235,7 +2235,7 @@
         "artist": "Counting Crows",
         "name": "Mr. Jones",
         "year": 1993,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Low",
@@ -2289,7 +2289,7 @@
         "artist": "Culture Club",
         "name": "Karma Chameleon",
         "year": 1983,
-        "genre": "'new_wave'"
+        "genre": "New Wave"
     },
     {
         "name": "(I Just) Died in Your Arms",
@@ -2301,7 +2301,7 @@
         "artist": "Cyndi Lauper",
         "name": "Girls Just Want to Have Fun",
         "year": 1983,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Cypress Hill",
@@ -2457,7 +2457,7 @@
         "artist": "Deee-Lite",
         "name": "Groove Is in the Heart",
         "year": 1990,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Deee-Lite",
@@ -2505,7 +2505,7 @@
         "artist": "Demi Lovato",
         "name": "Sorry Not Sorry",
         "year": 2017,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Personal Jesus",
@@ -2547,7 +2547,7 @@
         "artist": "Dido",
         "name": "Thank You",
         "year": 1999,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Sideways (RB3 version)",
@@ -2606,7 +2606,7 @@
     {
         "name": "Down with the Sickness",
         "artist": "Disturbed",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2000
     },
     {
@@ -2655,7 +2655,7 @@
         "artist": "Dolly Spartans",
         "name": "I Hear the Dead",
         "year": 2017,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "American Pie",
@@ -2702,7 +2702,7 @@
     {
         "name": "Take Care (ft. Rihanna)",
         "artist": "Drake",
-        "genre": "R & B",
+        "genre": "R&B/Soul/Funk",
         "year": 2011
     },
     {
@@ -3008,7 +3008,7 @@
     {
         "name": "Bring Me to Life",
         "artist": "Evanescence",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2003
     },
     {
@@ -3081,7 +3081,7 @@
         "artist": "Fall Out Boy",
         "name": "My Songs Know What You Did in the Dark (Light Em Up)",
         "year": 2013,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "name": "Sugar, We're Goin Down",
@@ -3111,7 +3111,7 @@
         "artist": "Falling in Reverse",
         "name": "Voices in My Head",
         "year": 2024,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "artist": "Fastball",
@@ -3506,7 +3506,7 @@
         "artist": "Genesis",
         "name": "Land of Confusion",
         "year": 1986,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "artist": "Genesis",
@@ -3542,7 +3542,7 @@
         "artist": "Gerry Rafferty",
         "name": "Baker Street",
         "year": 1978,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "artist": "Gin Blossoms",
@@ -3691,67 +3691,67 @@
     {
         "name": "21 Guns",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2009
     },
     {
         "name": "American Idiot",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2004
     },
     {
         "name": "Basket Case",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 1994
     },
     {
         "name": "Boulevard of Broken Dreams",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2004
     },
     {
         "name": "Brain Stew/Jaded",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 1995
     },
     {
         "name": "East Jesus Nowhere",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2009
     },
     {
         "name": "Holiday",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2004
     },
     {
         "name": "Jesus of Suburbia",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2004
     },
     {
         "name": "Know Your Enemy",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2009
     },
     {
         "name": "Longview",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 1994
     },
     {
         "name": "Minority",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2000
     },
     {
@@ -3763,7 +3763,7 @@
     {
         "name": "Warning",
         "artist": "Green Day",
-        "genre": "Punk Rock",
+        "genre": "Punk",
         "year": 2000
     },
     {
@@ -3944,7 +3944,7 @@
         "artist": "Heart",
         "name": "Magic Man",
         "year": 1976,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "artist": "Heart",
@@ -3985,7 +3985,7 @@
     {
         "name": "Young",
         "artist": "Hollywood Undead",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2008
     },
     {
@@ -4040,7 +4040,7 @@
         "artist": "Hozier",
         "name": "Take Me to Church",
         "year": 2014,
-        "genre": "'indierock'"
+        "genre": "Indie Rock"
     },
     {
         "name": "Cbat",
@@ -4124,7 +4124,7 @@
         "artist": "Imagine Dragons",
         "name": "Thunder",
         "year": 2017,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Drive",
@@ -4214,7 +4214,7 @@
         "artist": "Jamiroquai",
         "name": "Virtual Insanity",
         "year": 1996,
-        "genre": "Rock"
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "Been Caught Stealing",
@@ -4376,13 +4376,13 @@
         "artist": "Joe \"Bean\" Esposito",
         "name": "You're the Best",
         "year": 1984,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Joesef",
         "name": "It's Been a Little Heavy Lately",
         "year": 2022,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "John Denver",
@@ -4477,7 +4477,7 @@
     {
         "name": "Catalina Fight Song",
         "artist": "Joyce Manor",
-        "genre": "punk rock",
+        "genre": "Punk",
         "year": 2014
     },
     {
@@ -4556,7 +4556,7 @@
         "artist": "Kansas",
         "name": "Dust in the Wind",
         "year": 1977,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "artist": "Kanye West",
@@ -4760,7 +4760,7 @@
         "artist": "Kool & the Gang",
         "name": "Celebration",
         "year": 1980,
-        "genre": "'rbsoulfunk'"
+        "genre": "R&B/Soul/Funk"
     },
     {
         "artist": "Kool & the Gang",
@@ -4779,6 +4779,12 @@
         "artist": "KT Tunstall",
         "genre": "Rock",
         "year": 2004
+    },
+    {
+        "artist": "Kurt Vile",
+        "name": "Pretty Pimpin",
+        "year": 2015,
+        "genre": "Indie Rock"
     },
     {
         "artist": "Lady Gaga",
@@ -4952,7 +4958,7 @@
         "artist": "Limp Bizkit",
         "name": "Rollin' (Air Raid Vehicle)",
         "year": 2000,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Fantasma",
@@ -4982,7 +4988,7 @@
         "artist": "Linkin Park",
         "name": "Given Up",
         "year": 2007,
-        "genre": "'numetal'"
+        "genre": "Nu-Metal"
     },
     {
         "name": "Given Up",
@@ -5011,7 +5017,7 @@
     {
         "name": "One Step Closer",
         "artist": "Linkin Park",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2000
     },
     {
@@ -5138,7 +5144,7 @@
         "artist": "lovelytheband",
         "name": "Broken",
         "year": 2017,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Working for the Weekend",
@@ -5509,7 +5515,7 @@
     {
         "name": "Fuel",
         "artist": "Metallica",
-        "genre": "Heavy Metal",
+        "genre": "Metal",
         "year": 1997
     },
     {
@@ -5744,7 +5750,7 @@
         "artist": "Muse",
         "name": "Starlight",
         "year": 2006,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "artist": "My Chemical Romance",
@@ -5756,7 +5762,7 @@
         "artist": "My Chemical Romance",
         "name": "Famous Last Words",
         "year": 2006,
-        "genre": "'emo'"
+        "genre": "Emo"
     },
     {
         "name": "Helena",
@@ -5797,7 +5803,7 @@
     {
         "name": "Girls, Girls, Girls",
         "artist": "Mötley Crüe",
-        "genre": "Glam Metal",
+        "genre": "Glam",
         "year": 1987
     },
     {
@@ -5827,7 +5833,7 @@
     {
         "name": "Smokin' in the Boys Room",
         "artist": "Mötley Crüe",
-        "genre": "Heavy Metal",
+        "genre": "Metal",
         "year": 1985
     },
     {
@@ -5840,7 +5846,7 @@
         "artist": "Naked Eyes",
         "name": "Always Something There to Remind Me",
         "year": 1983,
-        "genre": "'new_wave'"
+        "genre": "New Wave"
     },
     {
         "artist": "Nancy Sinatra",
@@ -5881,7 +5887,7 @@
     {
         "name": "Hot in Herre",
         "artist": "Nelly",
-        "genre": "Hip-Hop",
+        "genre": "Hip-Hop/Rap",
         "year": 2002
     },
     {
@@ -5918,13 +5924,13 @@
         "artist": "Neon Trees",
         "name": "Everybody Talks",
         "year": 2012,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "New Found Glory",
         "name": "All Downhill from Here",
         "year": 2004,
-        "genre": "'punk'"
+        "genre": "Punk"
     },
     {
         "artist": "New Found Glory",
@@ -5990,7 +5996,7 @@
         "artist": "Nine Days",
         "name": "Absolutely (Story of a Girl)",
         "year": 2000,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "Closer",
@@ -6146,7 +6152,7 @@
         "artist": "Of Monsters and Men",
         "name": "Mountain Sound",
         "year": 2011,
-        "genre": "'indierock'"
+        "genre": "Indie Rock"
     },
     {
         "name": "Do What You Want",
@@ -6170,7 +6176,7 @@
         "artist": "Olivia Rodrigo",
         "name": "brutal",
         "year": 2021,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "Olivia Rodrigo",
@@ -6200,7 +6206,7 @@
         "artist": "One Direction",
         "name": "Drag Me Down",
         "year": 2015,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Live While We're Young",
@@ -6230,7 +6236,7 @@
         "artist": "OneRepublic",
         "name": "Counting Stars",
         "year": 2013,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "artist": "OneRepublic",
@@ -6392,7 +6398,7 @@
         "artist": "Paramore",
         "name": "Hard Times",
         "year": 2017,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "name": "Misery Business",
@@ -6494,7 +6500,7 @@
         "artist": "Peter Frampton",
         "name": "Show Me the Way (Live)",
         "year": 1976,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "artist": "Phantom Planet",
@@ -6578,7 +6584,7 @@
         "artist": "Pierce the Veil",
         "name": "Pass the Nirvana",
         "year": 2022,
-        "genre": "'emo'"
+        "genre": "Emo"
     },
     {
         "artist": "Pink Floyd",
@@ -6589,14 +6595,14 @@
     {
         "name": "Hey You",
         "artist": "Pink Floyd",
-        "genre": "Progressive Rock",
+        "genre": "Progressive",
         "year": 1979
     },
     {
         "artist": "Pink Floyd",
         "name": "Money",
         "year": 1973,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "artist": "Pink Floyd",
@@ -6608,7 +6614,7 @@
         "artist": "Pink Floyd",
         "name": "Wish You Were Here",
         "year": 1975,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "artist": "Pitbull",
@@ -6644,7 +6650,7 @@
         "artist": "Player",
         "name": "Baby Come Back",
         "year": 1977,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "artist": "Pointer Sisters",
@@ -6680,7 +6686,7 @@
         "artist": "Portugal. The Man",
         "name": "Live in the Moment",
         "year": 2017,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "artist": "Post Malone",
@@ -7280,7 +7286,7 @@
         "artist": "Rush",
         "name": "A Passage to Bangkok",
         "year": 1976,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "name": "Tom Sawyer (Original Version)",
@@ -7327,14 +7333,14 @@
     {
         "name": "Push It",
         "artist": "Salt-n-Pepa",
-        "genre": "Hip-Hop",
+        "genre": "Hip-Hop/Rap",
         "year": 1986
     },
     {
         "artist": "Sam Hunt",
         "name": "Body Like a Back Road",
         "year": 2020,
-        "genre": "'country'"
+        "genre": "Country"
     },
     {
         "artist": "Sam Hunt",
@@ -7508,7 +7514,7 @@
         "artist": "Sheryl Crow",
         "name": "Soak Up the Sun",
         "year": 2002,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "name": "Second Chance",
@@ -7657,13 +7663,13 @@
     {
         "name": "Duality",
         "artist": "Slipknot",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2004
     },
     {
         "name": "Psychosocial",
         "artist": "Slipknot",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2008
     },
     {
@@ -7892,7 +7898,7 @@
         "artist": "Steely Dan",
         "name": "Reelin' in the Years",
         "year": 1972,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "artist": "Steppenwolf",
@@ -8060,12 +8066,12 @@
         "artist": "Styx",
         "name": "Come Sail Away",
         "year": 1977,
-        "genre": "Prog"
+        "genre": "Progressive"
     },
     {
         "name": "Mr. Roboto",
         "artist": "Styx",
-        "genre": "Prog",
+        "genre": "Progressive",
         "year": 1983
     },
     {
@@ -8173,31 +8179,31 @@
     {
         "name": "Aerials",
         "artist": "System of a Down",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2001
     },
     {
         "name": "B.Y.O.B.",
         "artist": "System of a Down",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2005
     },
     {
         "name": "Chop Suey",
         "artist": "System of a Down",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2001
     },
     {
         "name": "Hypnotize",
         "artist": "System of a Down",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2005
     },
     {
         "name": "Toxicity",
         "artist": "System of a Down",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2002
     },
     {
@@ -8378,7 +8384,7 @@
         "artist": "Temple of the Dog",
         "name": "Hunger Strike",
         "year": 1991,
-        "genre": "'grunge'"
+        "genre": "Grunge"
     },
     {
         "artist": "Tenacious D",
@@ -8403,6 +8409,12 @@
         "name": "Elephant Bones",
         "year": 2006,
         "genre": "Alternative"
+    },
+    {
+        "artist": "The Academy Is...",
+        "name": "Almost Here",
+        "year": 2005,
+        "genre": "Pop punk"
     },
     {
         "name": "Day Late, Dollar Short",
@@ -8618,7 +8630,7 @@
         "artist": "The Bravery",
         "name": "Believe",
         "year": 2007,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "artist": "The Buggles",
@@ -8630,7 +8642,7 @@
         "artist": "The Calling",
         "name": "Wherever You Will Go",
         "year": 2001,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "artist": "The Cardigans",
@@ -8672,7 +8684,7 @@
         "artist": "The Chainsmokers",
         "name": "Something Just Like This (ft. Coldplay)",
         "year": 2017,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "I Fought the Law",
@@ -8768,7 +8780,7 @@
         "artist": "The Cure",
         "name": "Lovesong",
         "year": 1989,
-        "genre": "'new_wave'"
+        "genre": "New Wave"
     },
     {
         "name": "I Believe in a Thing Called Love",
@@ -9326,7 +9338,7 @@
         "artist": "The Proclaimers",
         "name": "I'm Gonna Be (500 Miles)",
         "year": 1988,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "name": "Steady, As She Goes",
@@ -9338,7 +9350,7 @@
         "artist": "The Red Jumpsuit Apparatus",
         "name": "Face Down",
         "year": 2006,
-        "genre": "'emo'"
+        "genre": "Emo"
     },
     {
         "artist": "The Red Jumpsuit Apparatus",
@@ -9350,7 +9362,7 @@
         "artist": "The Rembrandts",
         "name": "I'll Be There for You (Theme from \"Friends\")",
         "year": 1995,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "name": "Psychobilly Freakout",
@@ -9641,6 +9653,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "The War on Drugs",
+        "name": "Under the Pressure",
+        "year": 2014,
+        "genre": "Indie Rock"
+    },
+    {
         "artist": "The Warning",
         "name": "Survive",
         "year": 2017,
@@ -9725,6 +9743,12 @@
         "year": 1970
     },
     {
+        "artist": "The Wombats",
+        "name": "Moving to New York",
+        "year": 2007,
+        "genre": "Indie Rock"
+    },
+    {
         "artist": "Theory of a Deadman",
         "name": "Bad Girlfriend",
         "year": 2008,
@@ -9788,7 +9812,7 @@
         "artist": "Three Days Grace",
         "name": "Never Too Late",
         "year": 2006,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "name": "The Good Life",
@@ -9860,7 +9884,7 @@
         "artist": "Tom Petty and the Heartbreakers",
         "name": "Don't Do Me Like That",
         "year": 1979,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "artist": "Tom Petty and the Heartbreakers",
@@ -9931,7 +9955,7 @@
     {
         "name": "Headstrong",
         "artist": "Trapt",
-        "genre": "Alternative Metal",
+        "genre": "Nu-Metal",
         "year": 2002
     },
     {
@@ -10148,7 +10172,7 @@
         "artist": "Vance Joy",
         "name": "Riptide",
         "year": 2013,
-        "genre": "'indierock'"
+        "genre": "Indie Rock"
     },
     {
         "artist": "Vanessa Carlton",
@@ -10183,7 +10207,7 @@
     {
         "name": "Y.M.C.A.",
         "artist": "Village People",
-        "genre": "Disco",
+        "genre": "Disco/Pop",
         "year": 1978
     },
     {
@@ -10220,7 +10244,7 @@
         "artist": "Warrant",
         "name": "Cherry Pie",
         "year": 1990,
-        "genre": "'glam'"
+        "genre": "Glam"
     },
     {
         "name": "Werewolves of London",
@@ -10316,7 +10340,7 @@
         "artist": "\"Weird Al\" Yankovic",
         "name": "My Own Eyes",
         "year": 2014,
-        "genre": "'novelty'"
+        "genre": "Novelty"
     },
     {
         "artist": "\"Weird Al\" Yankovic",
@@ -10346,7 +10370,7 @@
         "artist": "Whitney Houston",
         "name": "I Wanna Dance with Somebody (Who Loves Me)",
         "year": 1987,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Whitney Houston",
@@ -10417,7 +10441,7 @@
     {
         "name": "Owner of a Lonely Heart",
         "artist": "Yes",
-        "genre": "Prog",
+        "genre": "Progressive",
         "year": 1983
     },
     {
