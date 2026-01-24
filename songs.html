@@ -20,6 +20,20 @@
             background-color: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(5px);
         }
+        /* Custom Scrollbar for filters */
+        .filter-scroll::-webkit-scrollbar {
+            width: 6px;
+        }
+        .filter-scroll::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        .filter-scroll::-webkit-scrollbar-thumb {
+            background: #c7c7c7;
+            border-radius: 3px;
+        }
+        .filter-scroll::-webkit-scrollbar-thumb:hover {
+            background: #a8a8a8;
+        }
     </style>
 </head>
 <body class="min-h-screen bg-gradient-to-br from-indigo-50 to-blue-100 p-4 font-sans text-gray-800 antialiased">
@@ -47,30 +61,37 @@
                     </svg>
                 </div>
 
-                <button id="toggle-filter-btn" class="flex items-center justify-center px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-700 rounded-lg transition border border-gray-300 gap-2 font-medium">
+                <button id="toggle-filter-btn" class="flex items-center justify-center px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-700 rounded-lg transition border border-gray-300 gap-2 font-medium whitespace-nowrap">
                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
-                    Filters
+                    Filters <span id="filter-count" class="hidden bg-indigo-600 text-white text-xs rounded-full px-2 py-0.5 ml-1">0</span>
                 </button>
 
-                <button id="random-song-btn" class="flex items-center justify-center px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition shadow-md gap-2 font-medium">
+                <button id="random-song-btn" class="flex items-center justify-center px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition shadow-md gap-2 font-medium whitespace-nowrap">
                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
                     Random
                 </button>
             </div>
 
-            <div id="filter-panel" class="hidden mt-4 pt-4 border-t border-gray-200 grid grid-cols-1 md:grid-cols-2 gap-4 bg-gray-50 p-4 rounded-lg">
+            <div id="filter-panel" class="hidden mt-4 pt-4 border-t border-gray-200 grid grid-cols-1 md:grid-cols-2 gap-6 bg-gray-50 p-4 rounded-lg shadow-inner">
+                
                 <div>
-                    <label class="block text-sm font-medium text-gray-700 mb-1">Genre</label>
-                    <select id="genre-select" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-1 focus:ring-indigo-500">
-                        <option value="">All Genres</option>
-                        </select>
+                    <div class="flex justify-between items-center mb-2">
+                        <label class="block text-sm font-bold text-gray-700">Genres</label>
+                        <button id="clear-genres" class="text-xs text-indigo-600 hover:text-indigo-800 hover:underline">Clear</button>
+                    </div>
+                    <div id="genre-container" class="filter-scroll max-h-40 overflow-y-auto bg-white border border-gray-300 rounded-md p-2 space-y-1">
+                        </div>
                 </div>
+
                 <div>
-                    <label class="block text-sm font-medium text-gray-700 mb-1">Decade</label>
-                    <select id="decade-select" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-1 focus:ring-indigo-500">
-                        <option value="">All Decades</option>
-                        </select>
+                    <div class="flex justify-between items-center mb-2">
+                        <label class="block text-sm font-bold text-gray-700">Decades</label>
+                        <button id="clear-decades" class="text-xs text-indigo-600 hover:text-indigo-800 hover:underline">Clear</button>
+                    </div>
+                    <div id="decade-container" class="filter-scroll max-h-40 overflow-y-auto bg-white border border-gray-300 rounded-md p-2 space-y-1">
+                        </div>
                 </div>
+                
             </div>
         </div>
 
@@ -78,16 +99,16 @@
             <table class="min-w-full bg-white rounded-lg overflow-hidden shadow-sm border border-gray-200">
                 <thead class="bg-gray-100 text-gray-700 border-b border-gray-200">
                     <tr>
-                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition" data-sort-key="artist">
+                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition w-1/4" data-sort-key="artist">
                             <div class="flex items-center gap-2">Artist <span class="sort-icon" id="sort-icon-artist"></span></div>
                         </th>
-                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition" data-sort-key="name">
+                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition w-1/3" data-sort-key="name">
                             <div class="flex items-center gap-2">Name <span class="sort-icon" id="sort-icon-name"></span></div>
                         </th>
-                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition" data-sort-key="year">
+                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition w-1/6" data-sort-key="year">
                             <div class="flex items-center gap-2">Year <span class="sort-icon" id="sort-icon-year"></span></div>
                         </th>
-                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition" data-sort-key="genre">
+                        <th class="py-3 px-4 text-left text-sm font-bold cursor-pointer select-none hover:bg-gray-200 transition w-1/4" data-sort-key="genre">
                             <div class="flex items-center gap-2">Genre <span class="sort-icon" id="sort-icon-genre"></span></div>
                         </th>
                     </tr>
@@ -103,9 +124,9 @@
     </div>
 
     <div id="random-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50 hidden backdrop-blur-sm transition-opacity">
-        <div class="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full mx-4 transform transition-all scale-100">
+        <div class="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full mx-4 transform transition-all scale-100 border border-gray-100">
             <div class="text-center">
-                <div class="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-indigo-100 mb-4">
+                <div class="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-indigo-100 mb-4 shadow-sm">
                     <svg class="h-8 w-8 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3" />
                     </svg>
@@ -116,10 +137,10 @@
                     </div>
 
                 <div class="flex flex-col gap-3">
-                    <button id="modal-new-random" class="w-full inline-flex justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-indigo-600 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none sm:text-sm">
+                    <button id="modal-new-random" class="w-full inline-flex justify-center rounded-lg border border-transparent shadow-sm px-4 py-2.5 bg-indigo-600 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none transition sm:text-sm">
                         Pick Another
                     </button>
-                    <button id="modal-close" class="w-full inline-flex justify-center rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-base font-medium text-gray-700 hover:bg-gray-50 focus:outline-none sm:text-sm">
+                    <button id="modal-close" class="w-full inline-flex justify-center rounded-lg border border-gray-300 shadow-sm px-4 py-2.5 bg-white text-base font-medium text-gray-700 hover:bg-gray-50 focus:outline-none transition sm:text-sm">
                         Close
                     </button>
                 </div>
@@ -132,15 +153,12 @@
         let currentSortBy = 'artist';
         let currentSortOrder = 'asc';
         
-        // Helper to handle characters properly
-        // Note: For this to work perfectly, ensure songs.json is saved as UTF-8
-        
         function renderSongs(filteredAndSortedSongs) {
             const tableBody = document.getElementById('song-list-body');
             tableBody.innerHTML = '';
 
             if (filteredAndSortedSongs.length === 0) {
-                tableBody.innerHTML = `<tr><td colspan="4" class="py-8 text-center text-gray-500">No songs found.</td></tr>`;
+                tableBody.innerHTML = `<tr><td colspan="4" class="py-12 text-center text-gray-500 italic">No songs found matching your criteria.</td></tr>`;
                 return;
             }
 
@@ -151,7 +169,7 @@
                     <td class="py-3 px-4 text-sm font-medium text-gray-900">${song.artist || '-'}</td>
                     <td class="py-3 px-4 text-sm text-gray-600">${song.name || '-'}</td>
                     <td class="py-3 px-4 text-sm text-gray-500">${song.year || '-'}</td>
-                    <td class="py-3 px-4 text-sm text-gray-500"><span class="px-2 py-1 bg-gray-100 rounded-full text-xs">${song.genre || 'Unknown'}</span></td>
+                    <td class="py-3 px-4 text-sm text-gray-500"><span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800">${song.genre || 'Unknown'}</span></td>
                 `;
                 tableBody.appendChild(row);
             });
@@ -166,8 +184,8 @@
                 
                 if (typeof aValue === 'string') {
                     return currentSortOrder === 'asc' 
-                        ? aValue.localeCompare(bValue) 
-                        : bValue.localeCompare(aValue);
+                        ? aValue.localeCompare(bValue, undefined, {sensitivity: 'base'}) 
+                        : bValue.localeCompare(aValue, undefined, {sensitivity: 'base'});
                 }
                 return currentSortOrder === 'asc' ? aValue - bValue : bValue - aValue;
             });
@@ -176,8 +194,8 @@
         // --- Filtering Logic ---
 
         function populateFilters() {
-            const genreSelect = document.getElementById('genre-select');
-            const decadeSelect = document.getElementById('decade-select');
+            const genreContainer = document.getElementById('genre-container');
+            const decadeContainer = document.getElementById('decade-container');
             
             const genres = new Set();
             const decades = new Set();
@@ -190,42 +208,66 @@
                 }
             });
 
-            // Populate Genres
+            // Populate Genre Checkboxes
             Array.from(genres).sort().forEach(g => {
-                const option = document.createElement('option');
-                option.value = g;
-                option.textContent = g;
-                genreSelect.appendChild(option);
+                const div = document.createElement('div');
+                div.className = "flex items-center";
+                div.innerHTML = `
+                    <input id="genre-${g}" type="checkbox" name="genre" value="${g}" class="h-4 w-4 text-indigo-600 border-gray-300 rounded focus:ring-indigo-500 cursor-pointer">
+                    <label for="genre-${g}" class="ml-2 block text-sm text-gray-700 cursor-pointer select-none flex-grow">${g}</label>
+                `;
+                genreContainer.appendChild(div);
             });
 
-            // Populate Decades
+            // Populate Decade Checkboxes
             Array.from(decades).sort((a,b) => b-a).forEach(d => {
-                const option = document.createElement('option');
-                option.value = d;
-                option.textContent = `${d}s`;
-                decadeSelect.appendChild(option);
+                const div = document.createElement('div');
+                div.className = "flex items-center";
+                div.innerHTML = `
+                    <input id="decade-${d}" type="checkbox" name="decade" value="${d}" class="h-4 w-4 text-indigo-600 border-gray-300 rounded focus:ring-indigo-500 cursor-pointer">
+                    <label for="decade-${d}" class="ml-2 block text-sm text-gray-700 cursor-pointer select-none flex-grow">${d}s</label>
+                `;
+                decadeContainer.appendChild(div);
+            });
+
+            // Attach listeners to new checkboxes
+            document.querySelectorAll('input[name="genre"], input[name="decade"]').forEach(cb => {
+                cb.addEventListener('change', updateDisplay);
             });
         }
 
         function getFilteredList() {
             const searchTerm = document.getElementById('search-input').value.toLowerCase();
-            const selectedGenre = document.getElementById('genre-select').value;
-            const selectedDecade = document.getElementById('decade-select').value;
+            
+            // Get selected checkboxes
+            const selectedGenres = Array.from(document.querySelectorAll('input[name="genre"]:checked')).map(cb => cb.value);
+            const selectedDecades = Array.from(document.querySelectorAll('input[name="decade"]:checked')).map(cb => parseInt(cb.value));
+
+            // Update UI count badge
+            const totalFilters = selectedGenres.length + selectedDecades.length;
+            const badge = document.getElementById('filter-count');
+            if(totalFilters > 0) {
+                badge.textContent = totalFilters;
+                badge.classList.remove('hidden');
+            } else {
+                badge.classList.add('hidden');
+            }
 
             return songs.filter(song => {
-                // Text Search
-                const matchesSearch = !searchTerm || 
-                    (song.artist && song.artist.toLowerCase().includes(searchTerm)) ||
-                    (song.name && song.name.toLowerCase().includes(searchTerm)) ||
-                    (song.genre && song.genre.toLowerCase().includes(searchTerm));
+                // 1. Text Search (Includes Year now)
+                const searchString = `${song.artist || ''} ${song.name || ''} ${song.genre || ''} ${song.year || ''}`.toLowerCase();
+                const matchesSearch = !searchTerm || searchString.includes(searchTerm);
                 
-                // Genre Filter
-                const matchesGenre = !selectedGenre || song.genre === selectedGenre;
+                // 2. Genre Filter (OR logic within genres)
+                // If no genres selected, allow all. If selected, song.genre must be in list.
+                const matchesGenre = selectedGenres.length === 0 || (song.genre && selectedGenres.includes(song.genre));
 
-                // Decade Filter
+                // 3. Decade Filter (OR logic within decades)
+                // If no decades selected, allow all.
                 let matchesDecade = true;
-                if (selectedDecade) {
-                    matchesDecade = song.year && (Math.floor(song.year / 10) * 10) == selectedDecade;
+                if (selectedDecades.length > 0) {
+                    const songDecade = song.year ? Math.floor(song.year / 10) * 10 : null;
+                    matchesDecade = songDecade && selectedDecades.includes(songDecade);
                 }
 
                 return matchesSearch && matchesGenre && matchesDecade;
@@ -253,11 +295,11 @@
 
             const contentDiv = document.getElementById('random-song-content');
             contentDiv.innerHTML = `
-                <div class="text-2xl font-bold text-indigo-700 mb-1">${song.name}</div>
-                <div class="text-xl text-gray-700 font-medium mb-4">by ${song.artist}</div>
-                <div class="flex justify-center gap-4 text-sm text-gray-500">
-                    <span class="bg-gray-100 px-3 py-1 rounded-full border">📅 ${song.year || 'N/A'}</span>
-                    <span class="bg-gray-100 px-3 py-1 rounded-full border">🎵 ${song.genre || 'N/A'}</span>
+                <div class="text-2xl font-bold text-indigo-700 mb-1 leading-tight">${song.name}</div>
+                <div class="text-lg text-gray-700 font-medium mb-4">by ${song.artist}</div>
+                <div class="flex justify-center gap-2 flex-wrap text-sm text-gray-500">
+                    <span class="bg-gray-100 px-3 py-1 rounded-full border border-gray-200">📅 ${song.year || 'N/A'}</span>
+                    <span class="bg-gray-100 px-3 py-1 rounded-full border border-gray-200">🎵 ${song.genre || 'N/A'}</span>
                 </div>
             `;
             
@@ -281,12 +323,20 @@
 
             // Event Listeners
             document.getElementById('search-input').addEventListener('input', updateDisplay);
-            document.getElementById('genre-select').addEventListener('change', updateDisplay);
-            document.getElementById('decade-select').addEventListener('change', updateDisplay);
 
             // Filter Toggle
             document.getElementById('toggle-filter-btn').addEventListener('click', () => {
                 document.getElementById('filter-panel').classList.toggle('hidden');
+            });
+
+            // Clear Buttons
+            document.getElementById('clear-genres').addEventListener('click', () => {
+                document.querySelectorAll('input[name="genre"]').forEach(cb => cb.checked = false);
+                updateDisplay();
+            });
+            document.getElementById('clear-decades').addEventListener('click', () => {
+                document.querySelectorAll('input[name="decade"]').forEach(cb => cb.checked = false);
+                updateDisplay();
             });
 
             // Random Modal Listeners
@@ -319,13 +369,13 @@
         });
 
         function updateSortIcons() {
-            document.querySelectorAll('.sort-icon').forEach(icon => icon.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-300"><path d="m7 15 5 5 5-5"/><path d="m7 9 5-5 5 5"/></svg>');
+            document.querySelectorAll('.sort-icon').forEach(icon => icon.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-300"><path d="m7 15 5 5 5-5"/><path d="m7 9 5-5 5 5"/></svg>');
             
             const activeIcon = document.getElementById(`sort-icon-${currentSortBy}`);
             if (activeIcon) {
                 activeIcon.innerHTML = currentSortOrder === 'asc' 
-                    ? '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 7-7 7 7"/><path d="M12 19V5"/></svg>'
-                    : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 12-7 7-7-7"/><path d="M12 5v14"/></svg>';
+                    ? '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-indigo-600"><path d="m5 12 7-7 7 7"/><path d="M12 19V5"/></svg>'
+                    : '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-indigo-600"><path d="m19 12-7 7-7-7"/><path d="M12 5v14"/></svg>';
             }
         }
     </script>
