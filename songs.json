@@ -1,5 +1,11 @@
 [
     {
+        "artist": "2Pac",
+        "name": "Changes (ft. Talent)",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "Aerosmith",
         "name": "Dream On (Live) (Harmonix)",
         "year": null,
@@ -7,7 +13,31 @@
     },
     {
         "artist": "Aerosmith",
+        "name": "Rag Doll",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Aerosmith",
         "name": "Walk This Way (Harmonix)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Anamanaguchi",
+        "name": "Miku (ft. Hatsune Miku)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Ben Quad",
+        "name": "Blood for the Blood God",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Bleachers",
+        "name": "I Wanna Get Better",
         "year": null,
         "genre": null
     },
@@ -96,6 +126,12 @@
         "genre": null
     },
     {
+        "artist": "Darude",
+        "name": "Sandstorm",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "Dragonforce",
         "name": "Through the Fire and Flames (Harmonix)",
         "year": null,
@@ -104,6 +140,12 @@
     {
         "artist": "Eagles",
         "name": "Hotel California (Neversoft)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Epic Games",
+        "name": "Larry's Place",
         "year": null,
         "genre": null
     },
@@ -122,6 +164,12 @@
     {
         "artist": "Fleetwood Mac",
         "name": "Go Your Own Way (Harmonix)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Gin Blossoms",
+        "name": "Found Out About You",
         "year": null,
         "genre": null
     },
@@ -162,6 +210,24 @@
         "genre": null
     },
     {
+        "artist": "Joe Jackson",
+        "name": "Is She Really Going Out With",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Jonas Brothers",
+        "name": "Celebrate Happy",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "JW Francis",
+        "name": "Going Home to a Party",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "Led Zeppelin",
         "name": "Black Dog (Live) (Neversoft)",
         "year": null,
@@ -174,6 +240,12 @@
         "genre": null
     },
     {
+        "artist": "Mac Miller",
+        "name": "The Spins (ft. Empire of the Sun)",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "Machine Gun Kelly",
         "name": "make up sex (ft. blackbear) (ShantyCH)",
         "year": null,
@@ -182,6 +254,18 @@
     {
         "artist": "Meek Mill",
         "name": "Maybach Curtains (feat. Nas, John Legend & Rick Ross) (Ace Gryphon Jr.)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Oliver Tree",
+        "name": "Hurt",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "OMI",
+        "name": "Cheerleader (Felix Jaehn Remix)",
         "year": null,
         "genre": null
     },
@@ -228,8 +312,32 @@
         "genre": null
     },
     {
+        "artist": "Ron Wasserman",
+        "name": "Go Go Power Rangers",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Run-DMC",
+        "name": "Walk This Way (ft. Aerosmith)",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "Sabrina Carpenter",
         "name": "Espresso (Sad Normie)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Savage Garden",
+        "name": "I Want You",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Skrillex",
+        "name": "Scary Monsters and Nice Sprites",
         "year": null,
         "genre": null
     },
@@ -242,6 +350,12 @@
     {
         "artist": "Styx",
         "name": "Renegade (Harmonix)",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Surf Mesa",
+        "name": "ily (i love you baby) (ft. Emi",
         "year": null,
         "genre": null
     },
@@ -348,6 +462,18 @@
         "genre": null
     },
     {
+        "artist": "X Ambassadors",
+        "name": "Renegades",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Zac Brown Band",
+        "name": "Chicken Fried",
+        "year": null,
+        "genre": null
+    },
+    {
         "name": "Hold On Loosely",
         "artist": ".38 Special",
         "genre": "Southern Rock",
@@ -369,7 +495,7 @@
         "artist": "Aerosmith",
         "name": "Cryin'",
         "year": 1993,
-        "genre": "'rock'"
+        "genre": "Rock"
     },
     {
         "artist": "Aerosmith",
@@ -441,7 +567,7 @@
         "artist": "Billy Squier",
         "name": "Lonely Is the Night",
         "year": 1981,
-        "genre": "'classicrock'"
+        "genre": "Classic Rock"
     },
     {
         "name": "Rapture",
@@ -470,7 +596,7 @@
     {
         "name": "Breath",
         "artist": "Breaking Benjamin",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2006
     },
     {
@@ -764,7 +890,7 @@
     {
         "name": "Ironic",
         "artist": "Alanis Morissette",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
@@ -1742,7 +1868,7 @@
     {
         "name": "Call Me",
         "artist": "Blondie",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1980
     },
     {
@@ -1904,7 +2030,7 @@
     {
         "name": "Total Eclipse of the Heart",
         "artist": "Bonnie Tyler",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1983
     },
     {
@@ -2366,7 +2492,7 @@
     {
         "name": "Tubthumping",
         "artist": "Chumbawamba",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1997
     },
     {
@@ -3362,7 +3488,7 @@
     {
         "name": "Dance, Dance",
         "artist": "Fall Out Boy",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2005
     },
     {
@@ -3386,19 +3512,19 @@
     {
         "name": "Sugar, We're Goin Down",
         "artist": "Fall Out Boy",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2005
     },
     {
         "name": "This Ain't a Scene, It's an Arms Race",
         "artist": "Fall Out Boy",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
         "name": "Thnks fr th Mmrs",
         "artist": "Fall Out Boy",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
@@ -3788,7 +3914,7 @@
     {
         "name": "I Think I'm Paranoid",
         "artist": "Garbage",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1998
     },
     {
@@ -5240,7 +5366,7 @@
     {
         "name": "Just Dance",
         "artist": "Lady Gaga",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
@@ -5252,7 +5378,7 @@
     {
         "name": "Poker Face",
         "artist": "Lady Gaga",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
@@ -5828,7 +5954,7 @@
     {
         "name": "She Will Be Loved",
         "artist": "Maroon 5",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2002
     },
     {
@@ -5876,7 +6002,7 @@
     {
         "name": "Girls Who Play Guitars",
         "artist": "Maxïmo Park",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
@@ -6014,7 +6140,7 @@
     {
         "name": "Beat It",
         "artist": "Michael Jackson",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1983
     },
     {
@@ -6062,13 +6188,13 @@
     {
         "name": "Party in the U.S.A.",
         "artist": "Miley Cyrus",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
         "name": "See You Again",
         "artist": "Miley Cyrus",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
@@ -6542,19 +6668,19 @@
     {
         "name": "Don't Speak",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
         "name": "Just a Girl",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
         "name": "Spiderwebs",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
@@ -6644,7 +6770,7 @@
     {
         "name": "Here It Goes Again",
         "artist": "OK Go",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2005
     },
     {
@@ -6866,13 +6992,13 @@
     {
         "name": "Brick by Boring Brick",
         "artist": "Paramore",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
         "name": "Crushcrushcrush",
         "artist": "Paramore",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
@@ -6890,7 +7016,7 @@
     {
         "name": "Pressure",
         "artist": "Paramore",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2005
     },
     {
@@ -6908,7 +7034,7 @@
     {
         "name": "The Only Exception",
         "artist": "Paramore",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
@@ -7226,7 +7352,7 @@
     {
         "name": "When Doves Cry",
         "artist": "Prince",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1984
     },
     {
@@ -7766,7 +7892,7 @@
     {
         "name": "Oh, Pretty Woman",
         "artist": "Roy Orbison",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1987
     },
     {
@@ -9596,7 +9722,7 @@
     {
         "name": "My Sharona",
         "artist": "The Knack (WaveGroup)",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1979
     },
     {
@@ -9620,7 +9746,7 @@
     {
         "name": "Pictures of You",
         "artist": "The Last Goodnight",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2007
     },
     {
@@ -9704,7 +9830,7 @@
     {
         "name": "Last Train to Clarksville",
         "artist": "The Monkees (WaveGroup)",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1966
     },
     {
@@ -9722,7 +9848,7 @@
     {
         "name": "I Don't Want to Go to School",
         "artist": "The Naked Brothers Band",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2008
     },
     {
@@ -10508,7 +10634,7 @@
     {
         "name": "Drops of Jupiter",
         "artist": "Train",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2001
     },
     {
@@ -11073,7 +11199,7 @@
         "artist": "Cyndi Lauper",
         "name": "Time After Time",
         "year": 1983,
-        "genre": "'poprock'"
+        "genre": "Pop-Rock"
     },
     {
         "name": "Fame",
@@ -11091,24 +11217,24 @@
         "artist": "Depeche Mode",
         "name": "Enjoy the Silence",
         "year": 1990,
-        "genre": "'popdanceelectronic'"
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "name": "Indestructible",
         "artist": "Disturbed",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2008
     },
     {
         "name": "Inside the Fire",
         "artist": "Disturbed",
-        "genre": "Nu Metal",
+        "genre": "Nu-Metal",
         "year": 2008
     },
     {
         "name": "Girls on Film",
         "artist": "Duran Duran",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1981
     },
     {
@@ -11139,7 +11265,7 @@
         "artist": "Ghost",
         "name": "Mary on a Cross",
         "year": 2019,
-        "genre": "'metal'"
+        "genre": "Metal"
     },
     {
         "name": "Pardon Me",
@@ -11211,12 +11337,12 @@
         "artist": "Matchbox Twenty",
         "name": "Push",
         "year": 1996,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "name": "7 Things",
         "artist": "Miley Cyrus",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2008
     },
     {
@@ -11264,19 +11390,19 @@
     {
         "name": "Hella Good",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
         "name": "Hey Baby",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
         "name": "It's My Life",
         "artist": "No Doubt",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1995
     },
     {
@@ -11300,7 +11426,7 @@
     {
         "name": "Ignorance",
         "artist": "Paramore",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 2009
     },
     {
@@ -11337,7 +11463,7 @@
         "artist": "Radiohead",
         "name": "Karma Police",
         "year": 1997,
-        "genre": "'alternative'"
+        "genre": "Alternative"
     },
     {
         "artist": "Ramones",
@@ -11366,7 +11492,7 @@
     {
         "name": "Ooby Dooby",
         "artist": "Roy Orbison",
-        "genre": "Pop Rock",
+        "genre": "Pop-Rock",
         "year": 1987
     },
     {
