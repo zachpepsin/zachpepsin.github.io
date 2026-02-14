@@ -39,7 +39,7 @@ def parse_song_ini(file_path):
             elif key == 'genre': song_info['genre'] = value
             elif key == 'year':
                 try:
-                    song_info['year'] = int(value)
+                    song_info['year'] = int(value[:4])
                 except ValueError:
                     song_info['year'] = None
                     
