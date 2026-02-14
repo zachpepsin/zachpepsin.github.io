@@ -462,6 +462,18 @@
         "genre": null
     },
     {
+        "artist": "Walk The Moon",
+        "name": "Different Colors",
+        "year": null,
+        "genre": null
+    },
+    {
+        "artist": "Wet Leg",
+        "name": "Chaise Longue",
+        "year": null,
+        "genre": null
+    },
+    {
         "artist": "X Ambassadors",
         "name": "Renegades",
         "year": null,
@@ -474,130 +486,10 @@
         "genre": null
     },
     {
-        "name": "Hold On Loosely",
-        "artist": ".38 Special",
-        "genre": "Southern Rock",
-        "year": 1981
-    },
-    {
-        "name": "When I'm Gone",
-        "artist": "3 Doors Down",
-        "genre": "Rock",
-        "year": 2002
-    },
-    {
-        "name": "Kings and Queens",
-        "artist": "30 Seconds to Mars",
-        "genre": "Emo",
-        "year": 2009
-    },
-    {
-        "artist": "Aerosmith",
-        "name": "Cryin'",
-        "year": 1993,
-        "genre": "Rock"
-    },
-    {
-        "artist": "Aerosmith",
-        "name": "Love in an Elevator",
-        "year": 1989,
-        "genre": "Rock"
-    },
-    {
-        "name": "Heaven Beside You",
-        "artist": "Alice in Chains",
-        "genre": "Grunge",
-        "year": 1995
-    },
-    {
-        "name": "No Excuses",
-        "artist": "Alice in Chains",
-        "genre": "Grunge",
-        "year": 1994
-    },
-    {
-        "name": "Would?",
-        "artist": "Alice in Chains",
-        "genre": "Grunge",
-        "year": 1992
-    },
-    {
-        "name": "Your Decision",
-        "artist": "Alice in Chains",
-        "genre": "Grunge",
-        "year": 2009
-    },
-    {
-        "artist": "Avril Lavigne",
-        "name": "My Happy Ending",
-        "year": 2004,
-        "genre": "Pop-Rock"
-    },
-    {
-        "name": "New Dark Ages",
-        "artist": "Bad Religion",
-        "genre": "Punk",
-        "year": 2007
-    },
-    {
-        "artist": "Beck",
-        "name": "Devils Haircut",
-        "year": 1996,
-        "genre": "Alternative"
-    },
-    {
-        "name": "It's Still Rock and Roll to Me",
-        "artist": "Billy Joel",
-        "genre": "Classic Rock",
-        "year": 1980
-    },
-    {
-        "name": "My Life",
-        "artist": "Billy Joel",
-        "genre": "Classic Rock",
-        "year": 1978
-    },
-    {
-        "name": "Only the Good Die Young",
-        "artist": "Billy Joel",
-        "genre": "Classic Rock",
-        "year": 1977
-    },
-    {
-        "artist": "Billy Squier",
-        "name": "Lonely Is the Night",
-        "year": 1981,
-        "genre": "Classic Rock"
-    },
-    {
-        "name": "Rapture",
-        "artist": "Blondie",
-        "genre": "New Wave",
-        "year": 1980
-    },
-    {
-        "name": "One Love/People Get Ready",
-        "artist": "Bob Marley and the Wailers",
-        "genre": "Other",
-        "year": 1984
-    },
-    {
-        "name": "Rock & Roll Band",
-        "artist": "Boston",
-        "genre": "Classic Rock",
-        "year": 1976
-    },
-    {
-        "name": "Smokin'",
-        "artist": "Boston",
-        "genre": "Classic Rock",
-        "year": 1976
-    },
-    {
-        "name": "Breath",
-        "artist": "Breaking Benjamin",
-        "genre": "Nu-Metal",
-        "year": 2006
+        "artist": "Zac Brown Band",
+        "name": "Homegrown",
+        "year": null,
+        "genre": null
     },
     {
         "artist": "2Pac",
@@ -622,6 +514,18 @@
         "artist": "3 Doors Down",
         "genre": "Rock",
         "year": 2000
+    },
+    {
+        "name": "When I'm Gone",
+        "artist": "3 Doors Down",
+        "genre": "Rock",
+        "year": 2002
+    },
+    {
+        "name": "Kings and Queens",
+        "artist": "30 Seconds to Mars",
+        "genre": "Emo",
+        "year": 2009
     },
     {
         "name": "The Kill",
@@ -652,6 +556,12 @@
         "name": "Caught Up in You",
         "year": 1982,
         "genre": "Southern Rock"
+    },
+    {
+        "name": "Hold On Loosely",
+        "artist": "38 Special",
+        "genre": "Southern Rock",
+        "year": 1981
     },
     {
         "artist": "4 Non Blondes",
@@ -817,6 +727,12 @@
     },
     {
         "artist": "Aerosmith",
+        "name": "Cryin'",
+        "year": 1993,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Aerosmith",
         "name": "Dude (Looks Like a Lady)",
         "year": 1987,
         "genre": "Rock"
@@ -830,6 +746,12 @@
     {
         "artist": "Aerosmith",
         "name": "Janie's Got a Gun",
+        "year": 1989,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Aerosmith",
+        "name": "Love in an Elevator",
         "year": 1989,
         "genre": "Rock"
     },
@@ -936,10 +858,22 @@
         "year": 2009
     },
     {
+        "name": "Heaven Beside You",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 1995
+    },
+    {
         "name": "Man in the Box",
         "artist": "Alice in Chains",
         "genre": "Grunge",
         "year": 1991
+    },
+    {
+        "name": "No Excuses",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 1994
     },
     {
         "name": "Rooster",
@@ -952,6 +886,18 @@
         "name": "Them Bones",
         "year": 1992,
         "genre": "Grunge"
+    },
+    {
+        "name": "Would?",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 1992
+    },
+    {
+        "name": "Your Decision",
+        "artist": "Alice in Chains",
+        "genre": "Grunge",
+        "year": 2009
     },
     {
         "artist": "Alicia Keys",
@@ -1309,6 +1255,12 @@
     },
     {
         "artist": "Avril Lavigne",
+        "name": "My Happy Ending",
+        "year": 2004,
+        "genre": "Pop-Rock"
+    },
+    {
+        "artist": "Avril Lavigne",
         "name": "Sk8er Boi",
         "year": 2002,
         "genre": "Pop-Rock"
@@ -1422,6 +1374,12 @@
         "year": 1990
     },
     {
+        "name": "New Dark Ages",
+        "artist": "Bad Religion",
+        "genre": "Punk",
+        "year": 2007
+    },
+    {
         "artist": "Baha Men",
         "name": "Who Let the Dogs Out?",
         "year": 2000,
@@ -1468,6 +1426,12 @@
         "artist": "Beastie Boys",
         "genre": "Rock",
         "year": 1994
+    },
+    {
+        "artist": "Beck",
+        "name": "Devils Haircut",
+        "year": 1996,
+        "genre": "Alternative"
     },
     {
         "name": "E-Pro",
@@ -1554,7 +1518,25 @@
         "year": 1978
     },
     {
+        "name": "It's Still Rock and Roll to Me",
+        "artist": "Billy Joel",
+        "genre": "Classic Rock",
+        "year": 1980
+    },
+    {
         "name": "Movin' Out (Anthony's Song)",
+        "artist": "Billy Joel",
+        "genre": "Classic Rock",
+        "year": 1977
+    },
+    {
+        "name": "My Life",
+        "artist": "Billy Joel",
+        "genre": "Classic Rock",
+        "year": 1978
+    },
+    {
+        "name": "Only the Good Die Young",
         "artist": "Billy Joel",
         "genre": "Classic Rock",
         "year": 1977
@@ -1588,6 +1570,12 @@
         "artist": "Billy Joel",
         "genre": "Classic Rock",
         "year": 1989
+    },
+    {
+        "artist": "Billy Squier",
+        "name": "Lonely Is the Night",
+        "year": 1981,
+        "genre": "Classic Rock"
     },
     {
         "name": "The Stroke",
@@ -1884,6 +1872,12 @@
         "year": 1978
     },
     {
+        "name": "Rapture",
+        "artist": "Blondie",
+        "genre": "New Wave",
+        "year": 1980
+    },
+    {
         "name": "The Bad Touch",
         "artist": "Bloodhound Gang",
         "genre": "Alternative",
@@ -1963,6 +1957,12 @@
     },
     {
         "name": "Jamming",
+        "artist": "Bob Marley and the Wailers",
+        "genre": "Other",
+        "year": 1984
+    },
+    {
+        "name": "One Love/People Get Ready",
         "artist": "Bob Marley and the Wailers",
         "genre": "Other",
         "year": 1984
@@ -2052,6 +2052,18 @@
         "year": 1976
     },
     {
+        "name": "Rock & Roll Band",
+        "artist": "Boston",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
+        "name": "Smokin'",
+        "artist": "Boston",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
         "artist": "Bowling for Soup",
         "name": "1985",
         "year": 2004,
@@ -2098,6 +2110,12 @@
         "name": "Baby I'm Yours (ft. Irfane)",
         "year": 2012,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "name": "Breath",
+        "artist": "Breaking Benjamin",
+        "genre": "Nu-Metal",
+        "year": 2006
     },
     {
         "name": "I Will Not Bow",
@@ -2454,6 +2472,12 @@
         "year": 1970
     },
     {
+        "name": "If You Leave Me Now",
+        "artist": "Chicago",
+        "genre": "Classic Rock",
+        "year": 1976
+    },
+    {
         "artist": "Childish Gambino",
         "name": "This Is America",
         "year": 2018,
@@ -2700,6 +2724,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "artist": "Cyndi Lauper",
+        "name": "Time After Time",
+        "year": 1983,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Cypress Hill",
         "name": "Insane In The Brain",
         "year": 1993,
@@ -2766,6 +2796,12 @@
         "genre": "Rock"
     },
     {
+        "name": "Fame",
+        "artist": "David Bowie",
+        "genre": "Glam",
+        "year": 1975
+    },
+    {
         "artist": "David Bowie",
         "name": "Rebel Rebel",
         "year": 1974,
@@ -2821,6 +2857,12 @@
     },
     {
         "name": "Holiday in Cambodia",
+        "artist": "Dead Kennedys",
+        "genre": "Punk",
+        "year": 1987
+    },
+    {
+        "name": "Police Truck",
         "artist": "Dead Kennedys",
         "genre": "Punk",
         "year": 1987
@@ -2907,6 +2949,12 @@
         "artist": "Demi Lovato",
         "name": "Sorry Not Sorry",
         "year": 2017,
+        "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "artist": "Depeche Mode",
+        "name": "Enjoy the Silence",
+        "year": 1990,
         "genre": "Pop/Dance/Electronic"
     },
     {
@@ -3016,6 +3064,18 @@
         "artist": "Disturbed",
         "genre": "Nu-Metal",
         "year": 2000
+    },
+    {
+        "name": "Indestructible",
+        "artist": "Disturbed",
+        "genre": "Nu-Metal",
+        "year": 2008
+    },
+    {
+        "name": "Inside the Fire",
+        "artist": "Disturbed",
+        "genre": "Nu-Metal",
+        "year": 2008
     },
     {
         "artist": "Disturbed",
@@ -3168,6 +3228,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "Girls on Film",
+        "artist": "Duran Duran",
+        "genre": "Pop-Rock",
+        "year": 1981
+    },
+    {
         "name": "Hungry Like the Wolf",
         "artist": "Duran Duran",
         "genre": "Pop/Rock",
@@ -3190,6 +3256,12 @@
         "name": "September",
         "year": 1978,
         "genre": "R&B/Soul/Funk"
+    },
+    {
+        "name": "Shining Star",
+        "artist": "Earth, Wind & Fire",
+        "genre": "Funk",
+        "year": 1975
     },
     {
         "artist": "Ed Sheeran",
@@ -3292,6 +3364,12 @@
         "name": "Goodbye Yellow Brick Road",
         "year": 1973,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "I'm Still Standing",
+        "artist": "Elton John",
+        "genre": "Classic Rock",
+        "year": 1983
     },
     {
         "artist": "Elton John",
@@ -3714,6 +3792,12 @@
         "year": 2005
     },
     {
+        "name": "DOA",
+        "artist": "Foo Fighters",
+        "genre": "Alternative",
+        "year": 2005
+    },
+    {
         "name": "Everlong",
         "artist": "Foo Fighters",
         "genre": "Alternative",
@@ -3748,6 +3832,12 @@
         "artist": "Foo Fighters",
         "genre": "Alternative",
         "year": 2007
+    },
+    {
+        "name": "These Days",
+        "artist": "Foo Fighters",
+        "genre": "Alternative",
+        "year": 2011
     },
     {
         "name": "Times Like These",
@@ -3990,6 +4080,12 @@
         "genre": "Classic Rock"
     },
     {
+        "artist": "Ghost",
+        "name": "Mary on a Cross",
+        "year": 2019,
+        "genre": "Metal"
+    },
+    {
         "artist": "Gin Blossoms",
         "name": "Follow You Down",
         "year": 1996,
@@ -4228,6 +4324,12 @@
         "artist": "Green Day",
         "genre": "Punk",
         "year": 1994
+    },
+    {
+        "artist": "Greta Van Fleet",
+        "name": "Highway Tune",
+        "year": 2017,
+        "genre": "Rock"
     },
     {
         "artist": "Greta Van Fleet",
@@ -4590,6 +4692,12 @@
         "year": 1999
     },
     {
+        "name": "Pardon Me",
+        "artist": "Incubus",
+        "genre": "Alternative",
+        "year": 1999
+    },
+    {
         "artist": "Incubus",
         "name": "Stellar",
         "year": 1999,
@@ -4834,6 +4942,12 @@
         "artist": "Jimmy Eat World",
         "genre": "Pop-Rock",
         "year": 2001
+    },
+    {
+        "name": "Pain",
+        "artist": "Jimmy Eat World",
+        "genre": "Pop-Rock",
+        "year": 2004
     },
     {
         "name": "Sweetness",
@@ -5280,6 +5394,12 @@
         "genre": "Hip-Hop/Rap"
     },
     {
+        "name": "Molly's Chambers",
+        "artist": "Kings of Leon",
+        "genre": "Rock",
+        "year": 2003
+    },
+    {
         "name": "Sex on Fire",
         "artist": "Kings of Leon",
         "genre": "Rock",
@@ -5344,6 +5464,18 @@
         "name": "Pretty Pimpin",
         "year": 2015,
         "genre": "Indie Rock"
+    },
+    {
+        "name": "Bulletproof",
+        "artist": "La Roux",
+        "genre": "Pop/Rock",
+        "year": 2009
+    },
+    {
+        "name": "Need You Now",
+        "artist": "Lady Antebellum",
+        "genre": "Country",
+        "year": 2010
     },
     {
         "artist": "Lady Gaga",
@@ -5484,6 +5616,12 @@
         "genre": "Rock"
     },
     {
+        "artist": "Lil Jon & the East Side Boyz",
+        "name": "Get Low (ft. Ying Yang Twins)",
+        "year": 2003,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Lil Nas X",
         "name": "MONTERO (Call Me by Your Name)",
         "year": 2021,
@@ -5512,6 +5650,12 @@
         "name": "Break Stuff",
         "year": 1999,
         "genre": "Nu-Metal"
+    },
+    {
+        "name": "My Way",
+        "artist": "Limp Bizkit",
+        "genre": "Nu-Metal",
+        "year": 2000
     },
     {
         "artist": "Limp Bizkit",
@@ -5622,6 +5766,12 @@
         "year": 1990
     },
     {
+        "artist": "Little Nell, Patricia Quinn & Richard O'Brien",
+        "name": "Time Warp",
+        "year": 1975,
+        "genre": "Glam"
+    },
+    {
         "artist": "Little Richard",
         "name": "Ride on the Magic School Bus",
         "year": 1994,
@@ -5638,6 +5788,18 @@
         "name": "All Over You",
         "year": 1994,
         "genre": "Alternative"
+    },
+    {
+        "name": "I Alone",
+        "artist": "Live",
+        "genre": "Alternative Rock",
+        "year": 1994
+    },
+    {
+        "name": "Lightning Crashes",
+        "artist": "Live",
+        "genre": "Alternative Rock",
+        "year": 1994
     },
     {
         "name": "Cult of Personality",
@@ -5976,16 +6138,34 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "artist": "Masked Wolf",
+        "name": "Astronaut in the Ocean",
+        "year": 2021,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
         "artist": "Matchbox Twenty",
         "name": "3AM",
         "year": 1996,
         "genre": "Alternative"
     },
     {
+        "name": "Bent",
+        "artist": "Matchbox Twenty",
+        "genre": "Alternative",
+        "year": 2000
+    },
+    {
         "name": "How Far We've Come",
         "artist": "Matchbox Twenty",
         "genre": "Alternative",
         "year": 2007
+    },
+    {
+        "artist": "Matchbox Twenty",
+        "name": "Push",
+        "year": 1996,
+        "genre": "Alternative"
     },
     {
         "artist": "Matchbox Twenty",
@@ -6180,6 +6360,12 @@
         "genre": "Rock"
     },
     {
+        "name": "7 Things",
+        "artist": "Miley Cyrus",
+        "genre": "Pop-Rock",
+        "year": 2008
+    },
+    {
         "artist": "Miley Cyrus",
         "name": "Flowers",
         "year": 2023,
@@ -6226,6 +6412,12 @@
         "name": "Dig Up Her Bones",
         "year": 1997,
         "genre": "Punk"
+    },
+    {
+        "name": "I Melt with You",
+        "artist": "Modern English",
+        "genre": "New Wave",
+        "year": 1982
     },
     {
         "name": "Float On",
@@ -6318,6 +6510,12 @@
         "genre": "Alternative"
     },
     {
+        "name": "Typical",
+        "artist": "Mute Math",
+        "genre": "Alternative",
+        "year": 2007
+    },
+    {
         "artist": "My Chemical Romance",
         "name": "Dead!",
         "year": 2006,
@@ -6370,6 +6568,12 @@
         "name": "Beggin'",
         "year": 2017,
         "genre": "Rock"
+    },
+    {
+        "name": "Dr. Feelgood",
+        "artist": "Mötley Crüe",
+        "genre": "Metal",
+        "year": 1989
     },
     {
         "name": "Girls, Girls, Girls",
@@ -6528,10 +6732,22 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "Blue Monday",
+        "artist": "New Order",
+        "genre": "New Wave",
+        "year": 1983
+    },
+    {
         "name": "Animals",
         "artist": "Nickelback",
         "genre": "Rock",
         "year": 2005
+    },
+    {
+        "name": "Burn It to the Ground",
+        "artist": "Nickelback",
+        "genre": "Rock",
+        "year": 2008
     },
     {
         "name": "How You Remind Me",
@@ -6618,10 +6834,22 @@
         "year": 2005
     },
     {
+        "name": "About a Girl",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1989
+    },
+    {
         "name": "All Apologies",
         "artist": "Nirvana",
         "genre": "Grunge",
         "year": 1993
+    },
+    {
+        "name": "Breed",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "year": 1991
     },
     {
         "name": "Drain You",
@@ -6667,6 +6895,24 @@
     },
     {
         "name": "Don't Speak",
+        "artist": "No Doubt",
+        "genre": "Pop-Rock",
+        "year": 1995
+    },
+    {
+        "name": "Hella Good",
+        "artist": "No Doubt",
+        "genre": "Pop-Rock",
+        "year": 1995
+    },
+    {
+        "name": "Hey Baby",
+        "artist": "No Doubt",
+        "genre": "Pop-Rock",
+        "year": 1995
+    },
+    {
+        "name": "It's My Life",
         "artist": "No Doubt",
         "genre": "Pop-Rock",
         "year": 1995
@@ -6912,6 +7158,12 @@
         "year": 1980
     },
     {
+        "name": "Over the Mountain",
+        "artist": "Ozzy Osbourne",
+        "genre": "Metal",
+        "year": 1981
+    },
+    {
         "artist": "Ozzy Osbourne",
         "name": "Shot in the Dark",
         "year": 1986,
@@ -6924,10 +7176,22 @@
         "year": 2001
     },
     {
+        "name": "Raise Your Glass",
+        "artist": "P!nk",
+        "genre": "Pop/Rock",
+        "year": 2010
+    },
+    {
         "name": "So What",
         "artist": "P!nk",
         "genre": "Pop/Rock",
         "year": 2008
+    },
+    {
+        "name": "Who Knew",
+        "artist": "P!nk",
+        "genre": "Pop/Rock",
+        "year": 2006
     },
     {
         "artist": "Panic at the Disco",
@@ -7008,6 +7272,12 @@
         "genre": "Pop-Rock"
     },
     {
+        "name": "Ignorance",
+        "artist": "Paramore",
+        "genre": "Pop-Rock",
+        "year": 2009
+    },
+    {
         "name": "Misery Business",
         "artist": "Paramore",
         "genre": "Pop-Rock",
@@ -7068,6 +7338,18 @@
         "year": 1983
     },
     {
+        "name": "Band on the Run",
+        "artist": "Paul McCartney & Wings",
+        "genre": "Classic Rock",
+        "year": 1973
+    },
+    {
+        "name": "Maybe I'm Amazed",
+        "artist": "Paul McCartney",
+        "genre": "Classic Rock",
+        "year": 1970
+    },
+    {
         "artist": "Paul Young",
         "name": "Everytime You Go Away",
         "year": 1985,
@@ -7102,6 +7384,12 @@
         "name": "Let My Love Open the Door",
         "year": 1980,
         "genre": "New Wave"
+    },
+    {
+        "name": "Do You Feel Like We Do (Live)",
+        "artist": "Peter Frampton",
+        "genre": "Rock",
+        "year": 1976
     },
     {
         "artist": "Peter Frampton",
@@ -7428,6 +7716,12 @@
         "year": 1975
     },
     {
+        "name": "Crazy Little Thing Called Love",
+        "artist": "Queen",
+        "genre": "Classic Rock",
+        "year": 1980
+    },
+    {
         "name": "Don't Stop Me Now",
         "artist": "Queen",
         "genre": "Classic Rock",
@@ -7447,6 +7741,12 @@
     },
     {
         "name": "I Want to Break Free (RB3 version)",
+        "artist": "Queen",
+        "genre": "Classic Rock",
+        "year": 1984
+    },
+    {
+        "name": "Radio Ga Ga",
         "artist": "Queen",
         "genre": "Classic Rock",
         "year": 1984
@@ -7566,6 +7866,12 @@
         "genre": "Alternative"
     },
     {
+        "artist": "Radiohead",
+        "name": "Karma Police",
+        "year": 1997,
+        "genre": "Alternative"
+    },
+    {
         "artist": "Rae Sremmurd",
         "name": "Black Beatles (ft. Gucci Mane)",
         "year": 2016,
@@ -7624,6 +7930,12 @@
         "artist": "Ramones",
         "genre": "Punk",
         "year": 1978
+    },
+    {
+        "artist": "Ramones",
+        "name": "Pet Sematary",
+        "year": 1989,
+        "genre": "Punk"
     },
     {
         "name": "Teenage Lobotomy",
@@ -7848,6 +8160,18 @@
         "year": 2004
     },
     {
+        "name": "Help Is on the Way",
+        "artist": "Rise Against",
+        "genre": "Punk",
+        "year": 2011
+    },
+    {
+        "name": "Prayer of the Refugee",
+        "artist": "Rise Against",
+        "genre": "Punk",
+        "year": 2006
+    },
+    {
         "name": "Re-Education (Through Labor)",
         "artist": "Rise Against",
         "genre": "Punk",
@@ -7878,6 +8202,12 @@
         "genre": "Novelty"
     },
     {
+        "artist": "Robert Palmer",
+        "name": "Bad Case of Loving You (Doctor, Doctor)",
+        "year": 1979,
+        "genre": "Pop-Rock"
+    },
+    {
         "artist": "Robin Thicke",
         "name": "Blurred Lines (ft. Pharrell)",
         "year": 2013,
@@ -7896,6 +8226,24 @@
         "year": 1987
     },
     {
+        "name": "Ooby Dooby",
+        "artist": "Roy Orbison",
+        "genre": "Pop-Rock",
+        "year": 1987
+    },
+    {
+        "name": "You Got It",
+        "artist": "Roy Orbison",
+        "genre": "Pop-Rock",
+        "year": 1989
+    },
+    {
+        "name": "Tell Me Something Good (ft. Chaka Khan)",
+        "artist": "Rufus",
+        "genre": "R&B/Soul/Funk",
+        "year": 1974
+    },
+    {
         "name": "King of Rock",
         "artist": "Run-DMC",
         "genre": "Hip-Hop/Rap",
@@ -7912,6 +8260,12 @@
         "name": "A Passage to Bangkok",
         "year": 1976,
         "genre": "Progressive"
+    },
+    {
+        "name": "Fly by Night",
+        "artist": "Rush",
+        "genre": "Progressive",
+        "year": 1975
     },
     {
         "name": "Tom Sawyer (Original Version)",
@@ -8142,10 +8496,22 @@
         "genre": "Hip-Hop/Rap"
     },
     {
+        "name": "All I Wanna Do",
+        "artist": "Sheryl Crow",
+        "genre": "Pop-Rock",
+        "year": 1993
+    },
+    {
         "artist": "Sheryl Crow",
         "name": "Soak Up the Sun",
         "year": 2002,
         "genre": "Pop-Rock"
+    },
+    {
+        "name": "Devour",
+        "artist": "Shinedown",
+        "genre": "Nu-Metal",
+        "year": 2008
     },
     {
         "name": "Second Chance",
@@ -8176,6 +8542,12 @@
         "name": "The Greatest (ft. Kendrick Lamar)",
         "year": 2016,
         "genre": "Pop/Dance/Electronic"
+    },
+    {
+        "name": "Tomorrow",
+        "artist": "Silverchair",
+        "genre": "Alternative",
+        "year": 1995
     },
     {
         "artist": "Silverstein",
@@ -8418,10 +8790,28 @@
         "year": 1994
     },
     {
+        "name": "Burden in My Hand",
+        "artist": "Soundgarden",
+        "genre": "Grunge",
+        "year": 1996
+    },
+    {
         "name": "Fell on Black Days",
         "artist": "Soundgarden",
         "genre": "Grunge",
         "year": 1994
+    },
+    {
+        "name": "Outshined",
+        "artist": "Soundgarden",
+        "genre": "Grunge",
+        "year": 1991
+    },
+    {
+        "name": "Pretty Noose",
+        "artist": "Soundgarden",
+        "genre": "Grunge",
+        "year": 1996
     },
     {
         "name": "Spoonman",
@@ -8652,7 +9042,19 @@
         "year": 2006
     },
     {
+        "name": "Big Empty",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1994
+    },
+    {
         "name": "Creep",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1992
+    },
+    {
+        "name": "Dead & Bloated",
         "artist": "Stone Temple Pilots",
         "genre": "Alternative",
         "year": 1992
@@ -8668,6 +9070,18 @@
         "artist": "Stone Temple Pilots",
         "genre": "Alternative",
         "year": 1992
+    },
+    {
+        "name": "Sex Type Thing",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1992
+    },
+    {
+        "name": "Trippin' on a Hole in a Paper Heart",
+        "artist": "Stone Temple Pilots",
+        "genre": "Alternative",
+        "year": 1996
     },
     {
         "name": "Vasoline",
@@ -8692,6 +9106,12 @@
         "name": "Rock This Town",
         "year": 1981,
         "genre": "Rockabilly"
+    },
+    {
+        "name": "Little Black Backpack '09",
+        "artist": "Stroke 9",
+        "genre": "Rock",
+        "year": 2010
     },
     {
         "artist": "Strong Bad",
@@ -8916,6 +9336,12 @@
         "genre": "Alternative"
     },
     {
+        "name": "And She Was",
+        "artist": "Talking Heads",
+        "genre": "New Wave",
+        "year": 1985
+    },
+    {
         "name": "Burning Down the House",
         "artist": "Talking Heads",
         "genre": "New Wave",
@@ -9015,6 +9441,18 @@
         "name": "Everybody Wants to Rule the World",
         "artist": "Tears for Fears",
         "genre": "Pop-Rock",
+        "year": 1985
+    },
+    {
+        "name": "Head Over Heels",
+        "artist": "Tears for Fears",
+        "genre": "New Wave",
+        "year": 1985
+    },
+    {
+        "name": "Shout",
+        "artist": "Tears for Fears",
+        "genre": "New Wave",
         "year": 1985
     },
     {
@@ -9150,6 +9588,12 @@
         "genre": "Indie Rock"
     },
     {
+        "name": "The Weight (Live)",
+        "artist": "The Band",
+        "genre": "Classic Rock",
+        "year": 1972
+    },
+    {
         "name": "Walk Like an Egyptian",
         "artist": "The Bangles",
         "genre": "Rock",
@@ -9234,6 +9678,24 @@
         "year": 1977
     },
     {
+        "name": "You Should Be Dancing",
+        "artist": "The Bee Gees",
+        "genre": "Disco/Pop",
+        "year": 1976
+    },
+    {
+        "name": "Hard to Handle",
+        "artist": "The Black Crowes (WaveGroup)",
+        "genre": "Rock",
+        "year": 1990
+    },
+    {
+        "name": "She Talks to Angels",
+        "artist": "The Black Crowes",
+        "genre": "Rock",
+        "year": 1990
+    },
+    {
         "artist": "The Black Eyed Peas",
         "name": "I Gotta Feeling",
         "year": 2009,
@@ -9248,6 +9710,12 @@
     {
         "artist": "The Black Eyed Peas",
         "name": "Let's Get Retarded",
+        "year": 2003,
+        "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "The Black Eyed Peas",
+        "name": "Where is the Love",
         "year": 2003,
         "genre": "Hip-Hop/Rap"
     },
@@ -9268,6 +9736,12 @@
         "artist": "The Black Keys",
         "genre": "Rock",
         "year": 2011
+    },
+    {
+        "name": "Tighten Up",
+        "artist": "The Black Keys",
+        "genre": "Rock",
+        "year": 2010
     },
     {
         "artist": "The Black Keys",
@@ -9331,6 +9805,12 @@
     },
     {
         "name": "Just What I Needed",
+        "artist": "The Cars",
+        "genre": "New Wave",
+        "year": 1978
+    },
+    {
+        "name": "My Best Friend's Girl",
         "artist": "The Cars",
         "genre": "New Wave",
         "year": 1978
@@ -9456,6 +9936,12 @@
         "year": 2003
     },
     {
+        "name": "Long Train Runnin'",
+        "artist": "The Doobie Brothers",
+        "genre": "Classic Rock",
+        "year": 1973
+    },
+    {
         "artist": "The Doobie Brothers",
         "name": "What a Fool Believes",
         "year": 1978,
@@ -9466,6 +9952,12 @@
         "artist": "The Doors",
         "genre": "Classic Rock",
         "year": 1967
+    },
+    {
+        "name": "Hello, I Love You",
+        "artist": "The Doors",
+        "genre": "Classic Rock",
+        "year": 1968
     },
     {
         "name": "Light My Fire",
@@ -9480,10 +9972,22 @@
         "year": 1971
     },
     {
+        "name": "People Are Strange",
+        "artist": "The Doors",
+        "genre": "Psychedelic Rock",
+        "year": 1967
+    },
+    {
         "name": "Riders on the Storm",
         "artist": "The Doors",
         "genre": "Psychedelic Rock",
         "year": 1971
+    },
+    {
+        "name": "Touch Me",
+        "artist": "The Doors",
+        "genre": "Psychedelic Rock",
+        "year": 1969
     },
     {
         "name": "Frankenstein",
@@ -9522,6 +10026,12 @@
         "year": 2006
     },
     {
+        "name": "Flathead",
+        "artist": "The Fratellis",
+        "genre": "Alternative",
+        "year": 2006
+    },
+    {
         "name": "Henrietta",
         "artist": "The Fratellis",
         "genre": "Alternative",
@@ -9552,10 +10062,22 @@
         "genre": "Emo"
     },
     {
+        "name": "Decent Days and Nights",
+        "artist": "The Futureheads",
+        "genre": "Punk",
+        "year": 2004
+    },
+    {
         "name": "45",
         "artist": "The Gaslight Anthem",
         "genre": "Alternative Rock",
         "year": 2012
+    },
+    {
+        "name": "Our Lips Are Sealed",
+        "artist": "The Go-Go's",
+        "genre": "Pop/Rock",
+        "year": 1981
     },
     {
         "name": "American Woman",
@@ -9640,6 +10162,12 @@
         "artist": "The Jimi Hendrix Experience",
         "genre": "Classic Rock",
         "year": 1968
+    },
+    {
+        "name": "Fire",
+        "artist": "The Jimi Hendrix Experience",
+        "genre": "Classic Rock",
+        "year": 1967
     },
     {
         "name": "Hey Joe (Live)",
@@ -9882,6 +10410,12 @@
         "genre": "Hip-Hop/Rap"
     },
     {
+        "name": "All I Want",
+        "artist": "The Offspring",
+        "genre": "Punk",
+        "year": 1997
+    },
+    {
         "name": "Come Out and Play (Keep 'Em Separated)",
         "artist": "The Offspring",
         "genre": "Punk",
@@ -10014,6 +10548,12 @@
         "genre": "Rock"
     },
     {
+        "name": "Salute Your Solution",
+        "artist": "The Raconteurs",
+        "genre": "Rock",
+        "year": 2008
+    },
+    {
         "name": "Steady, As She Goes",
         "artist": "The Raconteurs",
         "genre": "Rock",
@@ -10132,6 +10672,12 @@
         "name": "Tonight, Tonight",
         "year": 1995,
         "genre": "Alternative"
+    },
+    {
+        "name": "Zero",
+        "artist": "The Smashing Pumpkins",
+        "genre": "Alternative",
+        "year": 1995
     },
     {
         "name": "Stop Me if You Think You've Heard This One Before",
@@ -10380,6 +10926,12 @@
         "genre": "R&B/Soul/Funk"
     },
     {
+        "name": "Dead Leaves and the Dirty Ground",
+        "artist": "The White Stripes",
+        "genre": "Rock",
+        "year": 2001
+    },
+    {
         "name": "Fell in Love with a Girl",
         "artist": "The White Stripes",
         "genre": "Rock",
@@ -10410,6 +10962,12 @@
         "year": 1982
     },
     {
+        "name": "I Can See for Miles",
+        "artist": "The Who",
+        "genre": "Classic Rock",
+        "year": 1967
+    },
+    {
         "name": "Pinball Wizard",
         "artist": "The Who",
         "genre": "Classic Rock",
@@ -10426,6 +10984,12 @@
         "name": "Moving to New York",
         "year": 2007,
         "genre": "Indie Rock"
+    },
+    {
+        "name": "She's Not There",
+        "artist": "The Zombies",
+        "genre": "Pop Rock",
+        "year": 1965
     },
     {
         "artist": "Theory of a Deadman",
@@ -10482,6 +11046,12 @@
         "year": 1997
     },
     {
+        "name": "Animal I Have Become",
+        "artist": "Three Days Grace",
+        "genre": "Rock",
+        "year": 2006
+    },
+    {
         "name": "I Hate Everything About You",
         "artist": "Three Days Grace",
         "genre": "Rock",
@@ -10492,6 +11062,12 @@
         "name": "Never Too Late",
         "year": 2006,
         "genre": "Rock"
+    },
+    {
+        "name": "Pain",
+        "artist": "Three Days Grace",
+        "genre": "Rock",
+        "year": 2006
     },
     {
         "name": "The Good Life",
@@ -10536,6 +11112,12 @@
         "year": 1994
     },
     {
+        "name": "Tyler",
+        "artist": "Toadies",
+        "genre": "Grunge",
+        "year": 1994
+    },
+    {
         "artist": "Toby Keith",
         "name": "Courtesy of the Red, White and Blue (The Angry American)",
         "year": 2002,
@@ -10566,10 +11148,22 @@
         "year": 1976
     },
     {
+        "name": "Breakdown (Live)",
+        "artist": "Tom Petty and the Heartbreakers",
+        "genre": "Rock",
+        "year": 2009
+    },
+    {
         "artist": "Tom Petty and the Heartbreakers",
         "name": "Don't Do Me Like That",
         "year": 1979,
         "genre": "Rock"
+    },
+    {
+        "name": "Here Comes My Girl (Live)",
+        "artist": "Tom Petty and the Heartbreakers",
+        "genre": "Rock",
+        "year": 2009
     },
     {
         "artist": "Tom Petty and the Heartbreakers",
@@ -10648,6 +11242,18 @@
         "artist": "Trapt",
         "genre": "Nu-Metal",
         "year": 2002
+    },
+    {
+        "name": "Who's Going Home with You Tonight?",
+        "artist": "Trapt",
+        "genre": "Nu-Metal",
+        "year": 2008
+    },
+    {
+        "name": "Billionaire (ft. Bruno Mars)",
+        "artist": "Travie McCoy",
+        "genre": "Hip-Hop/Rap",
+        "year": 2010
     },
     {
         "artist": "Travis Scott",
@@ -10764,6 +11370,12 @@
         "genre": "Rock"
     },
     {
+        "artist": "U2",
+        "name": "With or Without You",
+        "year": 1987,
+        "genre": "Rock"
+    },
+    {
         "artist": "UB40",
         "name": "Red Red Wine",
         "year": 1983,
@@ -10804,6 +11416,18 @@
         "artist": "Vampire Weekend",
         "genre": "Indie Pop",
         "year": 2009
+    },
+    {
+        "artist": "Van Halen",
+        "name": "Ain't Talkin' 'Bout Love",
+        "year": 1978,
+        "genre": "Rock"
+    },
+    {
+        "artist": "Van Halen",
+        "name": "Dance the Night Away",
+        "year": 1979,
+        "genre": "Rock"
     },
     {
         "name": "Eruption",
@@ -11188,497 +11812,5 @@
         "artist": "ZZ Top",
         "genre": "Blues Rock",
         "year": 2007
-    },
-    {
-        "name": "If You Leave Me Now",
-        "artist": "Chicago",
-        "genre": "Classic Rock",
-        "year": 1976
-    },
-    {
-        "artist": "Cyndi Lauper",
-        "name": "Time After Time",
-        "year": 1983,
-        "genre": "Pop-Rock"
-    },
-    {
-        "name": "Fame",
-        "artist": "David Bowie",
-        "genre": "Glam",
-        "year": 1975
-    },
-    {
-        "name": "Police Truck",
-        "artist": "Dead Kennedys",
-        "genre": "Punk",
-        "year": 1987
-    },
-    {
-        "artist": "Depeche Mode",
-        "name": "Enjoy the Silence",
-        "year": 1990,
-        "genre": "Pop/Dance/Electronic"
-    },
-    {
-        "name": "Indestructible",
-        "artist": "Disturbed",
-        "genre": "Nu-Metal",
-        "year": 2008
-    },
-    {
-        "name": "Inside the Fire",
-        "artist": "Disturbed",
-        "genre": "Nu-Metal",
-        "year": 2008
-    },
-    {
-        "name": "Girls on Film",
-        "artist": "Duran Duran",
-        "genre": "Pop-Rock",
-        "year": 1981
-    },
-    {
-        "name": "Shining Star",
-        "artist": "Earth, Wind & Fire",
-        "genre": "Funk",
-        "year": 1975
-    },
-    {
-        "name": "I'm Still Standing",
-        "artist": "Elton John",
-        "genre": "Classic Rock",
-        "year": 1983
-    },
-    {
-        "name": "DOA",
-        "artist": "Foo Fighters",
-        "genre": "Alternative",
-        "year": 2005
-    },
-    {
-        "name": "These Days",
-        "artist": "Foo Fighters",
-        "genre": "Alternative",
-        "year": 2011
-    },
-    {
-        "artist": "Ghost",
-        "name": "Mary on a Cross",
-        "year": 2019,
-        "genre": "Metal"
-    },
-    {
-        "name": "Pardon Me",
-        "artist": "Incubus",
-        "genre": "Alternative",
-        "year": 1999
-    },
-    {
-        "name": "Pain",
-        "artist": "Jimmy Eat World",
-        "genre": "Pop-Rock",
-        "year": 2004
-    },
-    {
-        "name": "Molly's Chambers",
-        "artist": "Kings of Leon",
-        "genre": "Rock",
-        "year": 2003
-    },
-    {
-        "name": "Bulletproof",
-        "artist": "La Roux",
-        "genre": "Pop/Rock",
-        "year": 2009
-    },
-    {
-        "name": "Need You Now",
-        "artist": "Lady Antebellum",
-        "genre": "Country",
-        "year": 2010
-    },
-    {
-        "name": "My Way",
-        "artist": "Limp Bizkit",
-        "genre": "Nu-Metal",
-        "year": 2000
-    },
-    {
-        "artist": "Little Nell, Patricia Quinn & Richard O'Brien",
-        "name": "Time Warp",
-        "year": 1975,
-        "genre": "Glam"
-    },
-    {
-        "name": "I Alone",
-        "artist": "Live",
-        "genre": "Alternative Rock",
-        "year": 1994
-    },
-    {
-        "name": "Lightning Crashes",
-        "artist": "Live",
-        "genre": "Alternative Rock",
-        "year": 1994
-    },
-    {
-        "artist": "Masked Wolf",
-        "name": "Astronaut in the Ocean",
-        "year": 2021,
-        "genre": "Hip-Hop/Rap"
-    },
-    {
-        "name": "Bent",
-        "artist": "Matchbox Twenty",
-        "genre": "Alternative",
-        "year": 2000
-    },
-    {
-        "artist": "Matchbox Twenty",
-        "name": "Push",
-        "year": 1996,
-        "genre": "Alternative"
-    },
-    {
-        "name": "7 Things",
-        "artist": "Miley Cyrus",
-        "genre": "Pop-Rock",
-        "year": 2008
-    },
-    {
-        "name": "I Melt with You",
-        "artist": "Modern English",
-        "genre": "New Wave",
-        "year": 1982
-    },
-    {
-        "name": "Typical",
-        "artist": "Mute Math",
-        "genre": "Alternative",
-        "year": 2007
-    },
-    {
-        "name": "Dr. Feelgood",
-        "artist": "Mötley Crüe",
-        "genre": "Metal",
-        "year": 1989
-    },
-    {
-        "name": "Blue Monday",
-        "artist": "New Order",
-        "genre": "New Wave",
-        "year": 1983
-    },
-    {
-        "name": "Burn It to the Ground",
-        "artist": "Nickelback",
-        "genre": "Rock",
-        "year": 2008
-    },
-    {
-        "name": "About a Girl",
-        "artist": "Nirvana",
-        "genre": "Grunge",
-        "year": 1989
-    },
-    {
-        "name": "Breed",
-        "artist": "Nirvana",
-        "genre": "Grunge",
-        "year": 1991
-    },
-    {
-        "name": "Hella Good",
-        "artist": "No Doubt",
-        "genre": "Pop-Rock",
-        "year": 1995
-    },
-    {
-        "name": "Hey Baby",
-        "artist": "No Doubt",
-        "genre": "Pop-Rock",
-        "year": 1995
-    },
-    {
-        "name": "It's My Life",
-        "artist": "No Doubt",
-        "genre": "Pop-Rock",
-        "year": 1995
-    },
-    {
-        "name": "Over the Mountain",
-        "artist": "Ozzy Osbourne",
-        "genre": "Metal",
-        "year": 1981
-    },
-    {
-        "name": "Raise Your Glass",
-        "artist": "P!nk",
-        "genre": "Pop/Rock",
-        "year": 2010
-    },
-    {
-        "name": "Who Knew",
-        "artist": "P!nk",
-        "genre": "Pop/Rock",
-        "year": 2006
-    },
-    {
-        "name": "Ignorance",
-        "artist": "Paramore",
-        "genre": "Pop-Rock",
-        "year": 2009
-    },
-    {
-        "name": "Band on the Run",
-        "artist": "Paul McCartney & Wings",
-        "genre": "Classic Rock",
-        "year": 1973
-    },
-    {
-        "name": "Maybe I'm Amazed",
-        "artist": "Paul McCartney",
-        "genre": "Classic Rock",
-        "year": 1970
-    },
-    {
-        "name": "Do You Feel Like We Do (Live)",
-        "artist": "Peter Frampton",
-        "genre": "Rock",
-        "year": 1976
-    },
-    {
-        "name": "Crazy Little Thing Called Love",
-        "artist": "Queen",
-        "genre": "Classic Rock",
-        "year": 1980
-    },
-    {
-        "name": "Radio Ga Ga",
-        "artist": "Queen",
-        "genre": "Classic Rock",
-        "year": 1984
-    },
-    {
-        "artist": "Radiohead",
-        "name": "Karma Police",
-        "year": 1997,
-        "genre": "Alternative"
-    },
-    {
-        "artist": "Ramones",
-        "name": "Pet Sematary",
-        "year": 1989,
-        "genre": "Punk"
-    },
-    {
-        "name": "Help Is on the Way",
-        "artist": "Rise Against",
-        "genre": "Punk",
-        "year": 2011
-    },
-    {
-        "name": "Prayer of the Refugee",
-        "artist": "Rise Against",
-        "genre": "Punk",
-        "year": 2006
-    },
-    {
-        "artist": "Robert Palmer",
-        "name": "Bad Case of Loving You (Doctor, Doctor)",
-        "year": 1979,
-        "genre": "Pop-Rock"
-    },
-    {
-        "name": "Ooby Dooby",
-        "artist": "Roy Orbison",
-        "genre": "Pop-Rock",
-        "year": 1987
-    },
-    {
-        "name": "You Got It",
-        "artist": "Roy Orbison",
-        "genre": "Pop-Rock",
-        "year": 1989
-    },
-    {
-        "name": "Tell Me Something Good",
-        "artist": "Rufus (ft. Chaka Khan)",
-        "genre": "R&B/Soul/Funk",
-        "year": 1974
-    },
-    {
-        "name": "Fly by Night",
-        "artist": "Rush",
-        "genre": "Progressive",
-        "year": 1975
-    },
-    {
-        "name": "All I Wanna Do",
-        "artist": "Sheryl Crow",
-        "genre": "Pop-Rock",
-        "year": 1993
-    },
-    {
-        "name": "Devour",
-        "artist": "Shinedown",
-        "genre": "Nu-Metal",
-        "year": 2008
-    },
-    {
-        "name": "Tomorrow",
-        "artist": "Silverchair",
-        "genre": "Alternative",
-        "year": 1995
-    },
-    {
-        "name": "Pretty Noose",
-        "artist": "Soundgarden",
-        "genre": "Grunge",
-        "year": 1996
-    },
-    {
-        "name": "Sex Type Thing",
-        "artist": "Stone Temple Pilots",
-        "genre": "Alternative",
-        "year": 1992
-    },
-    {
-        "name": "The Weight (Live)",
-        "artist": "The Band",
-        "genre": "Classic Rock",
-        "year": 1972
-    },
-    {
-        "name": "You Should Be Dancing",
-        "artist": "The Bee Gees",
-        "genre": "Disco/Pop",
-        "year": 1976
-    },
-    {
-        "name": "Hard to Handle",
-        "artist": "The Black Crowes (WaveGroup)",
-        "genre": "Rock",
-        "year": 1990
-    },
-    {
-        "name": "She Talks to Angels",
-        "artist": "The Black Crowes",
-        "genre": "Rock",
-        "year": 1990
-    },
-    {
-        "name": "Tighten Up",
-        "artist": "The Black Keys",
-        "genre": "Rock",
-        "year": 2010
-    },
-    {
-        "name": "My Best Friend's Girl",
-        "artist": "The Cars",
-        "genre": "New Wave",
-        "year": 1978
-    },
-    {
-        "name": "Long Train Runnin'",
-        "artist": "The Doobie Brothers",
-        "genre": "Classic Rock",
-        "year": 1973
-    },
-    {
-        "name": "Hello, I Love You",
-        "artist": "The Doors",
-        "genre": "Classic Rock",
-        "year": 1968
-    },
-    {
-        "name": "People Are Strange",
-        "artist": "The Doors",
-        "genre": "Psychedelic Rock",
-        "year": 1967
-    },
-    {
-        "name": "Touch Me",
-        "artist": "The Doors",
-        "genre": "Psychedelic Rock",
-        "year": 1969
-    },
-    {
-        "name": "Flathead",
-        "artist": "The Fratellis",
-        "genre": "Alternative",
-        "year": 2006
-    },
-    {
-        "name": "Decent Days and Nights",
-        "artist": "The Futureheads",
-        "genre": "Punk",
-        "year": 2004
-    },
-    {
-        "name": "Our Lips Are Sealed",
-        "artist": "The Go-Go's",
-        "genre": "Pop/Rock",
-        "year": 1981
-    },
-    {
-        "name": "Fire",
-        "artist": "The Jimi Hendrix Experience",
-        "genre": "Classic Rock",
-        "year": 1967
-    },
-    {
-        "name": "All I Want",
-        "artist": "The Offspring",
-        "genre": "Punk",
-        "year": 1997
-    },
-    {
-        "name": "Salute Your Solution",
-        "artist": "The Raconteurs",
-        "genre": "Rock",
-        "year": 2008
-    },
-    {
-        "name": "Zero",
-        "artist": "The Smashing Pumpkins",
-        "genre": "Alternative",
-        "year": 1995
-    },
-    {
-        "name": "I Can See for Miles",
-        "artist": "The Who",
-        "genre": "Classic Rock",
-        "year": 1967
-    },
-    {
-        "name": "Animal I Have Become",
-        "artist": "Three Days Grace",
-        "genre": "Rock",
-        "year": 2006
-    },
-    {
-        "name": "Who's Going Home with You Tonight?",
-        "artist": "Trapt",
-        "genre": "Nu-Metal",
-        "year": 2008
-    },
-    {
-        "name": "Billionaire",
-        "artist": "Travie McCoy (ft. Bruno Mars)",
-        "genre": "Hip-Hop/Rap",
-        "year": 2010
-    },
-    {
-        "artist": "Van Halen",
-        "name": "Ain't Talkin' 'Bout Love",
-        "year": 1978,
-        "genre": "Rock"
-    },
-    {
-        "artist": "Van Halen",
-        "name": "Dance the Night Away",
-        "year": 1979,
-        "genre": "Rock"
     }
 ]
