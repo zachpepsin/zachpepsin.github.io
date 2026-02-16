@@ -337,7 +337,7 @@
     },
     {
         "name": "All I Want",
-        "artist": "A Day To Remember",
+        "artist": "A Day to Remember",
         "genre": "Pop Punk",
         "year": 2010
     },
@@ -681,12 +681,6 @@
         "artist": "All Time Low",
         "name": "Some Kind of Disaster",
         "year": 2020,
-        "genre": "Emo"
-    },
-    {
-        "artist": "All-American Rejects",
-        "name": "It Ends Tonight",
-        "year": 2005,
         "genre": "Emo"
     },
     {
@@ -1524,13 +1518,13 @@
         "year": 2003
     },
     {
-        "artist": "blink-182",
+        "artist": "Blink-182",
         "name": "Anthem Part Two",
         "year": 2001,
         "genre": "Punk"
     },
     {
-        "artist": "blink-182",
+        "artist": "Blink-182",
         "name": "Bored to Death",
         "year": 2016,
         "genre": "Punk"
@@ -2566,6 +2560,12 @@
         "name": "Insane In The Brain",
         "year": 1993,
         "genre": "Hip-Hop/Rap"
+    },
+    {
+        "artist": "Daddy Yankee",
+        "name": "Gasolina",
+        "year": 2004,
+        "genre": "Pop/Dance/Electronic"
     },
     {
         "artist": "Daft Punk",
@@ -3913,12 +3913,12 @@
     },
     {
         "name": "Bad to the Bone",
-        "artist": "George Thorogood & The Destroyers",
+        "artist": "George Thorogood and the Destroyers",
         "genre": "Rock",
         "year": 1982
     },
     {
-        "artist": "George Thorogood & the Destroyers",
+        "artist": "George Thorogood and the Destroyers",
         "name": "Who Do You Love?",
         "year": 1978,
         "genre": "Classic Rock"
@@ -4849,7 +4849,7 @@
     },
     {
         "name": "Fake Friends",
-        "artist": "Joan Jett & The Blackhearts",
+        "artist": "Joan Jett & the Blackhearts",
         "genre": "Punk",
         "year": 1983
     },
@@ -4861,7 +4861,7 @@
     },
     {
         "name": "I Love Rock N' Roll",
-        "artist": "Joan Jett & The Blackhearts",
+        "artist": "Joan Jett & the Blackhearts",
         "genre": "Punk",
         "year": 1981
     },
@@ -7020,7 +7020,7 @@
         "genre": "Hip-Hop/Rap"
     },
     {
-        "artist": "OutKast",
+        "artist": "Outkast",
         "name": "Roses",
         "year": 2003,
         "genre": "Hip-Hop/Rap"
@@ -7686,6 +7686,12 @@
         "year": 1975
     },
     {
+        "name": "Make It Wit Chu",
+        "artist": "Queens of the Stone Age",
+        "genre": "Blues Rock",
+        "year": 2007
+    },
+    {
         "name": "3's & 7's",
         "artist": "Queens of the Stone Age",
         "genre": "Alternative",
@@ -7702,12 +7708,6 @@
         "artist": "Queens of the Stone Age",
         "genre": "Alternative",
         "year": 2005
-    },
-    {
-        "name": "Make It Wit Chu",
-        "artist": "Queens Of The Stone Age",
-        "genre": "Blues Rock",
-        "year": 2007
     },
     {
         "name": "No One Knows",
@@ -9454,6 +9454,12 @@
         "artist": "The All-American Rejects",
         "genre": "Emo",
         "year": 2008
+    },
+    {
+        "artist": "The All-American Rejects",
+        "name": "It Ends Tonight",
+        "year": 2005,
+        "genre": "Emo"
     },
     {
         "name": "Move Along",
