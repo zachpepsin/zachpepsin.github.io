@@ -402,6 +402,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "artist": "ABBA",
+        "genre": "Pop",
+        "year": 1979
+    },
+    {
         "artist": "ABBA",
         "name": "Mamma Mia",
         "year": 1975,
@@ -1222,6 +1228,12 @@
         "name": "Save a Horse (Ride a Cowboy)",
         "year": 2004,
         "genre": "Country"
+    },
+    {
+        "name": "Rebel Girl",
+        "artist": "Bikini Kill",
+        "genre": "Punk",
+        "year": 1993
     },
     {
         "artist": "Bill Withers",
@@ -3462,6 +3474,12 @@
         "genre": "Pop/Dance/Electronic"
     },
     {
+        "artist": "Farruko",
+        "name": "Pepas",
+        "year": 2021,
+        "genre": "Latin"
+    },
+    {
         "artist": "Fastball",
         "name": "The Way",
         "year": 1998,
@@ -3784,6 +3802,12 @@
         "artist": "Frank Turner",
         "genre": "Rock",
         "year": 2011
+    },
+    {
+        "artist": "Frankie Valli",
+        "name": "Can't Take My Eyes Off You",
+        "year": 1967,
+        "genre": "R&B/Soul/Funk"
     },
     {
         "name": "Lucid Dreams",
@@ -4978,6 +5002,12 @@
         "artist": "Joyce Manor",
         "genre": "Punk",
         "year": 2014
+    },
+    {
+        "name": "Join Us for a Bite",
+        "artist": "JT Music, Andrea Storm Kaden",
+        "year": 2016,
+        "genre": "Electropop"
     },
     {
         "name": "You've Got Another Thing Comin'",
@@ -7276,6 +7306,18 @@
         "artist": "Pearl Jam",
         "genre": "Grunge",
         "year": 2009
+    },
+    {
+        "artist": "Pennywise",
+        "name": "Bro Hymn",
+        "year": 1991,
+        "genre": "Punk"
+    },
+    {
+        "artist": "Pennywise",
+        "name": "Fuck Authority",
+        "year": 2001,
+        "genre": "Punk"
     },
     {
         "artist": "Pete Townshend",
@@ -10408,6 +10450,12 @@
         "artist": "The Offspring",
         "genre": "Punk",
         "year": 1994
+    },
+    {
+        "name": "Days Go By",
+        "artist": "The Offspring",
+        "genre": "Alternative Rock",
+        "year": 2012
     },
     {
         "name": "Gone Away",
