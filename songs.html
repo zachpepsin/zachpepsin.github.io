@@ -200,13 +200,17 @@
             const genres = new Set();
             const decades = new Set();
 
-            songs.forEach(song => {
-                if (song.Genre) genres.add(song.Genre);
-                if (song.Year) {
-                    const decade = Math.floor(song.Year / 10) * 10;
-                    decades.add(decade);
-                }
-            });
+			songs.forEach(song => {
+					if (song.Genre) genres.add(song.Genre);
+					if (song.Year) {
+						// Take only the first 4 characters to handle "1966 (August 5)"
+						const yearNum = parseInt(String(song.Year).substring(0, 4));
+						if (!isNaN(yearNum)) {
+							const decade = Math.floor(yearNum / 10) * 10;
+							decades.add(decade);
+						}
+					}
+				});
 
             // Populate Genre Checkboxes
             Array.from(genres).sort().forEach(g => {
@@ -266,8 +270,10 @@
                 // If no decades selected, allow all.
                 let matchesDecade = true;
                 if (selectedDecades.length > 0) {
-                    const songDecade = song.Year ? Math.floor(song.Year / 10) * 10 : null;
-                    matchesDecade = songDecade && selectedDecades.includes(songDecade);
+					// Parse the first 4 digits for the comparison logic
+					const yearNum = song.Year ? parseInt(String(song.Year).substring(0, 4)) : null;
+					const songDecade = yearNum ? Math.floor(yearNum / 10) * 10 : null;
+					matchesDecade = songDecade && selectedDecades.includes(songDecade)
                 }
 
                 return matchesSearch && matchesGenre && matchesDecade;
